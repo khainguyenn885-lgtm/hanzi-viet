@@ -109,8 +109,16 @@ function sendMessage(req:Request,res:Response,admin:boolean){
   if(parsed.data.type==="word_card"&&parsed.data.wordCard?.wordId&&!db.prepare("SELECT 1 FROM vocabulary WHERE id=?").get(parsed.data.wordCard.wordId))return res.status(404).json({error:"WORD_NOT_FOUND"});
   if(admin)db.prepare("INSERT OR IGNORE INTO chat_participants(conversation_id,user_id) VALUES(?,?)").run(req.params.id,userId);
   const id=randomUUID();
+const conversationId = String(req.params.id || '');
+  const messageId = String(id);
+  const senderId = String(userId || '');
+  const wordCardJson = parsed.data.wordCard ? JSON.stringify(parsed.data.wordCard) : null;
+
   db.prepare("INSERT INTO chat_messages(id,conversation_id,sender_user_id,message_type,body,word_card_json) VALUES(?,?,?,?,?,?)")
-    .run(id,req.params.id,userId,parsed.data.type,parsed.data.body,parsed.data.wordCard?JSON.stringify(parsed.data.wordCard):null);
-  db.prepare("UPDATE chat_conversations SET last_message_at=CURRENT_TIMESTAMP WHERE id=?").run(req.params.id);
-  res.status(201).json({id,created:true});
+    .run(messageId, conversationId, senderId, parsed.data.type, parsed.data.body, wordCardJson);
+
+  db.prepare("UPDATE chat_conversations SET last_message_at=CURRENT_TIMESTAMP WHERE id=?")
+    .run(conversationId);
+
+  res.status(201).json({ id, created: true });
 }
