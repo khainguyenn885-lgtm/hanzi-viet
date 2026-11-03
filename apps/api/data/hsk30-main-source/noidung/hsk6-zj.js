@@ -1,0 +1,30 @@
+window.HSK_CONTENT = window.HSK_CONTENT || [];
+HSK_CONTENT.push(`
+主演|diễn viên chính; đóng vai chính|这部电影由他主演。|Zhè bù diànyǐng yóu tā zhǔyǎn.|Bộ phim này do anh ấy đóng vai chính.|主演是一个越南演员。|Zhǔyǎn shì yí gè Yuènán yǎnyuán.|Diễn viên chính là một diễn viên Việt Nam.|谁主演这部电影？|Ai đóng chính bộ phim này?|一个有名的歌手。
+祝愿|chúc|祝愿我们合作愉快！|Zhùyuàn wǒmen hézuò yúkuài!|Chúc chúng ta hợp tác vui vẻ!|祝愿大家新年快乐。|Zhùyuàn dàjiā xīnnián kuàilè.|Chúc mọi người năm mới vui vẻ.|签完合同说什么？|Ký hợp đồng xong nói gì?|祝愿合作愉快。
+住宅|nhà ở|工厂旁边建了很多住宅。|Gōngchǎng pángbiān jiàn le hěn duō zhùzhái.|Cạnh nhà máy xây rất nhiều nhà ở.|这里是住宅区，晚上不能施工。|Zhèli shì zhùzháiqū, wǎnshang bù néng shīgōng.|Đây là khu dân cư, buổi tối không được thi công.|晚上为什么停工？|Sao buổi tối ngừng thi công?|旁边是住宅区。
+主张|chủ trương|经理主张先提高质量。|Jīnglǐ zhǔzhāng xiān tígāo zhìliàng.|Giám đốc chủ trương nâng cao chất lượng trước.|我主张大家一起讨论。|Wǒ zhǔzhāng dàjiā yìqǐ tǎolùn.|Tôi chủ trương mọi người cùng thảo luận.|经理是什么意见？|Ý kiến của giám đốc thế nào?|他主张不降价。
+著作|tác phẩm|他写了很多管理方面的著作。|Tā xiě le hěn duō guǎnlǐ fāngmiàn de zhùzuò.|Ông ấy viết nhiều tác phẩm về quản lý.|这本著作很有名。|Zhè běn zhùzuò hěn yǒumíng.|Tác phẩm này rất nổi tiếng.|他写过什么书？|Ông ấy viết sách gì?|写过几本管理著作。
+资本|tư bản, vốn|开工厂需要很多资本。|Kāi gōngchǎng xūyào hěn duō zīběn.|Mở nhà máy cần rất nhiều vốn.|技术是他最大的资本。|Jìshù shì tā zuì dà de zīběn.|Tay nghề là vốn liếng lớn nhất của anh ấy.|开厂要什么？|Mở xưởng cần gì?|资本和技术。
+自豪|tự hào|我为我们的产品感到自豪。|Wǒ wèi wǒmen de chǎnpǐn gǎndào zìháo.|Tôi tự hào về sản phẩm của chúng tôi.|父母为他感到自豪。|Fùmǔ wèi tā gǎndào zìháo.|Cha mẹ tự hào về anh ấy.|得了奖，你感觉怎么样？|Đạt giải bạn cảm thấy thế nào?|很自豪。
+自来水|nước máy|宿舍有自来水和热水。|Sùshè yǒu zìláishuǐ hé rèshuǐ.|Ký túc xá có nước máy và nước nóng.|自来水不能直接喝。|Zìláishuǐ bù néng zhíjiē hē.|Nước máy không được uống trực tiếp.|自来水能喝吗？|Nước máy uống được không?|要烧开再喝。
+自律|tự kỷ luật|他很自律，每天学一小时中文。|Tā hěn zìlǜ, měi tiān xué yì xiǎoshí Zhōngwén.|Anh ấy rất kỷ luật, mỗi ngày học một tiếng tiếng Trung.|自律的人容易成功。|Zìlǜ de rén róngyì chénggōng.|Người tự kỷ luật dễ thành công.|你怎么坚持学习的？|Bạn kiên trì học thế nào?|靠自律。
+字幕|phụ đề|看中文电影可以开字幕。|Kàn Zhōngwén diànyǐng kěyǐ kāi zìmù.|Xem phim tiếng Trung có thể bật phụ đề.|培训视频有越南语字幕。|Péixùn shìpín yǒu Yuènányǔ zìmù.|Video đào tạo có phụ đề tiếng Việt.|视频听不懂怎么办？|Video nghe không hiểu thì làm sao?|看字幕。
+自杀|tự sát|压力太大的人可能想到自杀，要多关心。|Yālì tài dà de rén kěnéng xiǎng dào zìshā, yào duō guānxīn.|Người áp lực quá lớn có thể nghĩ đến tự sát, cần quan tâm nhiều hơn.|公司设了心理热线，预防自杀。|Gōngsī shè le xīnlǐ rèxiàn, yùfáng zìshā.|Công ty lập đường dây tư vấn tâm lý để phòng ngừa tự sát.|同事情绪很低落怎么办？|Đồng nghiệp tinh thần rất sa sút thì làm sao?|多关心他，打心理热线。
+自我|bản thân|面试时先做自我介绍。|Miànshì shí xiān zuò zìwǒ jièshào.|Khi phỏng vấn tự giới thiệu bản thân trước.|要不断提高自我。|Yào búduàn tígāo zìwǒ.|Phải không ngừng nâng cao bản thân.|面试先做什么？|Phỏng vấn làm gì trước?|自我介绍。
+自言自语|nói một mình|他一边修机器一边自言自语。|Tā yìbiān xiū jīqì yìbiān zìyán-zìyǔ.|Anh ấy vừa sửa máy vừa lẩm bẩm một mình.|练口语可以自言自语。|Liàn kǒuyǔ kěyǐ zìyán-zìyǔ.|Luyện nói có thể tự nói một mình.|他在跟谁说话？|Anh ấy đang nói với ai?|没有，在自言自语。
+自愿|tự nguyện|周末加班是自愿的。|Zhōumò jiābān shì zìyuàn de.|Tăng ca cuối tuần là tự nguyện.|他自愿去新工厂工作。|Tā zìyuàn qù xīn gōngchǎng gōngzuò.|Anh ấy tự nguyện đến làm ở nhà máy mới.|一定要加班吗？|Nhất định phải tăng ca à?|不，自愿的。
+自助|tự phục vụ|食堂是自助餐。|Shítáng shì zìzhùcān.|Nhà ăn là buffet tự phục vụ.|可以在自助机上打印工资单。|Kěyǐ zài zìzhùjī shang dǎyìn gōngzīdān.|Có thể in phiếu lương ở máy tự phục vụ.|工资单在哪儿拿？|Phiếu lương lấy ở đâu?|在自助机上打印。
+总理|thủ tướng|总理参观了这家工厂。|Zǒnglǐ cānguān le zhè jiā gōngchǎng.|Thủ tướng đến thăm nhà máy này.|总理在会上讲了话。|Zǒnglǐ zài huì shang jiǎng le huà.|Thủ tướng phát biểu tại hội nghị.|谁来参观了？|Ai đến tham quan?|总理来参观了。
+棕色|màu nâu|这批纸箱是棕色的。|Zhè pī zhǐxiāng shì zōngsè de.|Lô thùng carton này màu nâu.|客户要棕色的皮包。|Kèhù yào zōngsè de píbāo.|Khách muốn túi da màu nâu.|客户要什么颜色？|Khách muốn màu gì?|棕色。
+总算|cuối cùng cũng|货总算按时发出去了。|Huò zǒngsuàn ànshí fā chūqu le.|Hàng cuối cùng cũng gửi đi đúng hạn.|总算下班了，好累。|Zǒngsuàn xiàbān le, hǎo lèi.|Cuối cùng cũng tan ca, mệt quá.|机器修好了吗？|Máy sửa xong chưa?|总算修好了。
+粽子|bánh ú (bánh tro Trung Quốc)|端午节要吃粽子。|Duānwǔ Jié yào chī zòngzi.|Tết Đoan Ngọ phải ăn bánh ú.|公司端午节给大家发粽子。|Gōngsī Duānwǔ Jié gěi dàjiā fā zòngzi.|Tết Đoan Ngọ công ty phát bánh ú cho mọi người.|端午节吃什么？|Tết Đoan Ngọ ăn gì?|吃粽子。
+足|đủ|仓库的货很足。|Cāngkù de huò hěn zú.|Hàng trong kho rất đầy đủ.|今天的产量不足一千。|Jīntiān de chǎnliàng bù zú yìqiān.|Sản lượng hôm nay chưa đủ một nghìn.|货够吗？|Hàng đủ không?|很足，放心吧。
+阻碍|cản trở|语言不通阻碍了沟通。|Yǔyán bù tōng zǔ'ài le gōutōng.|Bất đồng ngôn ngữ cản trở giao tiếp.|旧观念阻碍了发展。|Jiù guānniàn zǔ'ài le fāzhǎn.|Quan niệm cũ cản trở sự phát triển.|为什么要学中文？|Sao phải học tiếng Trung?|语言不通会阻碍工作。
+钻|khoan; chui|在这块板上钻两个孔。|Zài zhè kuài bǎn shang zuān liǎng gè kǒng.|Khoan hai lỗ trên tấm ván này.|别钻到机器下面去。|Bié zuān dào jīqì xiàmian qù.|Đừng chui xuống dưới máy.|这块板怎么加工？|Tấm ván này gia công thế nào?|钻四个孔。
+阻挡|ngăn cản|货物阻挡了安全出口。|Huòwù zǔdǎng le ānquán chūkǒu.|Hàng hóa chắn mất lối thoát hiểm.|什么都阻挡不了我们前进。|Shénme dōu zǔdǎng bu liǎo wǒmen qiánjìn.|Không gì ngăn được chúng ta tiến lên.|为什么要搬走这些箱子？|Sao phải dọn những thùng này đi?|阻挡了通道。
+祖国|tổ quốc|他在国外工作，很想念祖国。|Tā zài guówài gōngzuò, hěn xiǎngniàn zǔguó.|Anh ấy làm việc ở nước ngoài, rất nhớ tổ quốc.|我爱我的祖国。|Wǒ ài wǒ de zǔguó.|Tôi yêu tổ quốc của tôi.|你想回国吗？|Bạn có muốn về nước không?|想，很想念祖国。
+罪|tội|偷公司的东西是犯罪。|Tōu gōngsī de dōngxi shì fànzuì.|Lấy trộm đồ của công ty là phạm tội.|加班到半夜真受罪。|Jiābān dào bànyè zhēn shòuzuì.|Tăng ca đến nửa đêm thật khổ sở.|昨晚加班累吗？|Tối qua tăng ca mệt không?|真受罪，到两点。
+祖先|tổ tiên|春节要祭拜祖先。|Chūnjié yào jìbài zǔxiān.|Tết phải cúng bái tổ tiên.|这门手艺是祖先传下来的。|Zhè mén shǒuyì shì zǔxiān chuán xiàlai de.|Nghề thủ công này do tổ tiên truyền lại.|春节有什么习俗？|Tết có tập tục gì?|祭拜祖先。
+足以|đủ để|这些材料足以生产一个月。|Zhèxiē cáiliào zúyǐ shēngchǎn yí gè yuè.|Những vật liệu này đủ để sản xuất một tháng.|这些证据足以说明问题。|Zhèxiē zhèngjù zúyǐ shuōmíng wèntí.|Những bằng chứng này đủ để nói rõ vấn đề.|材料够用吗？|Vật liệu đủ dùng không?|足以用到月底。
+`);

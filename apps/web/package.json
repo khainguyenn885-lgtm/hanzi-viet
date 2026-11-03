@@ -8,6 +8,7 @@
     "test": "vitest run"
   },
   "dependencies": {
+    "firebase": "^12.4.0",
     "hanzi-writer": "^3.7.2",
     "lucide-react": "^0.468.0",
     "pinyin-pro": "^3.27.0",

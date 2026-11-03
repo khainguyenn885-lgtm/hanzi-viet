@@ -3,9 +3,13 @@ dist/
 .env
 .env.*
 !.env.example
+!**/.env.example
 apps/api/data/user.sqlite*
 apps/api/data/source/
 apps/cloud/.wrangler/
 apps/cloud/.dev.vars*
-!apps/cloud/.dev.vars.example
+serviceAccountKey.json
+service-account*.json
+*-firebase-adminsdk-*.json
+google-credentials*.json
 apps/cloud/seeds/vocabulary.generated.sql

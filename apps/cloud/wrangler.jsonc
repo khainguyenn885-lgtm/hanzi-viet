@@ -19,11 +19,6 @@
     }
   ],
   "ratelimits": [
-    { "name": "TRANSLATE_LIMIT", "namespace_id": "2026110301", "simple": { "limit": 15, "period": 60 } },
-    { "name": "REPORT_LIMIT", "namespace_id": "2026110302", "simple": { "limit": 10, "period": 60 } }
-  ],
-  "vars": {
-    "LLM_BASE_URL": "https://api.openai.com/v1",
-    "LLM_MODEL": ""
-  }
+    { "name": "FEEDBACK_LIMIT", "namespace_id": "2026110302", "simple": { "limit": 10, "period": 60 } }
+  ]
 }

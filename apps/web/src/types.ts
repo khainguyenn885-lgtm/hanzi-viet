@@ -26,5 +26,5 @@ export interface AnalyzedToken {
   matches?: WordRecord[];
 }
 
-export interface AiTokenGloss { surface: string; meaningVi: string | null; meaningEn: string | null; }
-export interface TranslationResult { translation: string; targetLanguage: "vi" | "en"; tokens: AiTokenGloss[]; label: "machine-translation"; }
+export type FeedbackCategory = "vocabulary" | "feature" | "experience" | "other";
+export interface ReviewState { wordId: string; dueAt: number; remembered: boolean; seen: number; }

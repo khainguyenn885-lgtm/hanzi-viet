@@ -1,5 +1,3 @@
-export type TargetLanguage = "vi" | "en";
-
 export interface WordRecord {
   id: string;
   source: string;
@@ -17,19 +15,4 @@ export interface WordRecord {
   exampleVietnamese: string;
   sourceAttribution: string;
   translationStatus: string;
-}
-
-export interface TokenInput { surface: string; pinyin: string; }
-
-export interface AiTokenGloss {
-  surface: string;
-  meaningVi: string | null;
-  meaningEn: string | null;
-}
-
-export interface TranslationResult {
-  translation: string;
-  targetLanguage: TargetLanguage;
-  tokens: AiTokenGloss[];
-  label: "machine-translation";
 }

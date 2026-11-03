@@ -4,17 +4,19 @@
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/server.ts",
-    "build": "tsc -p tsconfig.json",
+    "build": "node scripts/clean-dist.js && tsc -p tsconfig.json",
     "start": "node dist/server.js",
     "test": "vitest run",
     "download:hsk": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/download-hsk.ps1",
     "import:hsk": "tsx scripts/import-hsk.ts",
     "import:hsk30-master": "tsx scripts/import-hsk30-master.ts",
+    "import:hsk30-main": "tsx scripts/import-hsk30-main.ts",
     "prepare:strokes": "tsx scripts/prepare-strokes.ts"
   },
   "dependencies": {
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
+    "firebase-admin": "^13.5.0",
     "hanzi-writer-data": "^2.0.1",
     "pinyin-pro": "^3.27.0",
     "zod": "^4.1.12"

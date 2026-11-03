@@ -4,30 +4,34 @@ export interface SegmentedToken { surface: string; pinyin: string; isChinese: bo
 
 export function segmentChineseText(text: string, dictionary: readonly string[] = []): SegmentedToken[] {
   if (!text.trim()) return [];
-  const tokens = segment(text).map(({ origin, result }) => {
+  if (dictionary.length) return forwardMaximumMatch(text, dictionary);
+  return segment(text).map(({ origin, result }) => {
     const isChinese = /\p{Script=Han}/u.test(origin);
     return { surface: origin, pinyin: isChinese ? result : "", isChinese, needsReview: isChinese };
   });
-  if (!dictionary.length) return tokens;
+}
 
+function forwardMaximumMatch(text: string, dictionary: readonly string[]): SegmentedToken[] {
   const knownWords = new Set(dictionary);
   const maxWordLength = Math.max(1, ...dictionary.map(word => [...word].length));
+  const chars = [...text];
   const merged: SegmentedToken[] = [];
-  for (let i = 0; i < tokens.length;) {
-    const first = tokens[i];
-    if (!first.isChinese) { merged.push(first); i++; continue; }
-    let combined = "";
-    let bestSurface = "";
-    let bestEnd = i;
-    for (let j = i; j < tokens.length; j++) {
-      if (!tokens[j].isChinese || [...combined].length + [...tokens[j].surface].length > maxWordLength) break;
-      combined += tokens[j].surface;
-      if (knownWords.has(combined)) { bestSurface = combined; bestEnd = j + 1; }
+  for (let i = 0; i < chars.length;) {
+    if (!/\p{Script=Han}/u.test(chars[i])) {
+      let surface = chars[i++];
+      while (i < chars.length && !/\p{Script=Han}/u.test(chars[i])) surface += chars[i++];
+      merged.push({ surface, pinyin: "", isChinese: false, needsReview: false });
+      continue;
     }
-    if (bestSurface) {
-      merged.push({ surface: bestSurface, pinyin: "", isChinese: true, needsReview: true });
-      i = bestEnd;
-    } else { merged.push(first); i++; }
+    let best = "";
+    const end = Math.min(chars.length, i + maxWordLength);
+    for (let j = end; j > i; j--) {
+      const candidate = chars.slice(i, j).join("");
+      if ([...candidate].every(char => /\p{Script=Han}/u.test(char)) && knownWords.has(candidate)) { best = candidate; break; }
+    }
+    const surface = best || chars[i];
+    merged.push({ surface, pinyin: "", isChinese: true, needsReview: true });
+    i += [...surface].length;
   }
   return merged;
 }

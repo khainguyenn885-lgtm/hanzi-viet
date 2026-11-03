@@ -19,6 +19,7 @@
     "download:hsk": "pnpm --filter @hanzi/api download:hsk",
     "import:hsk": "pnpm --filter @hanzi/api import:hsk",
     "import:hsk30-master": "pnpm --filter @hanzi/api import:hsk30-master",
+    "import:hsk30-main": "pnpm --filter @hanzi/api import:hsk30-main",
     "prepare:strokes": "pnpm --filter @hanzi/api prepare:strokes"
   },
   "devDependencies": {

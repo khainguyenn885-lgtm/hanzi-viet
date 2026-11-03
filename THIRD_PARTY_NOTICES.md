@@ -17,6 +17,12 @@
 - The upstream LICENSE is MIT and is retained. Its README says the data is derived from other MIT-licensed repositories and government syllabi, while expressly questioning the status of data copyright. Treat this attribution as source documentation, not a legal determination that every underlying record is unrestricted.
 - This file has no English/Vietnamese definitions or usage examples for most entries; the app leaves those fields blank rather than inventing them. Levels 7–9 are grouped as “HSK 7–9” because the source does not subdivide them.
 
+## User-supplied hsk30-main dictionary enrichment
+
+- Static files from `hsk30-main.zip` provide 2025 HSK 1–6/7–9 vocabulary rows, Vietnamese glosses, examples, English fallbacks and supplemental terms. The application parses data literals only and does not execute the archive's application scripts.
+- The archive did not include a separate license for its Vietnamese glosses, examples or compilation. The supplied data remains user-provided and per-entry attributed, but public redistribution rights for those fields are unverified; confirm permission before publishing the merged vocabulary. Its English fallback is attributed by its own documentation to CC-CEDICT.
+- The `HSK-3.0-explorer-main.zip` sample application/data was not copied into the product. It contains only a small sample vocabulary and includes external translation integrations, so it is not a source for this offline lookup engine.
+
 ## Hanzi Writer
 
 - Code: Hanzi Writer by David Chanin and contributors, MIT License, https://github.com/chanind/hanzi-writer.
@@ -24,7 +30,7 @@
 
 ## Pinyin Pro
 
-- `pinyin-pro`, MIT License, https://github.com/zh-lx/pinyin-pro. Used for local Chinese word segmentation and contextual Pinyin generation. Its output is treated as a candidate and may be flagged for review; the app does not claim perfect polyphonic disambiguation.
+- `pinyin-pro`, MIT License, https://github.com/zh-lx/pinyin-pro. Used for local Chinese word segmentation. Unknown/ambiguous readings are not presented as verified dictionary readings.
 
 ## React, TypeScript, Vite, Tailwind CSS, Express, Vitest
 
