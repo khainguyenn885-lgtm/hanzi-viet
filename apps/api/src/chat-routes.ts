@@ -86,39 +86,91 @@ function listOneConversation(id:string,userId:string){
     LEFT JOIN users peer ON peer.id=(SELECT user_id FROM chat_participants WHERE conversation_id=c.id AND user_id<>? LIMIT 1)
     WHERE c.id=?`).get(userId,userId,id);
 }
-function allowed(conversationId:string,userId:string,admin:boolean){
-  return db.prepare(`SELECT c.kind,c.support_user_id AS supportUserId FROM chat_conversations c
-    WHERE c.id=? AND (?=1 AND c.kind='support' OR EXISTS(SELECT 1 FROM chat_participants p WHERE p.conversation_id=c.id AND p.user_id=?))`)
-    .get(conversationId,admin?1:0,userId) as {kind:string;supportUserId:string|null}|undefined;
+function allowed(conversationId: string, userId: string, admin: boolean) {
+  const safeConvId = String(conversationId || '');
+  const safeUserId = String(userId || '');
+  return db
+    .prepare(
+      `SELECT c.kind,c.support_user_id AS supportUserId FROM chat_conversations c
+    WHERE c.id=? AND (?=1 AND c.kind='support' OR EXISTS(SELECT 1 FROM chat_participants p WHERE p.conversation_id=c.id AND p.user_id=?))`
+    )
+    .get(safeConvId, admin ? 1 : 0, safeUserId) as
+    | { kind: string; supportUserId: string | null }
+    | undefined;
 }
-function messages(req:Request,res:Response,admin:boolean){
-  const userId=me(req);const conversation=allowed(req.params.id,userId,admin);
-  if(!conversation)return res.status(404).json({error:"CONVERSATION_NOT_FOUND"});
-  const after=String(req.query.after??"").slice(0,80);
-  const rows=db.prepare(`SELECT m.id,m.message_type AS type,m.body,m.word_card_json AS wordCardJson,m.created_at AS createdAt,
+
+function messages(req: Request, res: Response, admin: boolean) {
+  const convId = String(req.params.id || '');
+  const userId = String(me(req) || '');
+  const conversation = allowed(convId, userId, admin);
+  if (!conversation) return res.status(404).json({ error: "CONVERSATION_NOT_FOUND" });
+  
+  const after = String(req.query.after ?? "").slice(0, 80);
+  const rows = db
+    .prepare(
+      `SELECT m.id,m.message_type AS type,m.body,m.word_card_json AS wordCardJson,m.created_at AS createdAt,
     u.id AS senderId,u.display_name AS senderName,u.username AS senderUsername FROM chat_messages m JOIN users u ON u.id=m.sender_user_id
     WHERE m.conversation_id=? AND (?='' OR (m.created_at,m.id)>(SELECT created_at,id FROM chat_messages WHERE id=? AND conversation_id=?))
-    ORDER BY m.created_at,m.id LIMIT 200`).all(req.params.id,after,after,req.params.id) as Array<Record<string,unknown>&{wordCardJson:string|null}>;
-  res.json({messages:rows.map(row=>({...row,wordCard:row.wordCardJson?JSON.parse(row.wordCardJson):null,wordCardJson:undefined}))});
+    ORDER BY m.created_at,m.id LIMIT 200`
+    )
+    .all(convId, after, after, convId) as Array<Record<string, unknown> & { wordCardJson: string | null }>;
+    
+  res.json({
+    messages: rows.map(row => ({
+      ...row,
+      wordCard: row.wordCardJson ? JSON.parse(row.wordCardJson) : null,
+      wordCardJson: undefined,
+    })),
+  });
 }
-function sendMessage(req:Request,res:Response,admin:boolean){
-  const parsed=z.object({type:z.enum(["text","word_card"]).default("text"),body:z.string().trim().max(1500).default(""),wordCard:z.object({wordId:z.string().max(200).optional(),hanzi:z.string().min(1).max(40),pinyin:z.string().max(120).default(""),meaningVi:z.string().max(400).default(""),meaningEn:z.string().max(400).default("")}).optional()}).safeParse(req.body);
-  if(!parsed.success||parsed.data.type==="text"&&!parsed.data.body||parsed.data.type==="word_card"&&!parsed.data.wordCard)return res.status(400).json({error:"INVALID_MESSAGE"});
-  const userId=me(req);const conversation=allowed(req.params.id,userId,admin);
-  if(!conversation)return res.status(404).json({error:"CONVERSATION_NOT_FOUND"});
-  if(parsed.data.type==="word_card"&&parsed.data.wordCard?.wordId&&!db.prepare("SELECT 1 FROM vocabulary WHERE id=?").get(parsed.data.wordCard.wordId))return res.status(404).json({error:"WORD_NOT_FOUND"});
-  if(admin)db.prepare("INSERT OR IGNORE INTO chat_participants(conversation_id,user_id) VALUES(?,?)").run(req.params.id,userId);
-  const id=randomUUID();
-const conversationId = String(req.params.id || '');
-  const messageId = String(id);
-  const senderId = String(userId || '');
+
+function sendMessage(req: Request, res: Response, admin: boolean) {
+  const parsed = z
+    .object({
+      type: z.enum(["text", "word_card"]).default("text"),
+      body: z.string().trim().max(1500).default(""),
+      wordCard: z
+        .object({
+          wordId: z.string().max(200).optional(),
+          hanzi: z.string().min(1).max(40),
+          pinyin: z.string().max(120).default(""),
+          meaningVi: z.string().max(400).default(""),
+          meaningEn: z.string().max(400).default(""),
+        })
+        .optional(),
+    })
+    .safeParse(req.body);
+
+  if (
+    !parsed.success ||
+    (parsed.data.type === "text" && !parsed.data.body) ||
+    (parsed.data.type === "word_card" && !parsed.data.wordCard)
+  )
+    return res.status(400).json({ error: "INVALID_MESSAGE" });
+
+  const convId = String(req.params.id || '');
+  const userId = String(me(req) || '');
+  const conversation = allowed(convId, userId, admin);
+  if (!conversation) return res.status(404).json({ error: "CONVERSATION_NOT_FOUND" });
+
+  if (
+    parsed.data.type === "word_card" &&
+    parsed.data.wordCard?.wordId &&
+    !db.prepare("SELECT 1 FROM vocabulary WHERE id=?").get(String(parsed.data.wordCard.wordId))
+  )
+    return res.status(404).json({ error: "WORD_NOT_FOUND" });
+
+  if (admin)
+    db.prepare("INSERT OR IGNORE INTO chat_participants(conversation_id,user_id) VALUES(?,?)").run(convId, userId);
+
+  const messageId = String(randomUUID());
   const wordCardJson = parsed.data.wordCard ? JSON.stringify(parsed.data.wordCard) : null;
 
-  db.prepare("INSERT INTO chat_messages(id,conversation_id,sender_user_id,message_type,body,word_card_json) VALUES(?,?,?,?,?,?)")
-    .run(messageId, conversationId, senderId, parsed.data.type, parsed.data.body, wordCardJson);
+  db.prepare(
+    "INSERT INTO chat_messages(id,conversation_id,sender_user_id,message_type,body,word_card_json) VALUES(?,?,?,?,?,?)"
+  ).run(messageId, convId, userId, parsed.data.type, parsed.data.body, wordCardJson);
 
-  db.prepare("UPDATE chat_conversations SET last_message_at=CURRENT_TIMESTAMP WHERE id=?")
-    .run(conversationId);
+  db.prepare("UPDATE chat_conversations SET last_message_at=CURRENT_TIMESTAMP WHERE id=?").run(convId);
 
-  res.status(201).json({ id, created: true });
+  res.status(201).json({ id: messageId, created: true });
 }
