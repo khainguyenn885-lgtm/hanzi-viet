@@ -1,0 +1,28 @@
+{
+  "name": "hanzi-viet-local",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {
+    "dev": "concurrently -k -n api,web -c cyan,green \"pnpm --filter @hanzi/api dev\" \"pnpm --filter @hanzi/web dev\"",
+    "cloud:dev": "pnpm cloud:seed:generate && pnpm --filter @hanzi/web build && pnpm --filter @hanzi/cloud dev",
+    "cloud:build": "pnpm cloud:seed:generate && pnpm --filter @hanzi/web build && pnpm --filter @hanzi/cloud exec wrangler deploy --dry-run",
+    "cloud:deploy": "pnpm cloud:seed:generate && pnpm --filter @hanzi/web build && pnpm --filter @hanzi/cloud deploy",
+    "cloud:db:create": "pnpm --filter @hanzi/cloud db:create",
+    "cloud:migrate:local": "pnpm --filter @hanzi/cloud migrate:local",
+    "cloud:migrate:remote": "pnpm --filter @hanzi/cloud migrate:remote",
+    "cloud:seed:generate": "pnpm --filter @hanzi/cloud seed:generate",
+    "cloud:seed:local": "pnpm --filter @hanzi/cloud seed:local",
+    "cloud:seed:remote": "pnpm --filter @hanzi/cloud seed:remote",
+    "build": "pnpm --filter @hanzi/web build && pnpm --filter @hanzi/api build",
+    "test": "pnpm --filter @hanzi/api test && pnpm --filter @hanzi/web test",
+    "download:hsk": "pnpm --filter @hanzi/api download:hsk",
+    "import:hsk": "pnpm --filter @hanzi/api import:hsk",
+    "import:hsk30-master": "pnpm --filter @hanzi/api import:hsk30-master",
+    "prepare:strokes": "pnpm --filter @hanzi/api prepare:strokes"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "typescript": "^5.9.3"
+  }
+}

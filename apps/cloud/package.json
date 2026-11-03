@@ -1,0 +1,27 @@
+{
+  "name": "@hanzi/cloud",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev --port 8788",
+    "deploy": "wrangler deploy",
+    "db:create": "wrangler d1 create hoc-tieng-trung-cung-khai --update-config",
+    "migrate:local": "wrangler d1 migrations apply hoc-tieng-trung-cung-khai --local",
+    "migrate:remote": "wrangler d1 migrations apply hoc-tieng-trung-cung-khai --remote",
+    "seed:generate": "tsx scripts/generate-d1-seed.ts",
+    "seed:local": "wrangler d1 execute hoc-tieng-trung-cung-khai --local --file=seeds/vocabulary.generated.sql",
+    "seed:remote": "wrangler d1 execute hoc-tieng-trung-cung-khai --remote --file=seeds/vocabulary.generated.sql",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "pinyin-pro": "^3.27.0",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "^24.7.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.4",
+    "wrangler": "^4.36.0"
+  }
+}

@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+apps/api/data/user.sqlite*
+apps/api/data/source/
+apps/cloud/.wrangler/
+apps/cloud/.dev.vars*
+!apps/cloud/.dev.vars.example
+apps/cloud/seeds/vocabulary.generated.sql
