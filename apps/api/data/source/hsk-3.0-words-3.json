@@ -1,0 +1,5032 @@
+{
+  "name": "HSK 3 word list",
+  "language": "English",
+  "languageCode": "en",
+  "source": "The official HSK 3.0 考试大纲, published November 2025.",
+  "compiledBy": "Gushi — https://gushichinese.com/",
+  "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "HSK 3 word list by Gushi (https://gushichinese.com/hsk-3.0/words/3), CC BY-SA 4.0",
+  "page": "https://gushichinese.com/hsk-3.0/words/3",
+  "sources": {
+    "lists": "The word, character and grammar lists: the official HSK 3.0 考试大纲, published November 2025. Facts out of a published document.",
+    "meanings": "The English meanings: adapted from CC-CEDICT (https://www.mdbg.net/chinese/dictionary?page=cc-cedict), CC BY-SA 4.0. This is why this data is share-alike.",
+    "examples": "The example sentences: largely from the Tatoeba Project (https://tatoeba.org), CC BY 2.0 FR, plus sentences written for Gushi.",
+    "compilation": "The selection, the pinyin, the tone numbers, the sense ordering and the checking: Gushi."
+  },
+  "updated": "2026-11-03",
+  "kind": "words",
+  "level": 3,
+  "count": 500,
+  "fields": {
+    "level": "HSK 3.0 level, 1 to 9.",
+    "hanzi": "The word or character in simplified Chinese.",
+    "pinyin": "Pinyin with tone marks.",
+    "tones": "Tone number per syllable, space separated. 5 is the neutral tone.",
+    "meaning": "Meaning, in the language named by the file's `language` field. Several senses are separated by a semicolon.",
+    "exampleChinese": "Example sentence in simplified Chinese.",
+    "examplePinyin": "The example sentence in pinyin.",
+    "exampleEnglish": "The example sentence, in the language named by the file's `language` field."
+  },
+  "data": [
+    {
+      "level": 3,
+      "hanzi": "矮",
+      "pinyin": "ǎi",
+      "tones": "3",
+      "meaning": "short (not tall); low",
+      "exampleChinese": "他长得很矮。",
+      "examplePinyin": "Tā zhǎng de hěn ǎi.",
+      "exampleEnglish": "He is short."
+    },
+    {
+      "level": 3,
+      "hanzi": "爱人",
+      "pinyin": "àiren",
+      "tones": "4 5",
+      "meaning": "spouse (PRC); lover (non-PRC)",
+      "exampleChinese": "这是我爱人做的菜。",
+      "examplePinyin": "Zhè shì wǒ àiren zuò de cài.",
+      "exampleEnglish": "This dish was made by my spouse."
+    },
+    {
+      "level": 3,
+      "hanzi": "安静",
+      "pinyin": "ānjìng",
+      "tones": "1 4",
+      "meaning": "quiet; peaceful; calm",
+      "exampleChinese": "她很安静。",
+      "examplePinyin": "Tā hěn ānjìng.",
+      "exampleEnglish": "She is quiet."
+    },
+    {
+      "level": 3,
+      "hanzi": "安全",
+      "pinyin": "ānquán",
+      "tones": "1 2",
+      "meaning": "safe; safety; secure",
+      "exampleChinese": "这不安全。",
+      "examplePinyin": "Zhè bù ānquán.",
+      "exampleEnglish": "This isn't safe."
+    },
+    {
+      "level": 3,
+      "hanzi": "阿姨",
+      "pinyin": "āyí",
+      "tones": "1 2",
+      "meaning": "auntie; step-mother; mother's younger sister",
+      "exampleChinese": "他呆在他阿姨家。",
+      "examplePinyin": "Tā dāi zài tā āyí jiā.",
+      "exampleEnglish": "He's staying at his aunt's."
+    },
+    {
+      "level": 3,
+      "hanzi": "把",
+      "pinyin": "bǎ",
+      "tones": "3",
+      "meaning": "grasp, to hold, handle, m.(for things with handles)",
+      "exampleChinese": "请把纸杯丢进去。",
+      "examplePinyin": "Qǐng bǎ zhǐbēi diū jìnqu.",
+      "exampleEnglish": "Please throw the paper cup in."
+    },
+    {
+      "level": 3,
+      "hanzi": "办",
+      "pinyin": "bàn",
+      "tones": "4",
+      "meaning": "to take care of (a matter); to deal with (a task, procedure etc); to organize (an event)",
+      "exampleChinese": "这个办法收效很大。",
+      "examplePinyin": "Zhège bànfǎ shōuxiào hěn dà.",
+      "exampleEnglish": "This method has brought big results."
+    },
+    {
+      "level": 3,
+      "hanzi": "搬",
+      "pinyin": "bān",
+      "tones": "1",
+      "meaning": "to move; to transport",
+      "exampleChinese": "我想搬到校外住。",
+      "examplePinyin": "Wǒ xiǎng bān dào xiàowài zhù.",
+      "exampleEnglish": "I want to move off campus."
+    },
+    {
+      "level": 3,
+      "hanzi": "办法",
+      "pinyin": "bànfǎ",
+      "tones": "4 3",
+      "meaning": "method; way (of doing something)",
+      "exampleChinese": "没办法。",
+      "examplePinyin": "Méi bànfǎ.",
+      "exampleEnglish": "There's nothing that can be done."
+    },
+    {
+      "level": 3,
+      "hanzi": "办公室",
+      "pinyin": "bàngōngshì",
+      "tones": "4 1 4",
+      "meaning": "office",
+      "exampleChinese": "他急忙出了办公室。",
+      "examplePinyin": "Tā jímáng chū le bàngōngshì.",
+      "exampleEnglish": "He rushed out of the office."
+    },
+    {
+      "level": 3,
+      "hanzi": "帮助",
+      "pinyin": "bāngzhù",
+      "tones": "1 4",
+      "meaning": "help; assist; aid",
+      "exampleChinese": "我需要帮助。",
+      "examplePinyin": "Wǒ xūyào bāngzhù.",
+      "exampleEnglish": "I need help."
+    },
+    {
+      "level": 3,
+      "hanzi": "班级",
+      "pinyin": "bānjí",
+      "tones": "1 2",
+      "meaning": "class (group of students); grade (in school)",
+      "exampleChinese": "新的班级怎么样？",
+      "examplePinyin": "Xīn de bānjí zěnmeyàng?",
+      "exampleEnglish": "How is your new class?"
+    },
+    {
+      "level": 3,
+      "hanzi": "搬家",
+      "pinyin": "bānjiā",
+      "tones": "1 1",
+      "meaning": "to move house; to relocate; to remove (sth)",
+      "exampleChinese": "我下个月要搬家了。",
+      "examplePinyin": "Wǒ xiàgèyuè yào bānjiā le.",
+      "exampleEnglish": "I'm moving next month."
+    },
+    {
+      "level": 3,
+      "hanzi": "半天",
+      "pinyin": "bàntiān",
+      "tones": "4 1",
+      "meaning": "half of the day; a long time; quite a while",
+      "exampleChinese": "我等了你半天了！",
+      "examplePinyin": "Wǒ děng le nǐ bàntiān le!",
+      "exampleEnglish": "I have been waiting for you for ages!"
+    },
+    {
+      "level": 3,
+      "hanzi": "饱",
+      "pinyin": "bǎo",
+      "tones": "3",
+      "meaning": "eat until full; satisfied",
+      "exampleChinese": "这家餐厅是吃到饱的。",
+      "examplePinyin": "Zhè jiā cāntīng shì chī dào bǎo de.",
+      "exampleEnglish": "This restaurant is all you can eat."
+    },
+    {
+      "level": 3,
+      "hanzi": "报纸",
+      "pinyin": "bàozhǐ",
+      "tones": "4 3",
+      "meaning": "newspaper",
+      "exampleChinese": "报纸报导了这件事。",
+      "examplePinyin": "Bàozhǐ bàodǎo le zhè jiàn shì.",
+      "exampleEnglish": "The newspaper reported this."
+    },
+    {
+      "level": 3,
+      "hanzi": "被",
+      "pinyin": "bèi",
+      "tones": "4",
+      "meaning": "by (indicates passive voice sentences); a quilt/blanket",
+      "exampleChinese": "别被广告洗脑了。",
+      "examplePinyin": "Bié bèi guǎnggào xǐnǎo le.",
+      "exampleEnglish": "Don't let ads brainwash you."
+    },
+    {
+      "level": 3,
+      "hanzi": "北",
+      "pinyin": "běi",
+      "tones": "3",
+      "meaning": "north; (classical) to be defeated",
+      "exampleChinese": "北欧的冬天很冷。",
+      "examplePinyin": "Běi’ōu de dōngtiān hěn lěng.",
+      "exampleEnglish": "Winters in Northern Europe are very cold."
+    },
+    {
+      "level": 3,
+      "hanzi": "北方",
+      "pinyin": "běifāng",
+      "tones": "3 1",
+      "meaning": "north; the northern part of the country",
+      "exampleChinese": "明天北方有降雪。",
+      "examplePinyin": "Míngtiān běifāng yǒu jiàngxuě.",
+      "exampleEnglish": "There will be snowfall in the north tomorrow."
+    },
+    {
+      "level": 3,
+      "hanzi": "遍",
+      "pinyin": "biàn",
+      "tones": "4",
+      "meaning": "a time; everywhere; turn",
+      "exampleChinese": "春天，满山遍野都是花。",
+      "examplePinyin": "Chūntiān, mǎnshān-biànyě dōu shì huā.",
+      "exampleEnglish": "In spring, there are flowers all over the hills."
+    },
+    {
+      "level": 3,
+      "hanzi": "变",
+      "pinyin": "biàn",
+      "tones": "4",
+      "meaning": "to change; to become different; to transform",
+      "exampleChinese": "天气日渐变冷。",
+      "examplePinyin": "Tiānqì rìjiàn biàn lěng.",
+      "exampleEnglish": "The weather is getting colder day by day."
+    },
+    {
+      "level": 3,
+      "hanzi": "变成",
+      "pinyin": "biànchéng",
+      "tones": "4 2",
+      "meaning": "to change into; to turn into; to become",
+      "exampleChinese": "我从没想过它会变成这样。",
+      "examplePinyin": "Wǒ cóngméi xiǎngguò tā huì biànchéng zhèyàng.",
+      "exampleEnglish": "I never thought it would come to this."
+    },
+    {
+      "level": 3,
+      "hanzi": "变化",
+      "pinyin": "biànhuà",
+      "tones": "4 4",
+      "meaning": "change; vary",
+      "exampleChinese": "山里的天气变化多端。",
+      "examplePinyin": "Shān li de tiānqì biànhuà-duōduān.",
+      "exampleEnglish": "Weather in the mountains is always changing."
+    },
+    {
+      "level": 3,
+      "hanzi": "表演",
+      "pinyin": "biǎoyǎn",
+      "tones": "3 3",
+      "meaning": "perform; to play",
+      "exampleChinese": "学生们表演哈姆雷特。",
+      "examplePinyin": "Xuésheng men biǎoyǎn hāmǔléitè.",
+      "exampleEnglish": "The students performed Hamlet."
+    },
+    {
+      "level": 3,
+      "hanzi": "别的",
+      "pinyin": "biéde",
+      "tones": "2 5",
+      "meaning": "else; other",
+      "exampleChinese": "还有别的吗？",
+      "examplePinyin": "Háiyǒu biéde ma?",
+      "exampleEnglish": "Anything else?"
+    },
+    {
+      "level": 3,
+      "hanzi": "别人",
+      "pinyin": "biéren",
+      "tones": "2 5",
+      "meaning": "others; other people; another person",
+      "exampleChinese": "他叫我对别人好一点。",
+      "examplePinyin": "Tā jiào wǒ duì biérén hǎo yìdiǎn.",
+      "exampleEnglish": "He told me to be kind to others."
+    },
+    {
+      "level": 3,
+      "hanzi": "笔记",
+      "pinyin": "bǐjì",
+      "tones": "3 4",
+      "meaning": "to take down (in writing); notes; a type of literature consisting mainly of short sketches",
+      "exampleChinese": "我看了自己的笔记。",
+      "examplePinyin": "Wǒ kàn le zìjǐ de bǐjì.",
+      "exampleEnglish": "I looked at my notes."
+    },
+    {
+      "level": 3,
+      "hanzi": "比较",
+      "pinyin": "bǐjiào",
+      "tones": "3 4",
+      "meaning": "compare; contrast; relatively",
+      "exampleChinese": "这么买比较合算。",
+      "examplePinyin": "Zhème mǎi bǐjiào hésuàn.",
+      "exampleEnglish": "Buying it this way is a better deal."
+    },
+    {
+      "level": 3,
+      "hanzi": "笔记本",
+      "pinyin": "bǐjìběn",
+      "tones": "3 4 3",
+      "meaning": "notebook",
+      "exampleChinese": "我买了很多笔记本。",
+      "examplePinyin": "Wǒ mǎi le hěnduō bǐjìběn.",
+      "exampleEnglish": "I bought many notebooks."
+    },
+    {
+      "level": 3,
+      "hanzi": "冰",
+      "pinyin": "bīng",
+      "tones": "1",
+      "meaning": "ice; to chill sth; (of an object or substance) to feel cold",
+      "exampleChinese": "夏天我常吃冰淇淋。",
+      "examplePinyin": "Xiàtiān wǒ cháng chī bīngqílín.",
+      "exampleEnglish": "I often eat ice cream in summer."
+    },
+    {
+      "level": 3,
+      "hanzi": "冰激凌",
+      "pinyin": "bīngjīlíng",
+      "tones": "1 1 2",
+      "meaning": "ice cream",
+      "exampleChinese": "我们没有冰激凌。",
+      "examplePinyin": "Wǒmen méiyǒu bīngjīlíng.",
+      "exampleEnglish": "We don't have any ice."
+    },
+    {
+      "level": 3,
+      "hanzi": "病人",
+      "pinyin": "bìngrén",
+      "tones": "4 2",
+      "meaning": "sick person; patient; invalid",
+      "exampleChinese": "医生给他的病人开了一些药。",
+      "examplePinyin": "Yīshēng gěi tā de bìngrén kāi le yīxiē yào.",
+      "exampleEnglish": "The physician prescribed his patient some medicine."
+    },
+    {
+      "level": 3,
+      "hanzi": "宾馆",
+      "pinyin": "bīnguǎn",
+      "tones": "1 3",
+      "meaning": "guesthouse; hotel",
+      "exampleChinese": "请帮我叫宾馆保安。",
+      "examplePinyin": "Qǐng bāng wǒ jiào bīnguǎn bǎoān.",
+      "exampleEnglish": "Please get me hotel security."
+    },
+    {
+      "level": 3,
+      "hanzi": "冰箱",
+      "pinyin": "bīngxiāng",
+      "tones": "1 1",
+      "meaning": "refrigerator; freezer",
+      "exampleChinese": "冰箱空了。",
+      "examplePinyin": "Bīngxiāng kōng le.",
+      "exampleEnglish": "The fridge is empty."
+    },
+    {
+      "level": 3,
+      "hanzi": "比如",
+      "pinyin": "bǐrú",
+      "tones": "3 2",
+      "meaning": "for example; for instance; such as",
+      "exampleChinese": "我喜欢运动，比如跑步和游泳。",
+      "examplePinyin": "Wǒ xǐhuan yùndòng, bǐrú pǎobù hé yóuyǒng.",
+      "exampleEnglish": "I like sports, for example running and swimming."
+    },
+    {
+      "level": 3,
+      "hanzi": "比赛",
+      "pinyin": "bǐsài",
+      "tones": "3 4",
+      "meaning": "match; competition",
+      "exampleChinese": "比赛中他从不示弱。",
+      "examplePinyin": "Bǐsài zhōng tā cóng bú shìruò.",
+      "exampleEnglish": "In a match he never shows weakness."
+    },
+    {
+      "level": 3,
+      "hanzi": "必须",
+      "pinyin": "bìxū",
+      "tones": "4 1",
+      "meaning": "must; have to",
+      "exampleChinese": "必须的！",
+      "examplePinyin": "Bìxū de!",
+      "exampleEnglish": "Definitely!"
+    },
+    {
+      "level": 3,
+      "hanzi": "不但",
+      "pinyin": "búdàn",
+      "tones": "2 4",
+      "meaning": "not only",
+      "exampleChinese": "他不但聪明还很勤奋。",
+      "examplePinyin": "Tā búdàn cōngmíng hái hěn qínfèn.",
+      "exampleEnglish": "He is not only smart but also industrious."
+    },
+    {
+      "level": 3,
+      "hanzi": "不见",
+      "pinyin": "bújiàn",
+      "tones": "2 4",
+      "meaning": "not to see; not to meet; to have disappeared",
+      "exampleChinese": "它不见了。",
+      "examplePinyin": "Tā bújiàn le.",
+      "exampleEnglish": "It disappeared."
+    },
+    {
+      "level": 3,
+      "hanzi": "不久",
+      "pinyin": "bùjiǔ",
+      "tones": "4 3",
+      "meaning": "not long (after); before too long; soon",
+      "exampleChinese": "可能不久会见你",
+      "examplePinyin": "Kěnéng bùjiǔ huìjiàn nǐ",
+      "exampleEnglish": "Maybe I'll see you later."
+    },
+    {
+      "level": 3,
+      "hanzi": "不同",
+      "pinyin": "bùtóng",
+      "tones": "4 2",
+      "meaning": "different; distinct; not the same",
+      "exampleChinese": "你不同意吗？",
+      "examplePinyin": "Nǐ bù tóngyì ma?",
+      "exampleEnglish": "Don't you agree?"
+    },
+    {
+      "level": 3,
+      "hanzi": "不行",
+      "pinyin": "bùxíng",
+      "tones": "4 2",
+      "meaning": "won't do; be out of the question; be no good",
+      "exampleChinese": "那天我不行。",
+      "examplePinyin": "Nàtiān wǒ bùxíng.",
+      "exampleEnglish": "That's a bad day for me."
+    },
+    {
+      "level": 3,
+      "hanzi": "不用",
+      "pinyin": "búyòng",
+      "tones": "2 4",
+      "meaning": "need not",
+      "exampleChinese": "你不用工作吗",
+      "examplePinyin": "Nǐ búyòng gōngzuò ma",
+      "exampleEnglish": "Don't you have to work?"
+    },
+    {
+      "level": 3,
+      "hanzi": "才",
+      "pinyin": "cái",
+      "tones": "2",
+      "meaning": "ability; talent; just now",
+      "exampleChinese": "他夜里十二点才睡觉。",
+      "examplePinyin": "Tā yèli shí’èr diǎn cái shuìjiào.",
+      "exampleEnglish": "He doesn't go to bed until midnight."
+    },
+    {
+      "level": 3,
+      "hanzi": "菜单",
+      "pinyin": "càidān",
+      "tones": "4 1",
+      "meaning": "menu",
+      "exampleChinese": "请给我看菜单。",
+      "examplePinyin": "Qǐng gěi wǒ kàn càidān.",
+      "exampleEnglish": "Please let me see the menu."
+    },
+    {
+      "level": 3,
+      "hanzi": "参加",
+      "pinyin": "cānjiā",
+      "tones": "1 1",
+      "meaning": "participate; join; take part in",
+      "exampleChinese": "她参加了学生会。",
+      "examplePinyin": "Tā cānjiāle xuéshenghuì.",
+      "exampleEnglish": "She joined the student union."
+    },
+    {
+      "level": 3,
+      "hanzi": "草",
+      "pinyin": "cǎo",
+      "tones": "3",
+      "meaning": "grass; straw; draft (of a document)",
+      "exampleChinese": "星期六我要帮爸爸割草。",
+      "examplePinyin": "Xīngqīliù wǒ yào bāng bàba gē cǎo.",
+      "exampleEnglish": "On Saturday I'll help my dad mow the lawn."
+    },
+    {
+      "level": 3,
+      "hanzi": "草地",
+      "pinyin": "cǎodì",
+      "tones": "3 4",
+      "meaning": "lawn; meadow; sod",
+      "exampleChinese": "孩子们在草地上翻滚。",
+      "examplePinyin": "Háizimen zài cǎodì shang fāngǔn.",
+      "exampleEnglish": "The children are rolling on the grass."
+    },
+    {
+      "level": 3,
+      "hanzi": "层",
+      "pinyin": "céng",
+      "tones": "2",
+      "meaning": "layer, level, storey",
+      "exampleChinese": "我爱千层面。",
+      "examplePinyin": "Wǒàiqiān céngmiàn.",
+      "exampleEnglish": "I love lasagna."
+    },
+    {
+      "level": 3,
+      "hanzi": "查",
+      "pinyin": "chá",
+      "tones": "2",
+      "meaning": "to research; to check; to investigate",
+      "exampleChinese": "你可以打电话问查号台。",
+      "examplePinyin": "Nǐ kěyǐ dǎ diànhuà wèn cháhàotái.",
+      "exampleEnglish": "You can call directory inquiries."
+    },
+    {
+      "level": 3,
+      "hanzi": "差",
+      "pinyin": "chà",
+      "tones": "4",
+      "meaning": "differ from; fall short of; poor",
+      "exampleChinese": "我差一点儿迟到了。",
+      "examplePinyin": "Wǒ chà yìdiǎnr chídào le.",
+      "exampleEnglish": "I was almost late."
+    },
+    {
+      "level": 3,
+      "hanzi": "差不多",
+      "pinyin": "chàbuduō",
+      "tones": "4 5 1",
+      "meaning": "almost; about the same",
+      "exampleChinese": "差不多六点了。",
+      "examplePinyin": "Chàbuduō liùdiǎn le.",
+      "exampleEnglish": "It's almost six."
+    },
+    {
+      "level": 3,
+      "hanzi": "尝",
+      "pinyin": "cháng",
+      "tones": "2",
+      "meaning": "to taste; flavor; (past tense marker)",
+      "exampleChinese": "我想尝尝姜葱炒虾。",
+      "examplePinyin": "Wǒ xiǎng chángchang jiāng cōng chǎo xiā.",
+      "exampleEnglish": "I'd like to try the ginger scallion shrimp."
+    },
+    {
+      "level": 3,
+      "hanzi": "常",
+      "pinyin": "cháng",
+      "tones": "2",
+      "meaning": "always; ever; often",
+      "exampleChinese": "很正常。",
+      "examplePinyin": "Hěn zhèngcháng.",
+      "exampleEnglish": "That's normal."
+    },
+    {
+      "level": 3,
+      "hanzi": "常常",
+      "pinyin": "chángcháng",
+      "tones": "2 2",
+      "meaning": "frequently; often",
+      "exampleChinese": "我常常感冒。",
+      "examplePinyin": "Wǒ chángcháng gǎnmào.",
+      "exampleEnglish": "I often catch colds."
+    },
+    {
+      "level": 3,
+      "hanzi": "常见",
+      "pinyin": "chángjiàn",
+      "tones": "2 4",
+      "meaning": "commonly seen; common; to see sth frequently",
+      "exampleChinese": "在你们国家，汤姆是个常见的名字吗？",
+      "examplePinyin": "Zài nǐmen guójiā, tāngmǔ shì gè chángjiàn de míngzi ma?",
+      "exampleEnglish": "Is Tom a common name in your country?"
+    },
+    {
+      "level": 3,
+      "hanzi": "常用",
+      "pinyin": "chángyòng",
+      "tones": "2 4",
+      "meaning": "in common usage",
+      "exampleChinese": "冬天我常用唇膏。",
+      "examplePinyin": "Dōngtiān wǒ cháng yòng chúngāo.",
+      "exampleEnglish": "In winter I often use lip balm."
+    },
+    {
+      "level": 3,
+      "hanzi": "成绩",
+      "pinyin": "chéngjì",
+      "tones": "2 4",
+      "meaning": "result; achievement; success",
+      "exampleChinese": "你成绩比我好。",
+      "examplePinyin": "Nǐ chéngjì bǐ wǒ hǎo.",
+      "exampleEnglish": "Your grades are better than mine."
+    },
+    {
+      "level": 3,
+      "hanzi": "城市",
+      "pinyin": "chéngshì",
+      "tones": "2 4",
+      "meaning": "city or town",
+      "exampleChinese": "城市里高楼林立。",
+      "examplePinyin": "Chéngshì li gāolóu-línlì.",
+      "exampleEnglish": "The city is full of tall buildings."
+    },
+    {
+      "level": 3,
+      "hanzi": "衬衫",
+      "pinyin": "chènshān",
+      "tones": "4 1",
+      "meaning": "shirt; blouse",
+      "exampleChinese": "我的衬衫还没干。",
+      "examplePinyin": "Wǒ de chènshān hái méi gān.",
+      "exampleEnglish": "My shirt isn't dry yet."
+    },
+    {
+      "level": 3,
+      "hanzi": "迟到",
+      "pinyin": "chídào",
+      "tones": "2 4",
+      "meaning": "be/come/arrive late",
+      "exampleChinese": "我差一点儿迟到了。",
+      "examplePinyin": "Wǒ chà yìdiǎnr chídào le.",
+      "exampleEnglish": "I was almost late."
+    },
+    {
+      "level": 3,
+      "hanzi": "船",
+      "pinyin": "chuán",
+      "tones": "2",
+      "meaning": "a boat; vessel; ship",
+      "exampleChinese": "我一坐船就晕船。",
+      "examplePinyin": "Wǒ yí zuò chuán jiù yùnchuán.",
+      "exampleEnglish": "I get seasick as soon as I get on a boat."
+    },
+    {
+      "level": 3,
+      "hanzi": "出发",
+      "pinyin": "chūfā",
+      "tones": "1 1",
+      "meaning": "start out; set off",
+      "exampleChinese": "火车6点出发。",
+      "examplePinyin": "Huǒchē 6diǎn chūfā.",
+      "exampleEnglish": "The train leaves at six."
+    },
+    {
+      "level": 3,
+      "hanzi": "除了",
+      "pinyin": "chúle",
+      "tones": "2 5",
+      "meaning": "besides; except for; aside from",
+      "exampleChinese": "除了星期天他每天工作。",
+      "examplePinyin": "Chúle xīngqītiān tā měitiān gōngzuò.",
+      "exampleEnglish": "He works every day except Sunday."
+    },
+    {
+      "level": 3,
+      "hanzi": "春天",
+      "pinyin": "chūntiān",
+      "tones": "1 1",
+      "meaning": "spring (season)",
+      "exampleChinese": "春天到了。",
+      "examplePinyin": "Chūntiān dào le.",
+      "exampleEnglish": "Spring has come."
+    },
+    {
+      "level": 3,
+      "hanzi": "出生",
+      "pinyin": "chūshēng",
+      "tones": "1 1",
+      "meaning": "be born",
+      "exampleChinese": "她去年出生。",
+      "examplePinyin": "Tā qùnián chūshēng.",
+      "exampleEnglish": "She was born last year."
+    },
+    {
+      "level": 3,
+      "hanzi": "出院",
+      "pinyin": "chūyuàn",
+      "tones": "1 4",
+      "meaning": "to leave hospital; to be discharged from hospital",
+      "exampleChinese": "再过两周你就可以出院了。",
+      "examplePinyin": "Zài guò liǎngzhōu nǐ jiù kěyǐ chūyuàn le.",
+      "exampleEnglish": "In another two weeks you will be able to get out of the hospital."
+    },
+    {
+      "level": 3,
+      "hanzi": "初中",
+      "pinyin": "chūzhōng",
+      "tones": "1 1",
+      "meaning": "junior high school (abbr. for 初级中学)",
+      "exampleChinese": "我弟弟在上初中。",
+      "examplePinyin": "Wǒ dìdi zài shàng chūzhōng.",
+      "exampleEnglish": "My little brother is in junior high school."
+    },
+    {
+      "level": 3,
+      "hanzi": "词典",
+      "pinyin": "cídiǎn",
+      "tones": "2 3",
+      "meaning": "dictionary",
+      "exampleChinese": "我想要本好词典。",
+      "examplePinyin": "Wǒ xiǎngyào běnhǎo cídiǎn.",
+      "exampleEnglish": "I want a good dictionary."
+    },
+    {
+      "level": 3,
+      "hanzi": "聪明",
+      "pinyin": "cōngming",
+      "tones": "1 5",
+      "meaning": "intelligent; clever; bright",
+      "exampleChinese": "你很聪明。",
+      "examplePinyin": "Nǐ hěn cōngmíng.",
+      "exampleEnglish": "You're very smart."
+    },
+    {
+      "level": 3,
+      "hanzi": "大概",
+      "pinyin": "dàgài",
+      "tones": "4 4",
+      "meaning": "probably; roughly; approximate",
+      "exampleChinese": "我大概懂了。",
+      "examplePinyin": "Wǒ dàgài dǒng le.",
+      "exampleEnglish": "I sort of understand."
+    },
+    {
+      "level": 3,
+      "hanzi": "带",
+      "pinyin": "dài",
+      "tones": "4",
+      "meaning": "belt; zone; carry, bring, take",
+      "exampleChinese": "内用还是外带？",
+      "examplePinyin": "Nèiyòng háishi wàidài?",
+      "exampleEnglish": "For here or to go?"
+    },
+    {
+      "level": 3,
+      "hanzi": "蛋糕",
+      "pinyin": "dàngāo",
+      "tones": "4 1",
+      "meaning": "cake",
+      "exampleChinese": "请吃点蛋糕。",
+      "examplePinyin": "Qǐngchī diǎn dàngāo.",
+      "exampleEnglish": "Please eat some cake."
+    },
+    {
+      "level": 3,
+      "hanzi": "当然",
+      "pinyin": "dāngrán",
+      "tones": "1 2",
+      "meaning": "of course; naturally",
+      "exampleChinese": "当然哪！",
+      "examplePinyin": "Dāngrán nǎ!",
+      "exampleEnglish": "Of course!"
+    },
+    {
+      "level": 3,
+      "hanzi": "担心",
+      "pinyin": "dānxīn",
+      "tones": "1 1",
+      "meaning": "to worry; feel anxious",
+      "exampleChinese": "别担心了。",
+      "examplePinyin": "Bié dānxīn le.",
+      "exampleEnglish": "Stop worrying."
+    },
+    {
+      "level": 3,
+      "hanzi": "到处",
+      "pinyin": "dàochù",
+      "tones": "4 4",
+      "meaning": "everywhere; in all places; all over",
+      "exampleChinese": "到处都是血。",
+      "examplePinyin": "Dàochù dōu shì xuè.",
+      "exampleEnglish": "Blood was everywhere."
+    },
+    {
+      "level": 3,
+      "hanzi": "大人",
+      "pinyin": "dàren",
+      "tones": "4 5",
+      "meaning": "adult; grownup; title of respect toward superiors",
+      "exampleChinese": "你现在是大人了。",
+      "examplePinyin": "Nǐ xiànzài shì dàrén le.",
+      "exampleEnglish": "You are now an adult."
+    },
+    {
+      "level": 3,
+      "hanzi": "打扫",
+      "pinyin": "dǎsǎo",
+      "tones": "3 3",
+      "meaning": "to clean; to sweep",
+      "exampleChinese": "今晚谁要打扫？",
+      "examplePinyin": "Jīnwǎn shuí yào dǎsǎo?",
+      "exampleEnglish": "Who's going to clean up tonight?"
+    },
+    {
+      "level": 3,
+      "hanzi": "打算",
+      "pinyin": "dǎsuàn",
+      "tones": "3 4",
+      "meaning": "to plan; intend",
+      "exampleChinese": "你打算做什么？",
+      "examplePinyin": "Nǐ dǎsuàn zuò shénme?",
+      "exampleEnglish": "What're you up to?"
+    },
+    {
+      "level": 3,
+      "hanzi": "大小",
+      "pinyin": "dàxiǎo",
+      "tones": "4 3",
+      "meaning": "large and small; size; adults and children",
+      "exampleChinese": "亚洲的大小约四倍于欧洲。",
+      "examplePinyin": "Yàzhōu de dàxiǎo yuē sìbèi yú ōuzhōu.",
+      "exampleEnglish": "Asia is roughly four times the size of Europe."
+    },
+    {
+      "level": 3,
+      "hanzi": "大熊猫",
+      "pinyin": "dàxióngmāo",
+      "tones": "4 2 1",
+      "meaning": "giant panda (Ailuropoda melanoleuca)",
+      "exampleChinese": "大熊猫爱吃竹子。",
+      "examplePinyin": "Dàxióngmāo ài chī zhúzi.",
+      "exampleEnglish": "Giant pandas love eating bamboo."
+    },
+    {
+      "level": 3,
+      "hanzi": "大衣",
+      "pinyin": "dàyī",
+      "tones": "4 1",
+      "meaning": "overcoat; topcoat; cloak",
+      "exampleChinese": "那是我的大衣。",
+      "examplePinyin": "Nà shì wǒ de dàyī.",
+      "exampleEnglish": "That's my coat."
+    },
+    {
+      "level": 3,
+      "hanzi": "得",
+      "pinyin": "dé",
+      "tones": "2",
+      "meaning": "get; obtain; win",
+      "exampleChinese": "我得去医院。",
+      "examplePinyin": "Wǒ děi qù yīyuàn.",
+      "exampleEnglish": "I have to get to the hospital."
+    },
+    {
+      "level": 3,
+      "hanzi": "得到",
+      "pinyin": "dédào",
+      "tones": "2 4",
+      "meaning": "to get; to obtain; to receive",
+      "exampleChinese": "我感觉得到它。",
+      "examplePinyin": "Wǒ gǎnjuédédào tā.",
+      "exampleEnglish": "I can feel it."
+    },
+    {
+      "level": 3,
+      "hanzi": "得分",
+      "pinyin": "défēn",
+      "tones": "2 1",
+      "meaning": "to score a point (in a competition, test etc); score; rating",
+      "exampleChinese": "这次考试他得分最高。",
+      "examplePinyin": "Zhè cì kǎoshì tā défēn zuì gāo.",
+      "exampleEnglish": "He got the highest score on this exam."
+    },
+    {
+      "level": 3,
+      "hanzi": "的话",
+      "pinyin": "dehuà",
+      "tones": "5 4",
+      "meaning": "if (coming after a conditional clause)",
+      "exampleChinese": "要听老师的话。",
+      "examplePinyin": "Yào tīng lǎoshī dehuà.",
+      "exampleEnglish": "Obey your teachers."
+    },
+    {
+      "level": 3,
+      "hanzi": "得",
+      "pinyin": "děi",
+      "tones": "3",
+      "meaning": "to have to; to need to",
+      "exampleChinese": "我得去医院。",
+      "examplePinyin": "Wǒ děi qù yīyuàn.",
+      "exampleEnglish": "I have to get to the hospital."
+    },
+    {
+      "level": 3,
+      "hanzi": "灯",
+      "pinyin": "dēng",
+      "tones": "1",
+      "meaning": "lamp; light",
+      "exampleChinese": "开车不能闯红灯。",
+      "examplePinyin": "Kāichē bù néng chuǎng hóngdēng.",
+      "exampleEnglish": "You must not run a red light when driving."
+    },
+    {
+      "level": 3,
+      "hanzi": "地",
+      "pinyin": "dì",
+      "tones": "4",
+      "meaning": "earth; ground",
+      "exampleChinese": "前边就是地铁站。",
+      "examplePinyin": "Qiánbian jiù shì dìtiězhàn.",
+      "exampleEnglish": "The subway station is just ahead."
+    },
+    {
+      "level": 3,
+      "hanzi": "电",
+      "pinyin": "diàn",
+      "tones": "4",
+      "meaning": "lightning; electricity; electric (bound form)",
+      "exampleChinese": "打电话回家！",
+      "examplePinyin": "Dǎdiànhuà huíjiā!",
+      "exampleEnglish": "Call home!"
+    },
+    {
+      "level": 3,
+      "hanzi": "电梯",
+      "pinyin": "diàntī",
+      "tones": "4 1",
+      "meaning": "elevator",
+      "exampleChinese": "我乘电梯上三楼。",
+      "examplePinyin": "Wǒ chéng diàntī shàngsānlóu.",
+      "exampleEnglish": "I took the elevator to the third floor."
+    },
+    {
+      "level": 3,
+      "hanzi": "电子书",
+      "pinyin": "diànzǐshū",
+      "tones": "4 3 1",
+      "meaning": "electronic book; e-book; e-book reader",
+      "exampleChinese": "我在手机上看电子书。",
+      "examplePinyin": "Wǒ zài shǒujī shang kàn diànzǐshū.",
+      "exampleEnglish": "I read e-books on my phone."
+    },
+    {
+      "level": 3,
+      "hanzi": "地点",
+      "pinyin": "dìdiǎn",
+      "tones": "4 3",
+      "meaning": "place; site; location",
+      "exampleChinese": "我们见面的地点是学校门口。",
+      "examplePinyin": "Wǒmen jiànmiàn de dìdiǎn shì xuéxiào ménkǒu.",
+      "exampleEnglish": "The place we meet is the school gate."
+    },
+    {
+      "level": 3,
+      "hanzi": "地方",
+      "pinyin": "dìfang",
+      "tones": "4 5",
+      "meaning": "place; space; room",
+      "exampleChinese": "这个地方很有诗意。",
+      "examplePinyin": "Zhège dìfang hěn yǒu shīyì.",
+      "exampleEnglish": "This place is very poetic."
+    },
+    {
+      "level": 3,
+      "hanzi": "地图",
+      "pinyin": "dìtú",
+      "tones": "4 2",
+      "meaning": "map; atlas",
+      "exampleChinese": "来看看世界地图。",
+      "examplePinyin": "Lái kànkàn shìjièdìtú.",
+      "exampleEnglish": "Have a look at the world map."
+    },
+    {
+      "level": 3,
+      "hanzi": "丢",
+      "pinyin": "diū",
+      "tones": "1",
+      "meaning": "lose (something); throw; put aside",
+      "exampleChinese": "请把纸杯丢进去。",
+      "examplePinyin": "Qǐng bǎ zhǐbēi diū jìnqu.",
+      "exampleEnglish": "Please throw the paper cup in."
+    },
+    {
+      "level": 3,
+      "hanzi": "东",
+      "pinyin": "dōng",
+      "tones": "1",
+      "meaning": "East",
+      "exampleChinese": "我正在吃东西。",
+      "examplePinyin": "Wǒ zhèngzài chī dōngxī.",
+      "exampleEnglish": "I'm eating."
+    },
+    {
+      "level": 3,
+      "hanzi": "东北",
+      "pinyin": "dōngběi",
+      "tones": "1 3",
+      "meaning": "Northeast China; Manchuria; northeast",
+      "exampleChinese": "那年他们一家逃荒到了东北。",
+      "examplePinyin": "Nà nián tāmen yì jiā táohuāng dàole Dōngběi.",
+      "exampleEnglish": "That year the family fled the famine to the Northeast."
+    },
+    {
+      "level": 3,
+      "hanzi": "懂得",
+      "pinyin": "dǒngde",
+      "tones": "3 5",
+      "meaning": "to understand; to know; to comprehend",
+      "exampleChinese": "她懂得怎么照顾小孩子。",
+      "examplePinyin": "Tā dǒngde zěnme zhàogu xiǎo háizi.",
+      "exampleEnglish": "She knows how to look after small children."
+    },
+    {
+      "level": 3,
+      "hanzi": "东方",
+      "pinyin": "dōngfāng",
+      "tones": "1 1",
+      "meaning": "east; the East; the Orient",
+      "exampleChinese": "东方明珠电视塔在上海。",
+      "examplePinyin": "Dōngfāng Míngzhū Diànshìtǎ zài Shànghǎi.",
+      "exampleEnglish": "The Oriental Pearl Tower is in Shanghai."
+    },
+    {
+      "level": 3,
+      "hanzi": "东南",
+      "pinyin": "dōngnán",
+      "tones": "1 2",
+      "meaning": "southeast",
+      "exampleChinese": "他家在城市的东南边。",
+      "examplePinyin": "Tā jiā zài chéngshì de dōngnán biān.",
+      "exampleEnglish": "His home is in the southeast of the city."
+    },
+    {
+      "level": 3,
+      "hanzi": "冬天",
+      "pinyin": "dōngtiān",
+      "tones": "1 1",
+      "meaning": "winter",
+      "exampleChinese": "我不喜欢冬天。",
+      "examplePinyin": "Wǒ bù xǐhuān dōngtiān.",
+      "exampleEnglish": "I don't like winter."
+    },
+    {
+      "level": 3,
+      "hanzi": "动物",
+      "pinyin": "dòngwù",
+      "tones": "4 4",
+      "meaning": "animal",
+      "exampleChinese": "动物园里有两只猫熊。",
+      "examplePinyin": "Dòngwùyuán li yǒu liǎng zhī māoxióng.",
+      "exampleEnglish": "There are two pandas at the zoo."
+    },
+    {
+      "level": 3,
+      "hanzi": "动物园",
+      "pinyin": "dòngwùyuán",
+      "tones": "4 4 2",
+      "meaning": "zoo",
+      "exampleChinese": "公园里有动物园吗？",
+      "examplePinyin": "Gōngyuán lǐ yǒu dòngwùyuán ma?",
+      "exampleEnglish": "Is there a zoo in the park?"
+    },
+    {
+      "level": 3,
+      "hanzi": "段",
+      "pinyin": "duàn",
+      "tones": "4",
+      "meaning": "paragraph; segment; section",
+      "exampleChinese": "这段独白很感人。",
+      "examplePinyin": "Zhè duàn dúbái hěn gǎnrén.",
+      "exampleEnglish": "This monologue is very moving."
+    },
+    {
+      "level": 3,
+      "hanzi": "短",
+      "pinyin": "duǎn",
+      "tones": "3",
+      "meaning": "short (opposite of 长 cháng)",
+      "exampleChinese": "到了给我发短信。",
+      "examplePinyin": "Dàole gěi wǒ fā duǎnxìn.",
+      "exampleEnglish": "Text me when you get there."
+    },
+    {
+      "level": 3,
+      "hanzi": "短裤",
+      "pinyin": "duǎnkù",
+      "tones": "3 4",
+      "meaning": "short pants; shorts",
+      "exampleChinese": "天太热，他穿着短裤跑步。",
+      "examplePinyin": "Tiān tài rè, tā chuānzhe duǎnkù pǎobù.",
+      "exampleEnglish": "It is hot. He runs in shorts."
+    },
+    {
+      "level": 3,
+      "hanzi": "锻炼",
+      "pinyin": "duànliàn",
+      "tones": "4 4",
+      "meaning": "to exercise; work out; toughen",
+      "exampleChinese": "我需要更经常地锻炼。",
+      "examplePinyin": "Wǒ xūyào gèng jīngcháng de duànliàn.",
+      "exampleEnglish": "I need to exercise more often."
+    },
+    {
+      "level": 3,
+      "hanzi": "对话",
+      "pinyin": "duìhuà",
+      "tones": "4 4",
+      "meaning": "dialogue; conversation",
+      "exampleChinese": "我没有参与对话。",
+      "examplePinyin": "Wǒ méiyǒu cānyù duìhuà.",
+      "exampleEnglish": "I did not participate in the dialog."
+    },
+    {
+      "level": 3,
+      "hanzi": "饿",
+      "pinyin": "è",
+      "tones": "4",
+      "meaning": "hungry",
+      "exampleChinese": "我饿死了，快吃饭吧！",
+      "examplePinyin": "Wǒ è sǐ le, kuài chī fàn ba!",
+      "exampleEnglish": "I'm starving, let's eat!"
+    },
+    {
+      "level": 3,
+      "hanzi": "耳朵",
+      "pinyin": "ěrduo",
+      "tones": "3 5",
+      "meaning": "ear",
+      "exampleChinese": "我们用耳朵听。",
+      "examplePinyin": "Wǒmen yòng ěrduǒ tīng.",
+      "exampleEnglish": "We hear with our ears."
+    },
+    {
+      "level": 3,
+      "hanzi": "耳机",
+      "pinyin": "ěrjī",
+      "tones": "3 1",
+      "meaning": "headphones; earphones; telephone receiver",
+      "exampleChinese": "他戴着耳机听音乐。",
+      "examplePinyin": "Tā dàizhe ěrjī tīng yīnyuè.",
+      "exampleEnglish": "He listens to music with headphones on."
+    },
+    {
+      "level": 3,
+      "hanzi": "而且",
+      "pinyin": "érqiě",
+      "tones": "2 3",
+      "meaning": "moreover; in addition; as well as",
+      "exampleChinese": "我结婚了，而且有两个孩子。",
+      "examplePinyin": "Wǒ jiéhūn le, érqiě yǒu liǎnggè háizi.",
+      "exampleEnglish": "I am married and have two children."
+    },
+    {
+      "level": 3,
+      "hanzi": "发",
+      "pinyin": "fā",
+      "tones": "1",
+      "meaning": "send out; to issue, utter; express",
+      "exampleChinese": "面包发霉了。",
+      "examplePinyin": "Miànbāo fāméi le.",
+      "exampleEnglish": "The bread has gone moldy."
+    },
+    {
+      "level": 3,
+      "hanzi": "放",
+      "pinyin": "fàng",
+      "tones": "4",
+      "meaning": "put; to place; to release",
+      "exampleChinese": "我们一月放寒假。",
+      "examplePinyin": "Wǒmen yīyuè fàng hánjià.",
+      "exampleEnglish": "We get our winter holidays in January."
+    },
+    {
+      "level": 3,
+      "hanzi": "放心",
+      "pinyin": "fàng xīn",
+      "tones": "4 1",
+      "meaning": "set one's mind at rest; rest assured; feel relieved",
+      "exampleChinese": "你放心，不会出乱子的。",
+      "examplePinyin": "Nǐ fàngxīn, bú huì chū luànzi de.",
+      "exampleEnglish": "Don’t worry, nothing will go wrong."
+    },
+    {
+      "level": 3,
+      "hanzi": "方便",
+      "pinyin": "fāngbiàn",
+      "tones": "1 4",
+      "meaning": "convenient",
+      "exampleChinese": "这很方便。",
+      "examplePinyin": "Zhè hěn fāngbiàn.",
+      "exampleEnglish": "That's very handy."
+    },
+    {
+      "level": 3,
+      "hanzi": "方便面",
+      "pinyin": "fāngbiànmiàn",
+      "tones": "1 4 4",
+      "meaning": "instant noodles",
+      "exampleChinese": "我不想再吃方便面了。",
+      "examplePinyin": "Wǒ bù xiǎng zài chī fāngbiànmiàn le.",
+      "exampleEnglish": "I do not want to eat instant noodles again."
+    },
+    {
+      "level": 3,
+      "hanzi": "方法",
+      "pinyin": "fāngfǎ",
+      "tones": "1 3",
+      "meaning": "method; way; means",
+      "exampleChinese": "这种方法早已过时了。",
+      "examplePinyin": "Zhèzhǒng fāngfǎ zǎoyǐ guòshí le.",
+      "exampleEnglish": "Those kinds of methods are out of date."
+    },
+    {
+      "level": 3,
+      "hanzi": "放假",
+      "pinyin": "fàngjià",
+      "tones": "4 4",
+      "meaning": "to have a holiday or vacation",
+      "exampleChinese": "现在学生在放假。",
+      "examplePinyin": "Xiànzài xuésheng zài fàngjià.",
+      "exampleEnglish": "The students are currently on holiday."
+    },
+    {
+      "level": 3,
+      "hanzi": "方向",
+      "pinyin": "fāngxiàng",
+      "tones": "1 4",
+      "meaning": "direction; orientation",
+      "exampleChinese": "你的方向感很好。",
+      "examplePinyin": "Nǐ de fāngxiànggǎn hěn hǎo.",
+      "exampleEnglish": "You have a really good sense of direction."
+    },
+    {
+      "level": 3,
+      "hanzi": "放学",
+      "pinyin": "fàngxué",
+      "tones": "4 2",
+      "meaning": "to dismiss students at the end of the school day",
+      "exampleChinese": "学校3点半放学。",
+      "examplePinyin": "Xuéxiào 3diǎnbàn fàngxué.",
+      "exampleEnglish": "School is over at 3:30."
+    },
+    {
+      "level": 3,
+      "hanzi": "房子",
+      "pinyin": "fángzi",
+      "tones": "2 5",
+      "meaning": "house; building (single- or two-story); apartment",
+      "exampleChinese": "万华有很多老房子。",
+      "examplePinyin": "Wànhuá yǒu hěn duō lǎo fángzi.",
+      "exampleEnglish": "Wanhua has many old houses."
+    },
+    {
+      "level": 3,
+      "hanzi": "发烧",
+      "pinyin": "fāshāo",
+      "tones": "1 1",
+      "meaning": "have a fever",
+      "exampleChinese": "你没发烧。",
+      "examplePinyin": "Nǐ méi fāshāo.",
+      "exampleEnglish": "You have no fever."
+    },
+    {
+      "level": 3,
+      "hanzi": "发生",
+      "pinyin": "fāshēng",
+      "tones": "1 1",
+      "meaning": "happen; occur; take place",
+      "exampleChinese": "那有时会发生。",
+      "examplePinyin": "Nà yǒushí huì fāshēng.",
+      "exampleEnglish": "Sometimes it happens."
+    },
+    {
+      "level": 3,
+      "hanzi": "发现",
+      "pinyin": "fāxiàn",
+      "tones": "1 4",
+      "meaning": "discover; to find",
+      "exampleChinese": "你家很容易发现。",
+      "examplePinyin": "Nǐjiā hěn róngyì fāxiàn.",
+      "exampleEnglish": "Your house was easy to find."
+    },
+    {
+      "level": 3,
+      "hanzi": "发展",
+      "pinyin": "fāzhǎn",
+      "tones": "1 3",
+      "meaning": "develop; development; growth",
+      "exampleChinese": "他的职涯发展得很好。",
+      "examplePinyin": "Tā de zhíyá fāzhǎn de hěn hǎo.",
+      "exampleEnglish": "His career is going very well."
+    },
+    {
+      "level": 3,
+      "hanzi": "封",
+      "pinyin": "fēng",
+      "tones": "1",
+      "meaning": "to confer; to grant; to bestow a title",
+      "exampleChinese": "他给她写了一封情书。",
+      "examplePinyin": "Tā gěi tā xiěle yì fēng qíngshū.",
+      "exampleEnglish": "He wrote her a love letter."
+    },
+    {
+      "level": 3,
+      "hanzi": "风",
+      "pinyin": "fēng",
+      "tones": "1",
+      "meaning": "wind; news; style",
+      "exampleChinese": "今天刮大风，很冷。",
+      "examplePinyin": "Jīntiān guā dàfēng, hěn lěng.",
+      "exampleEnglish": "It's very windy today, and cold."
+    },
+    {
+      "level": 3,
+      "hanzi": "分开",
+      "pinyin": "fēnkāi",
+      "tones": "1 1",
+      "meaning": "to separate; to part",
+      "exampleChinese": "这两个词要分开写。",
+      "examplePinyin": "Zhè liǎng ge cí yào fēnkāi xiě.",
+      "exampleEnglish": "These two words must be written separately."
+    },
+    {
+      "level": 3,
+      "hanzi": "附近",
+      "pinyin": "fùjìn",
+      "tones": "4 4",
+      "meaning": "(in the) vicinity; nearby; neighboring",
+      "exampleChinese": "附近有酒店吗？",
+      "examplePinyin": "Fùjìn yǒu jiǔdiàn ma?",
+      "exampleEnglish": "Is there a hotel around here?"
+    },
+    {
+      "level": 3,
+      "hanzi": "夫妻",
+      "pinyin": "fūqī",
+      "tones": "1 1",
+      "meaning": "husband and wife; married couple",
+      "exampleChinese": "夫妻之间要互相忍让。",
+      "examplePinyin": "Fūqī zhījiān yào hùxiāng rěnràng.",
+      "exampleEnglish": "Husband and wife should give way to each other."
+    },
+    {
+      "level": 3,
+      "hanzi": "服务",
+      "pinyin": "fúwù",
+      "tones": "2 4",
+      "meaning": "to serve; service",
+      "exampleChinese": "服务员，我们要埋单。",
+      "examplePinyin": "Fúwùyuán, wǒmen yào máidān.",
+      "exampleEnglish": "Waiter, we'd like to pay the bill."
+    },
+    {
+      "level": 3,
+      "hanzi": "复习",
+      "pinyin": "fùxí",
+      "tones": "4 2",
+      "meaning": "review; revise",
+      "exampleChinese": "我会尽量不打扰你复习。",
+      "examplePinyin": "Wǒhuì jǐnliàng bù dǎrǎo nǐ fùxí.",
+      "exampleEnglish": "I'll do my best not to disturb your studying."
+    },
+    {
+      "level": 3,
+      "hanzi": "该",
+      "pinyin": "gāi",
+      "tones": "1",
+      "meaning": "should; ought to; probably",
+      "exampleChinese": "天冷了，该穿寒衣了。",
+      "examplePinyin": "Tiān lěng le, gāi chuān hányī le.",
+      "exampleEnglish": "It's getting cold, time to put on winter clothes."
+    },
+    {
+      "level": 3,
+      "hanzi": "干",
+      "pinyin": "gàn",
+      "tones": "4",
+      "meaning": "to work; do; manage",
+      "exampleChinese": "你干吗不吃早饭？",
+      "examplePinyin": "Nǐ gànmá bù chī zǎofàn?",
+      "exampleEnglish": "Why aren't you having breakfast?"
+    },
+    {
+      "level": 3,
+      "hanzi": "感兴趣",
+      "pinyin": "gǎn xìngqù",
+      "tones": "3 4 4",
+      "meaning": "be interested in",
+      "exampleChinese": "我不感兴趣。",
+      "examplePinyin": "Wǒ bùgǎnxìngqù.",
+      "exampleEnglish": "I'm not interested."
+    },
+    {
+      "level": 3,
+      "hanzi": "感到",
+      "pinyin": "gǎndào",
+      "tones": "3 4",
+      "meaning": "to feel; to sense; to perceive",
+      "exampleChinese": "能为你服务我会感到非常高兴。",
+      "examplePinyin": "Néng wèi nǐ fúwù wǒhuì gǎndào fēichánggāoxìng.",
+      "exampleEnglish": "I'll be very happy if I can serve you."
+    },
+    {
+      "level": 3,
+      "hanzi": "刚",
+      "pinyin": "gāng",
+      "tones": "1",
+      "meaning": "just (indicating the immediate past); recently; firm",
+      "exampleChinese": "这双鞋我穿刚刚好。",
+      "examplePinyin": "Zhè shuāng xié wǒ chuān gānggānghǎo.",
+      "exampleEnglish": "These shoes fit me just right."
+    },
+    {
+      "level": 3,
+      "hanzi": "刚才",
+      "pinyin": "gāngcái",
+      "tones": "1 2",
+      "meaning": "just now; a moment ago",
+      "exampleChinese": "我刚才在家。",
+      "examplePinyin": "Wǒ gāngcái zàijiā.",
+      "exampleEnglish": "I was at home."
+    },
+    {
+      "level": 3,
+      "hanzi": "刚刚",
+      "pinyin": "gānggang",
+      "tones": "1 5",
+      "meaning": "just recently; just a moment ago",
+      "exampleChinese": "我刚刚吃完。",
+      "examplePinyin": "Wǒ gānggang chī wán.",
+      "exampleEnglish": "I have just finished eating."
+    },
+    {
+      "level": 3,
+      "hanzi": "干净",
+      "pinyin": "gānjìng",
+      "tones": "1 4",
+      "meaning": "clean; neat and tidy",
+      "exampleChinese": "这张桌子是干净的。",
+      "examplePinyin": "Zhèzhāng zhuōzi shì gānjìng de.",
+      "exampleEnglish": "This table is clean."
+    },
+    {
+      "level": 3,
+      "hanzi": "感冒",
+      "pinyin": "gǎnmào",
+      "tones": "3 4",
+      "meaning": "catch cold; (common) cold",
+      "exampleChinese": "我感冒了，要去买感冒药。",
+      "examplePinyin": "Wǒ gǎnmào le, yào qù mǎi gǎnmàoyào.",
+      "exampleEnglish": "I have a cold, I need to buy cold medicine."
+    },
+    {
+      "level": 3,
+      "hanzi": "高铁",
+      "pinyin": "gāotiě",
+      "tones": "1 3",
+      "meaning": "high speed rail",
+      "exampleChinese": "坐高铁去上海只要五个小时。",
+      "examplePinyin": "Zuò gāotiě qù Shànghǎi zhǐ yào wǔ ge xiǎoshí.",
+      "exampleEnglish": "The high-speed train to Shanghai takes only five hours."
+    },
+    {
+      "level": 3,
+      "hanzi": "更",
+      "pinyin": "gèng",
+      "tones": "4",
+      "meaning": "more; even more",
+      "exampleChinese": "这个问题更为重要。",
+      "examplePinyin": "Zhège wèntí gèngwéi zhòngyào.",
+      "exampleEnglish": "This question is even more important."
+    },
+    {
+      "level": 3,
+      "hanzi": "根据",
+      "pinyin": "gēnjù",
+      "tones": "1 4",
+      "meaning": "on the basis of; according to",
+      "exampleChinese": "不要根据封面来判断一本书。",
+      "examplePinyin": "Búyào gēnjù fēngmiàn lái pànduàn yī běnshū.",
+      "exampleEnglish": "Don't judge a book by its cover."
+    },
+    {
+      "level": 3,
+      "hanzi": "公斤",
+      "pinyin": "gōngjīn",
+      "tones": "1 1",
+      "meaning": "kilogram",
+      "exampleChinese": "我瘦了三公斤。",
+      "examplePinyin": "Wǒ shòu le sān gōngjīn.",
+      "exampleEnglish": "I lost three kilograms."
+    },
+    {
+      "level": 3,
+      "hanzi": "公园",
+      "pinyin": "gōngyuán",
+      "tones": "1 2",
+      "meaning": "park; garden",
+      "exampleChinese": "这个公园很幽静。",
+      "examplePinyin": "Zhège gōngyuán hěn yōujìng.",
+      "exampleEnglish": "This park is very quiet and secluded."
+    },
+    {
+      "level": 3,
+      "hanzi": "工作日",
+      "pinyin": "gōngzuòrì",
+      "tones": "1 4 4",
+      "meaning": "workday; working day; weekday",
+      "exampleChinese": "星期天不是我的工作日。",
+      "examplePinyin": "Xīngqītiān búshì wǒ de gōngzuòrì.",
+      "exampleEnglish": "Sunday is not a workday for me."
+    },
+    {
+      "level": 3,
+      "hanzi": "刮",
+      "pinyin": "guā",
+      "tones": "1",
+      "meaning": "to blow (of the wind); to scrape; to blow",
+      "exampleChinese": "外面刮大风了。",
+      "examplePinyin": "Wàimiàn guā dà fēng le.",
+      "exampleEnglish": "A strong wind is blowing outside."
+    },
+    {
+      "level": 3,
+      "hanzi": "关",
+      "pinyin": "guān",
+      "tones": "1",
+      "meaning": "to close; shut; concern",
+      "exampleChinese": "没关系。",
+      "examplePinyin": "Méiguānxi.",
+      "exampleEnglish": "It's OK."
+    },
+    {
+      "level": 3,
+      "hanzi": "关机",
+      "pinyin": "guānjī",
+      "tones": "1 1",
+      "meaning": "to turn off (a machine or device); to finish shooting a film",
+      "exampleChinese": "上课前请把手机关机。",
+      "examplePinyin": "Shàng kè qián qǐng bǎ shǒujī guānjī.",
+      "exampleEnglish": "Please turn your phone off before class."
+    },
+    {
+      "level": 3,
+      "hanzi": "关系",
+      "pinyin": "guānxi",
+      "tones": "1 5",
+      "meaning": "relation; to concern",
+      "exampleChinese": "没关系。",
+      "examplePinyin": "Méiguānxi.",
+      "exampleEnglish": "It's OK."
+    },
+    {
+      "level": 3,
+      "hanzi": "关心",
+      "pinyin": "guānxīn",
+      "tones": "1 1",
+      "meaning": "be concerned about; be interested in",
+      "exampleChinese": "我很关心他的健康。",
+      "examplePinyin": "Wǒ hěn guānxīn tā de jiànkāng.",
+      "exampleEnglish": "I am very concerned about his health."
+    },
+    {
+      "level": 3,
+      "hanzi": "关于",
+      "pinyin": "guānyú",
+      "tones": "1 2",
+      "meaning": "about; regarding; concerning",
+      "exampleChinese": "这是本关于星星的书。",
+      "examplePinyin": "Zhè shì běn guānyú xīngxīng de shū.",
+      "exampleEnglish": "This is a book about stars."
+    },
+    {
+      "level": 3,
+      "hanzi": "关注",
+      "pinyin": "guānzhù",
+      "tones": "1 4",
+      "meaning": "to pay attention to; to follow sth closely; to follow (on social media)",
+      "exampleChinese": "谢谢您的关注。",
+      "examplePinyin": "Xièxiènín de guānzhù.",
+      "exampleEnglish": "Thank you for your attention."
+    },
+    {
+      "level": 3,
+      "hanzi": "国家",
+      "pinyin": "guójiā",
+      "tones": "2 1",
+      "meaning": "country; state; nation",
+      "exampleChinese": "美洲有很多国家。",
+      "examplePinyin": "Měizhōu yǒu hěn duō guójiā.",
+      "exampleEnglish": "There are many countries in the Americas."
+    },
+    {
+      "level": 3,
+      "hanzi": "过节",
+      "pinyin": "guòjié",
+      "tones": "4 2",
+      "meaning": "to celebrate a festival; after the celebrations (i.e. once the festival is over)",
+      "exampleChinese": "过节的时候我们全家一起吃饭。",
+      "examplePinyin": "Guòjié de shíhou wǒmen quánjiā yìqǐ chīfàn.",
+      "exampleEnglish": "During festivals our whole family eats together."
+    },
+    {
+      "level": 3,
+      "hanzi": "过去",
+      "pinyin": "guòqù",
+      "tones": "4 4",
+      "meaning": "(in the) past; former; previous",
+      "exampleChinese": "多少年过去了。",
+      "examplePinyin": "Duōshǎo nián guòqù le.",
+      "exampleEnglish": "Years passed."
+    },
+    {
+      "level": 3,
+      "hanzi": "故事",
+      "pinyin": "gùshi",
+      "tones": "4 5",
+      "meaning": "story; tale",
+      "exampleChinese": "这个故事很悲壮。",
+      "examplePinyin": "Zhège gùshi hěn bēizhuàng.",
+      "exampleEnglish": "This story is tragic and stirring."
+    },
+    {
+      "level": 3,
+      "hanzi": "海",
+      "pinyin": "hǎi",
+      "tones": "3",
+      "meaning": "ocean; sea; great number of people or things",
+      "exampleChinese": "台东的海很美。",
+      "examplePinyin": "Táidōng de hǎi hěn měi.",
+      "exampleEnglish": "The sea in Taitung is beautiful."
+    },
+    {
+      "level": 3,
+      "hanzi": "害怕",
+      "pinyin": "hàipà",
+      "tones": "4 4",
+      "meaning": "afraid of; to fear",
+      "exampleChinese": "你害怕吗？",
+      "examplePinyin": "Nǐ hàipà ma?",
+      "exampleEnglish": "Are you afraid?"
+    },
+    {
+      "level": 3,
+      "hanzi": "好多",
+      "pinyin": "hǎoduō",
+      "tones": "3 1",
+      "meaning": "many; quite a lot; much better",
+      "exampleChinese": "这样好多了。",
+      "examplePinyin": "Zhèyàng hǎoduō le.",
+      "exampleEnglish": "This is way better."
+    },
+    {
+      "level": 3,
+      "hanzi": "好久",
+      "pinyin": "hǎojiǔ",
+      "tones": "3 3",
+      "meaning": "quite a while",
+      "exampleChinese": "好久不见了。",
+      "examplePinyin": "Hǎojiǔbújiàn le.",
+      "exampleEnglish": "Long time no see."
+    },
+    {
+      "level": 3,
+      "hanzi": "号码",
+      "pinyin": "hàomǎ",
+      "tones": "4 3",
+      "meaning": "number",
+      "exampleChinese": "电话号码是多少？",
+      "examplePinyin": "Diànhuàhàomǎ shì duōshǎo?",
+      "exampleEnglish": "What's the number?"
+    },
+    {
+      "level": 3,
+      "hanzi": "好像",
+      "pinyin": "hǎoxiàng",
+      "tones": "3 4",
+      "meaning": "as if; seem to be",
+      "exampleChinese": "他好像病了。",
+      "examplePinyin": "Tā hǎoxiàng bìng le.",
+      "exampleEnglish": "He seems to be sick."
+    },
+    {
+      "level": 3,
+      "hanzi": "河",
+      "pinyin": "hé",
+      "tones": "2",
+      "meaning": "river; (bound form) the Yellow River; (bound form) the Milky Way",
+      "exampleChinese": "我们在河边散步。",
+      "examplePinyin": "Wǒmen zài hébiān sànbù.",
+      "exampleEnglish": "We take a walk by the river."
+    },
+    {
+      "level": 3,
+      "hanzi": "黑板",
+      "pinyin": "hēibǎn",
+      "tones": "1 3",
+      "meaning": "blackboard",
+      "exampleChinese": "我为老师擦黑板。",
+      "examplePinyin": "Wǒ wèi lǎoshī cā hēibǎn.",
+      "exampleEnglish": "I erased the blackboard for the teacher."
+    },
+    {
+      "level": 3,
+      "hanzi": "合适",
+      "pinyin": "héshì",
+      "tones": "2 4",
+      "meaning": "suitable; proper; appropriate",
+      "exampleChinese": "这实在不合适。",
+      "examplePinyin": "Zhè shízài bù héshì.",
+      "exampleEnglish": "It is highly improper."
+    },
+    {
+      "level": 3,
+      "hanzi": "红绿灯",
+      "pinyin": "hóng-lǜdēng",
+      "tones": "2 4 1",
+      "meaning": "traffic light; traffic signal",
+      "exampleChinese": "沿着这条路直走，到第三个红绿灯的地方右转。",
+      "examplePinyin": "Yánzhe zhètiáo lùzhí zǒu, dào dìsāngè hónglǜdēng de dìfāng yòuzhuǎn.",
+      "exampleEnglish": "Go straight down this street and turn right at the third light."
+    },
+    {
+      "level": 3,
+      "hanzi": "后来",
+      "pinyin": "hòulái",
+      "tones": "4 2",
+      "meaning": "afterwards; after; later",
+      "exampleChinese": "我本来想走的，但后来忘了。",
+      "examplePinyin": "Wǒ běnlái xiǎng zǒu de, dàn hòulái wàng le.",
+      "exampleEnglish": "I intended to go, but forgot to."
+    },
+    {
+      "level": 3,
+      "hanzi": "后年",
+      "pinyin": "hòunián",
+      "tones": "4 2",
+      "meaning": "the year after next",
+      "exampleChinese": "后年我想去中国学习。",
+      "examplePinyin": "Hòunián wǒ xiǎng qù Zhōngguó xuéxí.",
+      "exampleEnglish": "The year after next I want to study in China."
+    },
+    {
+      "level": 3,
+      "hanzi": "后天",
+      "pinyin": "hòutiān",
+      "tones": "4 1",
+      "meaning": "the day after tomorrow; life after birth (the period in which one develops through experiences, contrasted…",
+      "exampleChinese": "后天见。",
+      "examplePinyin": "Hòutiān jiàn.",
+      "exampleEnglish": "See you in two days."
+    },
+    {
+      "level": 3,
+      "hanzi": "画家",
+      "pinyin": "huàjiā",
+      "tones": "4 1",
+      "meaning": "painter",
+      "exampleChinese": "那位画家画的马很有名。",
+      "examplePinyin": "Nà wèi huàjiā huà de mǎ hěn yǒumíng.",
+      "exampleEnglish": "That painter’s horses are famous."
+    },
+    {
+      "level": 3,
+      "hanzi": "还",
+      "pinyin": "huán",
+      "tones": "2",
+      "meaning": "to return",
+      "exampleChinese": "我还在读书。",
+      "examplePinyin": "Wǒ hái zài dúshū.",
+      "exampleEnglish": "I'm still reading."
+    },
+    {
+      "level": 3,
+      "hanzi": "换",
+      "pinyin": "huàn",
+      "tones": "4",
+      "meaning": "change; to exchange; to barter",
+      "exampleChinese": "我想换一些港币。",
+      "examplePinyin": "Wǒ xiǎng huàn yìxiē gǎngbì.",
+      "exampleEnglish": "I'd like to change some Hong Kong dollars."
+    },
+    {
+      "level": 3,
+      "hanzi": "黄色",
+      "pinyin": "huángsè",
+      "tones": "2 4",
+      "meaning": "yellow; vulgar; lewd",
+      "exampleChinese": "办公室的门是黄色的。",
+      "examplePinyin": "Bàngōngshì de mén shì huángsè de.",
+      "exampleEnglish": "The door of the office is yellow."
+    },
+    {
+      "level": 3,
+      "hanzi": "环境",
+      "pinyin": "huánjìng",
+      "tones": "2 4",
+      "meaning": "environment; surroundings; situation",
+      "exampleChinese": "他看了看周遭的环境。",
+      "examplePinyin": "Tā kàn le kàn zhōuzāo de huánjìng.",
+      "exampleEnglish": "He looked around at his surroundings."
+    },
+    {
+      "level": 3,
+      "hanzi": "欢迎",
+      "pinyin": "huānyíng",
+      "tones": "1 2",
+      "meaning": "to welcome; greet",
+      "exampleChinese": "欢迎回来。",
+      "examplePinyin": "Huānyíng huílai.",
+      "exampleEnglish": "Welcome back."
+    },
+    {
+      "level": 3,
+      "hanzi": "花园",
+      "pinyin": "huāyuán",
+      "tones": "1 2",
+      "meaning": "garden (for flowers, ornamental plants etc); (landscaped) park; yard with decorative plants",
+      "exampleChinese": "我爸爸在花园里。",
+      "examplePinyin": "Wǒ bàbà zài huāyuánlǐ.",
+      "exampleEnglish": "My father's in the garden."
+    },
+    {
+      "level": 3,
+      "hanzi": "会",
+      "pinyin": "huì",
+      "tones": "4",
+      "meaning": "meeting; gathering; conference",
+      "exampleChinese": "一会儿见！",
+      "examplePinyin": "Yīhuìer jiàn!",
+      "exampleEnglish": "See you soon!"
+    },
+    {
+      "level": 3,
+      "hanzi": "回答",
+      "pinyin": "huídá",
+      "tones": "2 2",
+      "meaning": "to reply; to answer",
+      "exampleChinese": "回答我。",
+      "examplePinyin": "Huídá wǒ.",
+      "exampleEnglish": "Answer me."
+    },
+    {
+      "level": 3,
+      "hanzi": "会议",
+      "pinyin": "huìyì",
+      "tones": "4 4",
+      "meaning": "meeting; conference",
+      "exampleChinese": "会议完满结束了。",
+      "examplePinyin": "Huìyì wánmǎn jiéshù le.",
+      "exampleEnglish": "The meeting ended successfully."
+    },
+    {
+      "level": 3,
+      "hanzi": "或",
+      "pinyin": "huò",
+      "tones": "4",
+      "meaning": "maybe; perhaps; might",
+      "exampleChinese": "你去，抑或我去？",
+      "examplePinyin": "Nǐ qù, yìhuò wǒ qù?",
+      "exampleEnglish": "Will you go, or shall I?"
+    },
+    {
+      "level": 3,
+      "hanzi": "或者",
+      "pinyin": "huòzhě",
+      "tones": "4 3",
+      "meaning": "or; possible; maybe",
+      "exampleChinese": "你或者我会被选中。",
+      "examplePinyin": "Nǐ huòzhě wǒhuì bèi xuǎnzhōng.",
+      "exampleEnglish": "You or I will be chosen."
+    },
+    {
+      "level": 3,
+      "hanzi": "护照",
+      "pinyin": "hùzhào",
+      "tones": "4 4",
+      "meaning": "passport",
+      "exampleChinese": "去拿你的护照。",
+      "examplePinyin": "Qù ná nǐ de hùzhào.",
+      "exampleEnglish": "Go get your passport."
+    },
+    {
+      "level": 3,
+      "hanzi": "极",
+      "pinyin": "jí",
+      "tones": "2",
+      "meaning": "an extreme; pole; very",
+      "exampleChinese": "这里的风景美极了！",
+      "examplePinyin": "Zhèlǐ de fēngjǐng měi jí le!",
+      "exampleEnglish": "The scenery here is gorgeous!"
+    },
+    {
+      "level": 3,
+      "hanzi": "急",
+      "pinyin": "jí",
+      "tones": "2",
+      "meaning": "urgent; pressing; rapid",
+      "exampleChinese": "别心急，慢慢来。",
+      "examplePinyin": "Bié xīnjí, mànmàn lái.",
+      "exampleEnglish": "Don't be impatient, take it slow."
+    },
+    {
+      "level": 3,
+      "hanzi": "季",
+      "pinyin": "jì",
+      "tones": "4",
+      "meaning": "season; the last month of a season; fourth or youngest amongst brothers",
+      "exampleChinese": "我们吃当季的水果吧。",
+      "examplePinyin": "Wǒmen chī dāngjì de shuǐguǒ ba.",
+      "exampleEnglish": "Let's eat fruit that is in season."
+    },
+    {
+      "level": 3,
+      "hanzi": "记",
+      "pinyin": "jì",
+      "tones": "4",
+      "meaning": "to record; to note; to memorize",
+      "exampleChinese": "你记得吗？",
+      "examplePinyin": "Nǐ jìde ma?",
+      "exampleEnglish": "Do you remember?"
+    },
+    {
+      "level": 3,
+      "hanzi": "鸡",
+      "pinyin": "jī",
+      "tones": "1",
+      "meaning": "fowl; chicken; (slang) prostitute",
+      "exampleChinese": "我不喜欢鸡蛋。",
+      "examplePinyin": "Wǒ bù xǐhuān jīdàn.",
+      "exampleEnglish": "I dislike eggs."
+    },
+    {
+      "level": 3,
+      "hanzi": "加",
+      "pinyin": "jiā",
+      "tones": "1",
+      "meaning": "Canada (abbr. for 加拿大); to add; (math.) plus",
+      "exampleChinese": "保加利亚在欧洲。",
+      "examplePinyin": "Bǎojiālìyà zài Ōuzhōu.",
+      "exampleEnglish": "Bulgaria is in Europe."
+    },
+    {
+      "level": 3,
+      "hanzi": "检查",
+      "pinyin": "jiǎnchá",
+      "tones": "3 2",
+      "meaning": "to check; examine; inspect",
+      "exampleChinese": "医生让我检查一下小便。",
+      "examplePinyin": "Yīshēng ràng wǒ jiǎnchá yíxià xiǎobiàn.",
+      "exampleEnglish": "The doctor wants me to have my urine tested."
+    },
+    {
+      "level": 3,
+      "hanzi": "坚持",
+      "pinyin": "jiānchí",
+      "tones": "1 2",
+      "meaning": "persist in; persevere",
+      "exampleChinese": "他们坚持让他走。",
+      "examplePinyin": "Tāmen jiānchí ràng tā zǒu.",
+      "exampleEnglish": "They insist that he should go."
+    },
+    {
+      "level": 3,
+      "hanzi": "简单",
+      "pinyin": "jiǎndān",
+      "tones": "3 1",
+      "meaning": "simple; not complicated",
+      "exampleChinese": "这很简单。",
+      "examplePinyin": "Zhè hěn jiǎndān.",
+      "exampleEnglish": "It's very simple."
+    },
+    {
+      "level": 3,
+      "hanzi": "讲",
+      "pinyin": "jiǎng",
+      "tones": "3",
+      "meaning": "to talk; to lecture; to explain",
+      "exampleChinese": "他对朋友很讲义气。",
+      "examplePinyin": "Tā duì péngyou hěn jiǎng yìqì.",
+      "exampleEnglish": "He is very loyal to his friends."
+    },
+    {
+      "level": 3,
+      "hanzi": "健康",
+      "pinyin": "jiànkāng",
+      "tones": "4 1",
+      "meaning": "health; healthy",
+      "exampleChinese": "我希望你很健康。",
+      "examplePinyin": "Wǒ xīwàng nǐ hěn jiànkāng.",
+      "exampleEnglish": "I hope that you are very well."
+    },
+    {
+      "level": 3,
+      "hanzi": "见面",
+      "pinyin": "jiànmiàn",
+      "tones": "4 4",
+      "meaning": "meet/see somebody (face to face); meeting",
+      "exampleChinese": "我们在学校附近的咖啡馆见面吧。",
+      "examplePinyin": "Wǒmen zài xuéxiào fùjìn de kāfēiguǎn jiànmiàn ba.",
+      "exampleEnglish": "Let's meet at the cafe near the school."
+    },
+    {
+      "level": 3,
+      "hanzi": "检票",
+      "pinyin": "jiǎnpiào",
+      "tones": "3 4",
+      "meaning": "to inspect a ticket; to examine a ballot",
+      "exampleChinese": "上车前要先检票。",
+      "examplePinyin": "Shàng chē qián yào xiān jiǎnpiào.",
+      "exampleEnglish": "Tickets are checked before boarding."
+    },
+    {
+      "level": 3,
+      "hanzi": "脚",
+      "pinyin": "jiǎo",
+      "tones": "3",
+      "meaning": "foot (body part)",
+      "exampleChinese": "我的脚踝很疼。",
+      "examplePinyin": "Wǒ de jiǎohuái hěn téng.",
+      "exampleEnglish": "My ankle really hurts."
+    },
+    {
+      "level": 3,
+      "hanzi": "角",
+      "pinyin": "jiǎo",
+      "tones": "3",
+      "meaning": "horn; angle; unit of money (1/10 yuan)",
+      "exampleChinese": "这块蛋糕是三角形的。",
+      "examplePinyin": "Zhè kuài dàngāo shì sānjiǎoxíng de.",
+      "exampleEnglish": "This piece of cake is a triangle."
+    },
+    {
+      "level": 3,
+      "hanzi": "假期",
+      "pinyin": "jiàqī",
+      "tones": "4 1",
+      "meaning": "vacation",
+      "exampleChinese": "现在假期结束了。",
+      "examplePinyin": "Xiànzài jiàqī jiéshù le.",
+      "exampleEnglish": "The vacation is over now."
+    },
+    {
+      "level": 3,
+      "hanzi": "节",
+      "pinyin": "jié",
+      "tones": "2",
+      "meaning": "section; part; festival",
+      "exampleChinese": "春节我要回老家。",
+      "examplePinyin": "Chūnjié wǒ yào huí lǎojiā.",
+      "exampleEnglish": "I'm going back to my hometown for Spring Festival."
+    },
+    {
+      "level": 3,
+      "hanzi": "借",
+      "pinyin": "jiè",
+      "tones": "4",
+      "meaning": "lend; borrow; excuse",
+      "exampleChinese": "你的随身碟可以借我吗？",
+      "examplePinyin": "Nǐ de suíshēndié kěyǐ jiè wǒ ma?",
+      "exampleEnglish": "Can I borrow your USB drive?"
+    },
+    {
+      "level": 3,
+      "hanzi": "接",
+      "pinyin": "jiē",
+      "tones": "1",
+      "meaning": "connect; to meet; to pick up (somebody)",
+      "exampleChinese": "我要去机场接人。",
+      "examplePinyin": "Wǒ yào qù jīchǎng jiē rén.",
+      "exampleEnglish": "I have to pick someone up at the airport."
+    },
+    {
+      "level": 3,
+      "hanzi": "街",
+      "pinyin": "jiē",
+      "tones": "1",
+      "meaning": "street",
+      "exampleChinese": "大街上人很多。",
+      "examplePinyin": "Dàjiē shang rén hěn duō.",
+      "exampleEnglish": "There are many people on the street."
+    },
+    {
+      "level": 3,
+      "hanzi": "结婚",
+      "pinyin": "jiéhūn",
+      "tones": "2 1",
+      "meaning": "get married",
+      "exampleChinese": "我结婚了。",
+      "examplePinyin": "Wǒ jiéhūn le.",
+      "exampleEnglish": "I'm married."
+    },
+    {
+      "level": 3,
+      "hanzi": "解决",
+      "pinyin": "jiějué",
+      "tones": "3 2",
+      "meaning": "settle (a dispute); resolve; solve",
+      "exampleChinese": "解决他们。",
+      "examplePinyin": "Jiějué tāmen.",
+      "exampleEnglish": "Deal with them."
+    },
+    {
+      "level": 3,
+      "hanzi": "姐妹",
+      "pinyin": "jiěmèi",
+      "tones": "3 4",
+      "meaning": "sisters; siblings; sister (school, city etc)",
+      "exampleChinese": "我没有姐妹。",
+      "examplePinyin": "Wǒ méiyǒu jiěmèi.",
+      "exampleEnglish": "I don't have any sisters."
+    },
+    {
+      "level": 3,
+      "hanzi": "节目",
+      "pinyin": "jiémù",
+      "tones": "2 4",
+      "meaning": "program; item (on a program)",
+      "exampleChinese": "你听了我昨天晚上的节目吗？",
+      "examplePinyin": "Nǐ tīng le wǒ zuótiānwǎnshàng de jiémù ma?",
+      "exampleEnglish": "Did you hear my show last night?"
+    },
+    {
+      "level": 3,
+      "hanzi": "节日",
+      "pinyin": "jiérì",
+      "tones": "2 4",
+      "meaning": "festival; holiday",
+      "exampleChinese": "节日和考试碰巧在同一天。",
+      "examplePinyin": "Jiérì hé kǎoshì pèngqiǎozài tóngyītiān.",
+      "exampleEnglish": "The date of the festival coincides with that of the exam."
+    },
+    {
+      "level": 3,
+      "hanzi": "结束",
+      "pinyin": "jiéshù",
+      "tones": "2 4",
+      "meaning": "to end; to finish; conclude",
+      "exampleChinese": "你结束了吗？",
+      "examplePinyin": "Nǐ jiéshù le ma?",
+      "exampleEnglish": "Are you finished?"
+    },
+    {
+      "level": 3,
+      "hanzi": "几乎",
+      "pinyin": "jīhū",
+      "tones": "1 1",
+      "meaning": "almost",
+      "exampleChinese": "我几乎不回家。",
+      "examplePinyin": "Wǒ jīhū bù huíjiā.",
+      "exampleEnglish": "I'm almost never home."
+    },
+    {
+      "level": 3,
+      "hanzi": "机会",
+      "pinyin": "jīhuì",
+      "tones": "1 4",
+      "meaning": "chance; opportunity",
+      "exampleChinese": "没人给我们机会。",
+      "examplePinyin": "Méirén gěi wǒmen jīhuì.",
+      "exampleEnglish": "Nobody gave us a chance."
+    },
+    {
+      "level": 3,
+      "hanzi": "季节",
+      "pinyin": "jìjié",
+      "tones": "4 2",
+      "meaning": "season; time; period",
+      "exampleChinese": "您最喜欢哪个季节？",
+      "examplePinyin": "Nín zuì xǐhuān nǎge jìjié?",
+      "exampleEnglish": "What season do you like the best?"
+    },
+    {
+      "level": 3,
+      "hanzi": "斤",
+      "pinyin": "jīn",
+      "tones": "1",
+      "meaning": "catty; (PRC) weight equal to 500 g; (Tw) weight equal to 600 g",
+      "exampleChinese": "我买了一斤小白菜。",
+      "examplePinyin": "Wǒ mǎi le yì jīn xiǎobáicài.",
+      "exampleEnglish": "I bought half a kilo of bok choy."
+    },
+    {
+      "level": 3,
+      "hanzi": "经过",
+      "pinyin": "jīngguò",
+      "tones": "1 4",
+      "meaning": "to pass; go through; as a result of",
+      "exampleChinese": "经过银行，左边就是他的办公室了。",
+      "examplePinyin": "Jīngguò yínháng, zuǒbiān jiùshì tā de bàngōngshì le.",
+      "exampleEnglish": "His office is past the bank on your left."
+    },
+    {
+      "level": 3,
+      "hanzi": "经理",
+      "pinyin": "jīnglǐ",
+      "tones": "1 3",
+      "meaning": "manager; director",
+      "exampleChinese": "他们任命他为经理。",
+      "examplePinyin": "Tāmen rènmìng tā wèi jīnglǐ.",
+      "exampleEnglish": "They appointed him as a director."
+    },
+    {
+      "level": 3,
+      "hanzi": "旧",
+      "pinyin": "jiù",
+      "tones": "4",
+      "meaning": "old; past; used",
+      "exampleChinese": "我哥哥住在旧金山。",
+      "examplePinyin": "Wǒ gēge zhù zài Jiùjīnshān.",
+      "exampleEnglish": "My older brother lives in San Francisco."
+    },
+    {
+      "level": 3,
+      "hanzi": "久",
+      "pinyin": "jiǔ",
+      "tones": "3",
+      "meaning": "long (time)",
+      "exampleChinese": "他久久不能入睡。",
+      "examplePinyin": "Tā jiǔjiǔ bù néng rùshuì.",
+      "exampleEnglish": "For a long time he could not fall asleep."
+    },
+    {
+      "level": 3,
+      "hanzi": "酒",
+      "pinyin": "jiǔ",
+      "tones": "3",
+      "meaning": "wine (esp. rice wine); liquor; spirits",
+      "exampleChinese": "坛子里有很多酒。",
+      "examplePinyin": "Tánzi li yǒu hěn duō jiǔ.",
+      "exampleEnglish": "There is a lot of wine in the jar."
+    },
+    {
+      "level": 3,
+      "hanzi": "句",
+      "pinyin": "jù",
+      "tones": "4",
+      "meaning": "sentence; clause; phrase",
+      "exampleChinese": "这是一句老话。",
+      "examplePinyin": "Zhè shì yí jù lǎohuà.",
+      "exampleEnglish": "This is an old saying."
+    },
+    {
+      "level": 3,
+      "hanzi": "决定",
+      "pinyin": "juédìng",
+      "tones": "2 4",
+      "meaning": "decide; resolve; make up one's mind",
+      "exampleChinese": "我没意见，你决定吧。",
+      "examplePinyin": "Wǒ méi yìjiàn, nǐ juédìng ba.",
+      "exampleEnglish": "I have no objection, you decide."
+    },
+    {
+      "level": 3,
+      "hanzi": "句子",
+      "pinyin": "jùzi",
+      "tones": "4 5",
+      "meaning": "sentence",
+      "exampleChinese": "你不懂这句句子，不是吗？",
+      "examplePinyin": "Nǐ bù dǒng zhè jùjù zi, búshì ma?",
+      "exampleEnglish": "You can't understand this sentence, can you?"
+    },
+    {
+      "level": 3,
+      "hanzi": "卡",
+      "pinyin": "kǎ",
+      "tones": "3",
+      "meaning": "to stop; to block; (computing) (coll.) slow",
+      "exampleChinese": "这儿可以刷卡吗？",
+      "examplePinyin": "Zhèr kěyǐ shuākǎ ma?",
+      "exampleEnglish": "Can I pay by card here?"
+    },
+    {
+      "level": 3,
+      "hanzi": "开花",
+      "pinyin": "kāihuā",
+      "tones": "1 1",
+      "meaning": "to bloom; to blossom; to flower",
+      "exampleChinese": "春天到了，树都开花了。",
+      "examplePinyin": "Chūntiān dào le, shù dōu kāihuā le.",
+      "exampleEnglish": "Spring is here: the trees are all blooming."
+    },
+    {
+      "level": 3,
+      "hanzi": "开会",
+      "pinyin": "kāihuì",
+      "tones": "1 4",
+      "meaning": "to hold a meeting; to attend a meeting",
+      "exampleChinese": "我们正在开会。",
+      "examplePinyin": "Wǒmen zhèng zài kāihuì.",
+      "exampleEnglish": "We're in a meeting right now."
+    },
+    {
+      "level": 3,
+      "hanzi": "开机",
+      "pinyin": "kāijī",
+      "tones": "1 1",
+      "meaning": "to start an engine; to boot up (a computer); to press Ctrl-Alt-Delete",
+      "exampleChinese": "电脑开机要等一分钟。",
+      "examplePinyin": "Diànnǎo kāijī yào děng yì fēnzhōng.",
+      "exampleEnglish": "The computer takes a minute to start up."
+    },
+    {
+      "level": 3,
+      "hanzi": "开心",
+      "pinyin": "kāixīn",
+      "tones": "1 1",
+      "meaning": "feel happy; have a great time; make fun of somebody",
+      "exampleChinese": "你开心吗？",
+      "examplePinyin": "Nǐ kāixīn ma?",
+      "exampleEnglish": "Are you happy?"
+    },
+    {
+      "level": 3,
+      "hanzi": "看来",
+      "pinyin": "kànlai",
+      "tones": "4 5",
+      "meaning": "apparently; it seems that",
+      "exampleChinese": "你看来不大高兴。",
+      "examplePinyin": "Nǐ kànlai bú dà gāoxìng.",
+      "exampleEnglish": "You don't look so happy."
+    },
+    {
+      "level": 3,
+      "hanzi": "刻",
+      "pinyin": "kè",
+      "tones": "4",
+      "meaning": "quarter (hour); (measure word for short time intervals); carve",
+      "exampleChinese": "我爷爷喜欢篆刻。",
+      "examplePinyin": "Wǒ yéye xǐhuan zhuànkè.",
+      "exampleEnglish": "My grandpa loves carving seals."
+    },
+    {
+      "level": 3,
+      "hanzi": "渴",
+      "pinyin": "kě",
+      "tones": "3",
+      "meaning": "thirsty",
+      "exampleChinese": "他的口很渴。",
+      "examplePinyin": "Tā de kǒu hěn kě.",
+      "exampleEnglish": "He's very thirsty."
+    },
+    {
+      "level": 3,
+      "hanzi": "可",
+      "pinyin": "kě",
+      "tones": "3",
+      "meaning": "(prefix) can; may; able to",
+      "exampleChinese": "不可能！",
+      "examplePinyin": "Bù kěnéng!",
+      "exampleEnglish": "No way!"
+    },
+    {
+      "level": 3,
+      "hanzi": "可爱",
+      "pinyin": "kě'ài",
+      "tones": "3 4",
+      "meaning": "cute; lovable; likable",
+      "exampleChinese": "真可爱！",
+      "examplePinyin": "Zhēn kěài!",
+      "exampleEnglish": "How cute!"
+    },
+    {
+      "level": 3,
+      "hanzi": "课本",
+      "pinyin": "kèběn",
+      "tones": "4 3",
+      "meaning": "textbook",
+      "exampleChinese": "这本课本很好。",
+      "examplePinyin": "Zhèběn kèběn hěn hǎo.",
+      "exampleEnglish": "This is a good textbook."
+    },
+    {
+      "level": 3,
+      "hanzi": "客人",
+      "pinyin": "kèren",
+      "tones": "4 5",
+      "meaning": "guest; customer",
+      "exampleChinese": "你有客人。",
+      "examplePinyin": "Nǐ yǒu kèrén.",
+      "exampleEnglish": "You have a visitor."
+    },
+    {
+      "level": 3,
+      "hanzi": "可是",
+      "pinyin": "kěshì",
+      "tones": "3 4",
+      "meaning": "but; however",
+      "exampleChinese": "他射门了，可是没进。",
+      "examplePinyin": "Tā shèmén le, kěshì méi jìn.",
+      "exampleEnglish": "He shot at goal, but missed."
+    },
+    {
+      "level": 3,
+      "hanzi": "课文",
+      "pinyin": "kèwén",
+      "tones": "4 2",
+      "meaning": "text",
+      "exampleChinese": "我最讨厌背诵课文了。",
+      "examplePinyin": "Wǒ zuì tǎoyàn bèisòngkèwén le.",
+      "exampleEnglish": "What I hate most of all is having to recite texts from memory."
+    },
+    {
+      "level": 3,
+      "hanzi": "空调",
+      "pinyin": "kōngtiáo",
+      "tones": "1 2",
+      "meaning": "air-conditioner; air-conditioning",
+      "exampleChinese": "实验室里的空调坏了。",
+      "examplePinyin": "Shíyànshì lǐ de kōngtiáo huài le.",
+      "exampleEnglish": "The air conditioner in the lab is broken."
+    },
+    {
+      "level": 3,
+      "hanzi": "哭",
+      "pinyin": "kū",
+      "tones": "1",
+      "meaning": "cry; weep",
+      "exampleChinese": "她放声大哭起来。",
+      "examplePinyin": "Tā fàngshēng dà kū qǐlai.",
+      "exampleEnglish": "She burst out crying loudly."
+    },
+    {
+      "level": 3,
+      "hanzi": "筷子",
+      "pinyin": "kuàizi",
+      "tones": "4 5",
+      "meaning": "chopsticks",
+      "exampleChinese": "用筷子吃饭难吗？",
+      "examplePinyin": "Yòng kuàizi chīfàn nán ma?",
+      "exampleEnglish": "Is eating with chopsticks difficult?"
+    },
+    {
+      "level": 3,
+      "hanzi": "矿泉水",
+      "pinyin": "kuàngquánshuǐ",
+      "tones": "4 2 3",
+      "meaning": "mineral water",
+      "exampleChinese": "矿泉水的味道很甘甜。",
+      "examplePinyin": "Kuàngquánshuǐ de wèidao hěn gāntián.",
+      "exampleEnglish": "The mineral water tastes very sweet."
+    },
+    {
+      "level": 3,
+      "hanzi": "来自",
+      "pinyin": "láizì",
+      "tones": "2 4",
+      "meaning": "come from (a place)",
+      "exampleChinese": "你真的来自这里？",
+      "examplePinyin": "Nǐ zhēnde láizì zhèlǐ?",
+      "exampleEnglish": "Are you really from here?"
+    },
+    {
+      "level": 3,
+      "hanzi": "蓝",
+      "pinyin": "lán",
+      "tones": "2",
+      "meaning": "blue",
+      "exampleChinese": "今天是蓝天白云。",
+      "examplePinyin": "Jīntiān shì lántiān báiyún.",
+      "exampleEnglish": "Today there's blue sky and white clouds."
+    },
+    {
+      "level": 3,
+      "hanzi": "老",
+      "pinyin": "lǎo",
+      "tones": "3",
+      "meaning": "old; aged; tough",
+      "exampleChinese": "他是老师。",
+      "examplePinyin": "Tā shì lǎoshī.",
+      "exampleEnglish": "He is a teacher."
+    },
+    {
+      "level": 3,
+      "hanzi": "老人",
+      "pinyin": "lǎorén",
+      "tones": "3 2",
+      "meaning": "old man or woman; the elderly; one's aged parents or grandparents",
+      "exampleChinese": "老人坐了下来。",
+      "examplePinyin": "Lǎorén zuò le xiàlai.",
+      "exampleEnglish": "The old man sat down."
+    },
+    {
+      "level": 3,
+      "hanzi": "练",
+      "pinyin": "liàn",
+      "tones": "4",
+      "meaning": "to practice; to train; to drill",
+      "exampleChinese": "我每天早上练瑜伽。",
+      "examplePinyin": "Wǒ měi tiān zǎoshang liàn yújiā.",
+      "exampleEnglish": "I do yoga every morning."
+    },
+    {
+      "level": 3,
+      "hanzi": "脸",
+      "pinyin": "liǎn",
+      "tones": "3",
+      "meaning": "face",
+      "exampleChinese": "我每天都看脸书。",
+      "examplePinyin": "Wǒ měi tiān dōu kàn Liǎnshū.",
+      "exampleEnglish": "I check Facebook every day."
+    },
+    {
+      "level": 3,
+      "hanzi": "辆",
+      "pinyin": "liàng",
+      "tones": "4",
+      "meaning": "(measure word for vehicles)",
+      "exampleChinese": "他开一辆铃木的车。",
+      "examplePinyin": "Tā kāi yí liàng Língmù de chē.",
+      "exampleEnglish": "He drives a Suzuki."
+    },
+    {
+      "level": 3,
+      "hanzi": "凉快",
+      "pinyin": "liángkuai",
+      "tones": "2 5",
+      "meaning": "nice and cool; pleasantly cool",
+      "exampleChinese": "今天很凉快。",
+      "examplePinyin": "Jīntiān hěn liángkuài.",
+      "exampleEnglish": "It's cool today."
+    },
+    {
+      "level": 3,
+      "hanzi": "练习",
+      "pinyin": "liànxí",
+      "tones": "4 2",
+      "meaning": "practice; exercise",
+      "exampleChinese": "今天我们练习会话。",
+      "examplePinyin": "Jīntiān wǒmen liànxí huìhuà.",
+      "exampleEnglish": "Today we practice conversation."
+    },
+    {
+      "level": 3,
+      "hanzi": "聊",
+      "pinyin": "liáo",
+      "tones": "2",
+      "meaning": "(coll.) to chat; (literary) temporarily; for a while",
+      "exampleChinese": "两个人一来一往地聊天。",
+      "examplePinyin": "Liǎng ge rén yìlái-yìwǎng de liáotiān.",
+      "exampleEnglish": "The two of them chatted back and forth."
+    },
+    {
+      "level": 3,
+      "hanzi": "了解",
+      "pinyin": "liǎojiě",
+      "tones": "3 3",
+      "meaning": "comprehend; understand; know",
+      "exampleChinese": "我了解你。",
+      "examplePinyin": "Wǒ liǎojiě nǐ.",
+      "exampleEnglish": "I get you."
+    },
+    {
+      "level": 3,
+      "hanzi": "聊天儿",
+      "pinyin": "liáotiānr",
+      "tones": "2 1 5",
+      "meaning": "erhua variant of 聊天",
+      "exampleChinese": "晚饭后我们坐在外面聊天儿。",
+      "examplePinyin": "Wǎnfàn hòu wǒmen zuò zài wàimiàn liáotiānr.",
+      "exampleEnglish": "After dinner we sit outside and chat."
+    },
+    {
+      "level": 3,
+      "hanzi": "离开",
+      "pinyin": "líkāi",
+      "tones": "2 1",
+      "meaning": "leave; depart",
+      "exampleChinese": "他们离开了。",
+      "examplePinyin": "Tāmen líkāi le.",
+      "exampleEnglish": "They left."
+    },
+    {
+      "level": 3,
+      "hanzi": "邻居",
+      "pinyin": "línjū",
+      "tones": "2 1",
+      "meaning": "neighbor",
+      "exampleChinese": "你应该对邻居好点。",
+      "examplePinyin": "Nǐ yīnggāi duì línjū hǎodiǎn.",
+      "exampleEnglish": "You should be good to your neighbors."
+    },
+    {
+      "level": 3,
+      "hanzi": "历史",
+      "pinyin": "lìshǐ",
+      "tones": "4 3",
+      "meaning": "history; past records",
+      "exampleChinese": "历史课九点开始。",
+      "examplePinyin": "Lìshǐkè jiǔdiǎn kāishǐ.",
+      "exampleEnglish": "The history class starts at nine."
+    },
+    {
+      "level": 3,
+      "hanzi": "留学",
+      "pinyin": "liú xué",
+      "tones": "2 2",
+      "meaning": "study abroad",
+      "exampleChinese": "他出国留学了。",
+      "examplePinyin": "Tā chūguó liúxué le.",
+      "exampleEnglish": "He studied abroad."
+    },
+    {
+      "level": 3,
+      "hanzi": "留学生",
+      "pinyin": "liúxuéshēng",
+      "tones": "2 2 1",
+      "meaning": "student studying abroad; returned student; foreign student",
+      "exampleChinese": "保罗是美国留学生。",
+      "examplePinyin": "Bǎoluó shì Měiguó liúxuéshēng.",
+      "exampleEnglish": "Paul is an American student studying abroad."
+    },
+    {
+      "level": 3,
+      "hanzi": "礼物",
+      "pinyin": "lǐwù",
+      "tones": "3 4",
+      "meaning": "gift; present",
+      "exampleChinese": "孩子们在等圣诞老人的礼物。",
+      "examplePinyin": "Háizimen zài děng Shèngdàn Lǎorén de lǐwù.",
+      "exampleEnglish": "The children are waiting for Father Christmas's presents."
+    },
+    {
+      "level": 3,
+      "hanzi": "楼梯",
+      "pinyin": "lóutī",
+      "tones": "2 1",
+      "meaning": "stair; staircase",
+      "exampleChinese": "这名老妇艰难地爬上楼梯。",
+      "examplePinyin": "Zhèmíng lǎofù jiānnán de pá shàng lóutī.",
+      "exampleEnglish": "The old lady climbed the stairs with difficulty."
+    },
+    {
+      "level": 3,
+      "hanzi": "路边",
+      "pinyin": "lùbiān",
+      "tones": "4 1",
+      "meaning": "curb; roadside; wayside",
+      "exampleChinese": "路边开满了小花。",
+      "examplePinyin": "Lùbiān kāi mǎn le xiǎo huā.",
+      "exampleEnglish": "The roadside is full of little flowers."
+    },
+    {
+      "level": 3,
+      "hanzi": "路口",
+      "pinyin": "lùkǒu",
+      "tones": "4 3",
+      "meaning": "crossing; intersection (of roads)",
+      "exampleChinese": "在十字路口右转。",
+      "examplePinyin": "Zài shízìlùkǒu yòuzhuǎn.",
+      "exampleEnglish": "Turn right at the intersection."
+    },
+    {
+      "level": 3,
+      "hanzi": "马",
+      "pinyin": "mǎ",
+      "tones": "3",
+      "meaning": "horse",
+      "exampleChinese": "马里在非洲西部。",
+      "examplePinyin": "Mǎlǐ zài Fēizhōu xībù.",
+      "exampleEnglish": "Mali is in West Africa."
+    },
+    {
+      "level": 3,
+      "hanzi": "马路",
+      "pinyin": "mǎlù",
+      "tones": "3 4",
+      "meaning": "street; road",
+      "exampleChinese": "过马路时请小心。",
+      "examplePinyin": "Guò mǎlù shíqǐng xiǎoxīn.",
+      "exampleEnglish": "Please be careful when crossing the street."
+    },
+    {
+      "level": 3,
+      "hanzi": "满意",
+      "pinyin": "mǎnyì",
+      "tones": "3 4",
+      "meaning": "satisfied; pleased",
+      "exampleChinese": "他们满意了。",
+      "examplePinyin": "Tāmen mǎnyì le.",
+      "exampleEnglish": "They are satisfied."
+    },
+    {
+      "level": 3,
+      "hanzi": "毛",
+      "pinyin": "máo",
+      "tones": "2",
+      "meaning": "hair; fur; feather",
+      "exampleChinese": "她的睫毛又长又黑。",
+      "examplePinyin": "Tā de jiémáo yòu cháng yòu hēi.",
+      "exampleEnglish": "Her eyelashes are long and dark."
+    },
+    {
+      "level": 3,
+      "hanzi": "马上",
+      "pinyin": "mǎshàng",
+      "tones": "3 4",
+      "meaning": "at once; immediately; right away",
+      "exampleChinese": "你最好马上走。",
+      "examplePinyin": "Nǐ zuìhǎo mǎshàng zǒu.",
+      "exampleEnglish": "You'd better leave now."
+    },
+    {
+      "level": 3,
+      "hanzi": "米",
+      "pinyin": "mǐ",
+      "tones": "3",
+      "meaning": "rice; meter",
+      "exampleChinese": "我在吃米饭。",
+      "examplePinyin": "Wǒ zài chī mǐfàn.",
+      "exampleEnglish": "I'm eating rice."
+    },
+    {
+      "level": 3,
+      "hanzi": "面前",
+      "pinyin": "miànqián",
+      "tones": "4 2",
+      "meaning": "in front of; facing; (in the) presence (of)",
+      "exampleChinese": "法律面前人人平等。",
+      "examplePinyin": "Fǎlǜ miànqián rénrénpíngděng.",
+      "exampleEnglish": "Everyone is equal before the law."
+    },
+    {
+      "level": 3,
+      "hanzi": "明白",
+      "pinyin": "míngbai",
+      "tones": "2 5",
+      "meaning": "clear; obvious; understand",
+      "exampleChinese": "不明白。",
+      "examplePinyin": "Bù míngbái.",
+      "exampleEnglish": "I don't understand."
+    },
+    {
+      "level": 3,
+      "hanzi": "名单",
+      "pinyin": "míngdān",
+      "tones": "2 1",
+      "meaning": "list of names",
+      "exampleChinese": "他的名字不在名单里。",
+      "examplePinyin": "Tā de míngzi bú zài míngdān lǐ.",
+      "exampleEnglish": "His name is not on the list."
+    },
+    {
+      "level": 3,
+      "hanzi": "名人",
+      "pinyin": "míngrén",
+      "tones": "2 2",
+      "meaning": "personage; celebrity",
+      "exampleChinese": "你现在是名人了。",
+      "examplePinyin": "Nǐ xiànzài shì míngrén le.",
+      "exampleEnglish": "You're a celebrity now."
+    },
+    {
+      "level": 3,
+      "hanzi": "难",
+      "pinyin": "nán",
+      "tones": "2",
+      "meaning": "difficult",
+      "exampleChinese": "上次的考试很难。",
+      "examplePinyin": "Shàngcì de kǎoshì hěn nán.",
+      "exampleEnglish": "The last exam was very hard."
+    },
+    {
+      "level": 3,
+      "hanzi": "南",
+      "pinyin": "nán",
+      "tones": "2",
+      "meaning": "South",
+      "exampleChinese": "我想去台南玩。",
+      "examplePinyin": "Wǒ xiǎng qù Táinán wán.",
+      "exampleEnglish": "I'd like to visit Tainan."
+    },
+    {
+      "level": 3,
+      "hanzi": "南方",
+      "pinyin": "nánfāng",
+      "tones": "2 1",
+      "meaning": "south; southern direction; (in China) southern regions, often referring to areas south of the Yangtze River",
+      "exampleChinese": "南方的冬天不太冷。",
+      "examplePinyin": "Nánfāng de dōngtiān bú tài lěng.",
+      "exampleEnglish": "Winters in the south are not very cold."
+    },
+    {
+      "level": 3,
+      "hanzi": "难过",
+      "pinyin": "nánguò",
+      "tones": "2 4",
+      "meaning": "be grieved; be sad; have a hard time",
+      "exampleChinese": "我很难过。",
+      "examplePinyin": "Wǒ hěn nánguò.",
+      "exampleEnglish": "I'm sad."
+    },
+    {
+      "level": 3,
+      "hanzi": "难看",
+      "pinyin": "nánkàn",
+      "tones": "2 4",
+      "meaning": "ugly; unsightly",
+      "exampleChinese": "她穿着一条很难看的裙子。",
+      "examplePinyin": "Tā chuānzhe yītiáo hěn nánkàn de qúnzi.",
+      "exampleEnglish": "She was wearing an ugly dress."
+    },
+    {
+      "level": 3,
+      "hanzi": "男人",
+      "pinyin": "nánrén",
+      "tones": "2 2",
+      "meaning": "a man; a male; men",
+      "exampleChinese": "我是个男人。",
+      "examplePinyin": "Wǒ shì gè nánrén.",
+      "exampleEnglish": "I'm a man."
+    },
+    {
+      "level": 3,
+      "hanzi": "男生",
+      "pinyin": "nánshēng",
+      "tones": "2 1",
+      "meaning": "schoolboy; male student; boy",
+      "exampleChinese": "这个班有多少男生？",
+      "examplePinyin": "Zhège bānyǒu duōshǎo nánshēng?",
+      "exampleEnglish": "How many boys are in this class?"
+    },
+    {
+      "level": 3,
+      "hanzi": "难题",
+      "pinyin": "nántí",
+      "tones": "2 2",
+      "meaning": "difficult problem",
+      "exampleChinese": "这是一道数学难题。",
+      "examplePinyin": "Zhè shì yí dào shùxué nántí.",
+      "exampleEnglish": "This is a difficult math problem."
+    },
+    {
+      "level": 3,
+      "hanzi": "难听",
+      "pinyin": "nántīng",
+      "tones": "2 1",
+      "meaning": "unpleasant to hear; coarse; vulgar",
+      "exampleChinese": "这首歌真难听。",
+      "examplePinyin": "Zhè shǒu gē zhēn nántīng.",
+      "exampleEnglish": "This song sounds awful."
+    },
+    {
+      "level": 3,
+      "hanzi": "年级",
+      "pinyin": "niánjí",
+      "tones": "2 2",
+      "meaning": "grade; year (in school)",
+      "exampleChinese": "我弟弟是大学三年级的学生。",
+      "examplePinyin": "Wǒ dìdi shì dàxué sān niánjí de xuésheng.",
+      "exampleEnglish": "My younger brother is a third year university student."
+    },
+    {
+      "level": 3,
+      "hanzi": "年轻",
+      "pinyin": "niánqīng",
+      "tones": "2 1",
+      "meaning": "young",
+      "exampleChinese": "你还年轻。",
+      "examplePinyin": "Nǐ hái niánqīng.",
+      "exampleEnglish": "You're still green."
+    },
+    {
+      "level": 3,
+      "hanzi": "牛",
+      "pinyin": "niú",
+      "tones": "2",
+      "meaning": "ox; cow; bull",
+      "exampleChinese": "我在喝牛奶。",
+      "examplePinyin": "Wǒ zài hēniúnǎi.",
+      "exampleEnglish": "I'm drinking milk."
+    },
+    {
+      "level": 3,
+      "hanzi": "努力",
+      "pinyin": "nǔlì",
+      "tones": "3 4",
+      "meaning": "make great effort; try hard",
+      "exampleChinese": "我在努力。",
+      "examplePinyin": "Wǒ zài nǔlì.",
+      "exampleEnglish": "I'm working on doing that."
+    },
+    {
+      "level": 3,
+      "hanzi": "女人",
+      "pinyin": "nǚrén",
+      "tones": "3 2",
+      "meaning": "woman",
+      "exampleChinese": "我是个女人。",
+      "examplePinyin": "Wǒ shì gè nǚrén.",
+      "exampleEnglish": "I'm a lady."
+    },
+    {
+      "level": 3,
+      "hanzi": "女生",
+      "pinyin": "nǚshēng",
+      "tones": "3 1",
+      "meaning": "schoolgirl; female student; girl",
+      "exampleChinese": "我看见一个长头发的女生。",
+      "examplePinyin": "Wǒ kànjiàn yígè cháng tóufà de nǚshēng.",
+      "exampleEnglish": "I saw a girl with long hair."
+    },
+    {
+      "level": 3,
+      "hanzi": "爬",
+      "pinyin": "pá",
+      "tones": "2",
+      "meaning": "to crawl; to climb; to get up or sit up",
+      "exampleChinese": "他去过尼泊尔爬山。",
+      "examplePinyin": "Tā qùguo Níbó’ěr pá shān.",
+      "exampleEnglish": "He has been to Nepal to climb mountains."
+    },
+    {
+      "level": 3,
+      "hanzi": "怕",
+      "pinyin": "pà",
+      "tones": "4",
+      "meaning": "to be afraid; to fear; to dread",
+      "exampleChinese": "我妹妹很怕蜘蛛。",
+      "examplePinyin": "Wǒ mèimei hěn pà zhīzhū.",
+      "exampleEnglish": "My little sister is afraid of spiders."
+    },
+    {
+      "level": 3,
+      "hanzi": "拍照",
+      "pinyin": "pāizhào",
+      "tones": "1 4",
+      "meaning": "to take a picture",
+      "exampleChinese": "我喜欢拍照。",
+      "examplePinyin": "Wǒ xǐhuān pāizhào.",
+      "exampleEnglish": "I enjoy taking pictures."
+    },
+    {
+      "level": 3,
+      "hanzi": "胖",
+      "pinyin": "pàng",
+      "tones": "4",
+      "meaning": "fat; plump",
+      "exampleChinese": "我比你胖。",
+      "examplePinyin": "Wǒ bǐ nǐ pàng.",
+      "exampleEnglish": "I'm fatter than you."
+    },
+    {
+      "level": 3,
+      "hanzi": "盘子",
+      "pinyin": "pánzi",
+      "tones": "2 5",
+      "meaning": "plate; dish; tray",
+      "exampleChinese": "没有任何干净的盘子。",
+      "examplePinyin": "Méiyǒu rènhé gānjìng de pánzi.",
+      "exampleEnglish": "There are no clean plates."
+    },
+    {
+      "level": 3,
+      "hanzi": "啤酒",
+      "pinyin": "píjiǔ",
+      "tones": "2 3",
+      "meaning": "beer",
+      "exampleChinese": "你喝啤酒吗？",
+      "examplePinyin": "Nǐ hēpíjiǔ ma?",
+      "exampleEnglish": "Do you drink beer?"
+    },
+    {
+      "level": 3,
+      "hanzi": "平时",
+      "pinyin": "píngshí",
+      "tones": "2 2",
+      "meaning": "ordinarily; in normal times; in peacetime",
+      "exampleChinese": "今天比平时还忙。",
+      "examplePinyin": "Jīntiān bǐ píngshí hái máng.",
+      "exampleEnglish": "Today's even busier than normal."
+    },
+    {
+      "level": 3,
+      "hanzi": "瓶子",
+      "pinyin": "píngzi",
+      "tones": "2 5",
+      "meaning": "bottle",
+      "exampleChinese": "把瓶子打开。",
+      "examplePinyin": "Bǎ píngzi dǎkāi.",
+      "exampleEnglish": "Open the bottle."
+    },
+    {
+      "level": 3,
+      "hanzi": "骑",
+      "pinyin": "qí",
+      "tones": "2",
+      "meaning": "to ride (an animal or bike); to sit astride",
+      "exampleChinese": "我每天骑车上下班。",
+      "examplePinyin": "Wǒ měitiān qí chē shàngxiàbān.",
+      "exampleEnglish": "I ride my bike to and from work every day."
+    },
+    {
+      "level": 3,
+      "hanzi": "起",
+      "pinyin": "qǐ",
+      "tones": "3",
+      "meaning": "to rise; to raise; to get up",
+      "exampleChinese": "对不起。",
+      "examplePinyin": "Duìbùqǐ.",
+      "exampleEnglish": "Excuse me."
+    },
+    {
+      "level": 3,
+      "hanzi": "铅笔",
+      "pinyin": "qiānbǐ",
+      "tones": "1 3",
+      "meaning": "pencil",
+      "exampleChinese": "有谁有铅笔吗？",
+      "examplePinyin": "Yǒu shuí yǒu qiānbǐ ma?",
+      "exampleEnglish": "Does anybody have a pencil?"
+    },
+    {
+      "level": 3,
+      "hanzi": "前年",
+      "pinyin": "qiánnián",
+      "tones": "2 2",
+      "meaning": "the year before last",
+      "exampleChinese": "前年我们去了云南。",
+      "examplePinyin": "Qiánnián wǒmen qù le Yúnnán.",
+      "exampleEnglish": "The year before last we went to Yunnan."
+    },
+    {
+      "level": 3,
+      "hanzi": "前天",
+      "pinyin": "qiántiān",
+      "tones": "2 1",
+      "meaning": "the day before yesterday",
+      "exampleChinese": "前天，他们离开了那儿。",
+      "examplePinyin": "Qiántiān, tāmen líkāi le nàér.",
+      "exampleEnglish": "They left there the day before yesterday."
+    },
+    {
+      "level": 3,
+      "hanzi": "汽车",
+      "pinyin": "qìchē",
+      "tones": "4 1",
+      "meaning": "car; automobile; bus",
+      "exampleChinese": "我们坐出租汽车去吧。",
+      "examplePinyin": "Wǒmen zuò chūzū qìchē qù ba.",
+      "exampleEnglish": "Let's take a taxi."
+    },
+    {
+      "level": 3,
+      "hanzi": "起飞",
+      "pinyin": "qǐfēi",
+      "tones": "3 1",
+      "meaning": "take off (in an airplane); liftoff",
+      "exampleChinese": "飞机十分钟后起飞。",
+      "examplePinyin": "Fēijī shífēnzhōng hòu qǐfēi.",
+      "exampleEnglish": "The plane takes off in ten minutes."
+    },
+    {
+      "level": 3,
+      "hanzi": "奇怪",
+      "pinyin": "qíguài",
+      "tones": "2 4",
+      "meaning": "strange; odd",
+      "exampleChinese": "真奇怪。",
+      "examplePinyin": "Zhēn qíguài.",
+      "exampleEnglish": "How weird!"
+    },
+    {
+      "level": 3,
+      "hanzi": "请假",
+      "pinyin": "qǐng jià",
+      "tones": "3 4",
+      "meaning": "to ask for time off, ask for leave",
+      "exampleChinese": "明天我给老师写请假条。",
+      "examplePinyin": "Míngtiān wǒ gěi lǎoshī xiě qǐngjiàtiáo.",
+      "exampleEnglish": "Tomorrow I'll write the teacher a note asking for leave."
+    },
+    {
+      "level": 3,
+      "hanzi": "清楚",
+      "pinyin": "qīngchu",
+      "tones": "1 5",
+      "meaning": "clear; distinct; without ambiguity",
+      "exampleChinese": "请说得更清楚些。",
+      "examplePinyin": "Qǐng shuō de gèng qīngchǔ xiē.",
+      "exampleEnglish": "Please speak more clearly."
+    },
+    {
+      "level": 3,
+      "hanzi": "请客",
+      "pinyin": "qǐngkè",
+      "tones": "3 4",
+      "meaning": "to give a dinner party; to entertain guests; to invite to dinner",
+      "exampleChinese": "晚饭我请客。",
+      "examplePinyin": "Wǎnfàn wǒ qǐngkè.",
+      "exampleEnglish": "I'll treat you to dinner."
+    },
+    {
+      "level": 3,
+      "hanzi": "其实",
+      "pinyin": "qíshí",
+      "tones": "2 2",
+      "meaning": "as a matter of fact; actually; in fact",
+      "exampleChinese": "你其实没必要带伞。",
+      "examplePinyin": "Nǐ qíshí méi bìyào dàisǎn.",
+      "exampleEnglish": "You needn't have taken an umbrella with you."
+    },
+    {
+      "level": 3,
+      "hanzi": "其他",
+      "pinyin": "qítā",
+      "tones": "2 1",
+      "meaning": "other; else",
+      "exampleChinese": "不用担心其他人。",
+      "examplePinyin": "Búyòng dānxīn qítārén.",
+      "exampleEnglish": "Don't worry about others."
+    },
+    {
+      "level": 3,
+      "hanzi": "球场",
+      "pinyin": "qiúchǎng",
+      "tones": "2 3",
+      "meaning": "stadium; sports ground; court",
+      "exampleChinese": "放学以后，孩子们都在足球场踢球。",
+      "examplePinyin": "Fàngxué yǐhòu, háizimen dōu zài zúqiúchǎng tī qiú.",
+      "exampleEnglish": "After school, the kids all play football on the pitch."
+    },
+    {
+      "level": 3,
+      "hanzi": "秋天",
+      "pinyin": "qiūtiān",
+      "tones": "1 1",
+      "meaning": "autumn",
+      "exampleChinese": "现在是秋天。",
+      "examplePinyin": "Xiànzài shì qiūtiān.",
+      "exampleEnglish": "It's fall now."
+    },
+    {
+      "level": 3,
+      "hanzi": "裙子",
+      "pinyin": "qúnzi",
+      "tones": "2 5",
+      "meaning": "skirt; petticoat",
+      "exampleChinese": "这条裙子很适合你。",
+      "examplePinyin": "Zhè tiáo qúnzi hěn shìhé nǐ.",
+      "exampleEnglish": "The dress suits you very well."
+    },
+    {
+      "level": 3,
+      "hanzi": "然后",
+      "pinyin": "ránhòu",
+      "tones": "2 4",
+      "meaning": "then; afterwards",
+      "exampleChinese": "我们先吃饭，然后再走。",
+      "examplePinyin": "Wǒmen xiān chīfàn, ránhòu zài zǒu.",
+      "exampleEnglish": "First we'll eat, and then we'll go."
+    },
+    {
+      "level": 3,
+      "hanzi": "认得",
+      "pinyin": "rènde",
+      "tones": "4 5",
+      "meaning": "to recognize; to remember sth (or sb) on seeing it; to know",
+      "exampleChinese": "房子里面的人我一个也不认得。",
+      "examplePinyin": "Fángzi lǐmiàn de rén wǒ yígè yě bú rènde.",
+      "exampleEnglish": "I didn't recognize anyone in the room."
+    },
+    {
+      "level": 3,
+      "hanzi": "认为",
+      "pinyin": "rènwéi",
+      "tones": "4 2",
+      "meaning": "believe; think that",
+      "exampleChinese": "我也这么认为。",
+      "examplePinyin": "Wǒ yě zhème rènwéi.",
+      "exampleEnglish": "I think so, too."
+    },
+    {
+      "level": 3,
+      "hanzi": "认真",
+      "pinyin": "rènzhēn",
+      "tones": "4 1",
+      "meaning": "take seriously",
+      "exampleChinese": "凡事都要认真。",
+      "examplePinyin": "Fánshì dōu yào rènzhēn.",
+      "exampleEnglish": "Take everything seriously."
+    },
+    {
+      "level": 3,
+      "hanzi": "热情",
+      "pinyin": "rèqíng",
+      "tones": "4 2",
+      "meaning": "enthusiastic; passionate",
+      "exampleChinese": "他们这么热情的欢迎我，让我感觉家人一样。",
+      "examplePinyin": "Tāmen zhème rèqíng de huānyíng wǒ, ràng wǒ gǎnjué jiārén yīyàng.",
+      "exampleEnglish": "They welcomed me warmly, so I felt at home."
+    },
+    {
+      "level": 3,
+      "hanzi": "容易",
+      "pinyin": "róngyì",
+      "tones": "2 4",
+      "meaning": "easy; likely; liable (to)",
+      "exampleChinese": "可不容易。",
+      "examplePinyin": "Kěbù róngyì.",
+      "exampleEnglish": "It hasn't been easy."
+    },
+    {
+      "level": 3,
+      "hanzi": "如果",
+      "pinyin": "rúguǒ",
+      "tones": "2 3",
+      "meaning": "if; in the event that",
+      "exampleChinese": "如果饿了，吃吧。",
+      "examplePinyin": "Rúguǒ è le, chī ba.",
+      "exampleEnglish": "If you're hungry, eat."
+    },
+    {
+      "level": 3,
+      "hanzi": "伞",
+      "pinyin": "sǎn",
+      "tones": "3",
+      "meaning": "umbrella; parasol",
+      "exampleChinese": "下雨了，别忘了带雨伞。",
+      "examplePinyin": "Xià yǔ le, bié wàngle dài yǔsǎn.",
+      "exampleEnglish": "It's raining, don't forget your umbrella."
+    },
+    {
+      "level": 3,
+      "hanzi": "扫",
+      "pinyin": "sǎo",
+      "tones": "3",
+      "meaning": "to sweep (with a brush or broom); to sweep away; to wipe out",
+      "exampleChinese": "吃完饭我来扫地。",
+      "examplePinyin": "Chīwán fàn wǒ lái sǎodì.",
+      "exampleEnglish": "After dinner I'll sweep the floor."
+    },
+    {
+      "level": 3,
+      "hanzi": "沙发",
+      "pinyin": "shāfā",
+      "tones": "1 1",
+      "meaning": "sofa",
+      "exampleChinese": "我们想买张沙发。",
+      "examplePinyin": "Wǒmen xiǎng mǎi zhāng shāfā.",
+      "exampleEnglish": "We would like to buy a sofa."
+    },
+    {
+      "level": 3,
+      "hanzi": "山",
+      "pinyin": "shān",
+      "tones": "1",
+      "meaning": "mountain; hill; (coll.) small bundle of straw for silkworms to spin cocoons on",
+      "exampleChinese": "山本是日本人。",
+      "examplePinyin": "Shānběn shì Rìběnrén.",
+      "exampleEnglish": "Yamamoto is Japanese."
+    },
+    {
+      "level": 3,
+      "hanzi": "上衣",
+      "pinyin": "shàngyī",
+      "tones": "4 1",
+      "meaning": "jacket; upper outer garment",
+      "exampleChinese": "我在找有我尺寸的上衣。",
+      "examplePinyin": "Wǒ zài zhǎo yǒu wǒ chǐcun de shàngyī.",
+      "exampleEnglish": "I'm looking for a coat in my size."
+    },
+    {
+      "level": 3,
+      "hanzi": "勺子",
+      "pinyin": "sháozi",
+      "tones": "2 5",
+      "meaning": "spoon; scoop; ladle",
+      "exampleChinese": "把勺子给我。",
+      "examplePinyin": "Bǎ sháozi gěi wǒ.",
+      "exampleEnglish": "Give me the spoon."
+    },
+    {
+      "level": 3,
+      "hanzi": "身边",
+      "pinyin": "shēnbiān",
+      "tones": "1 1",
+      "meaning": "at one's side; on hand",
+      "exampleChinese": "我希望你在我身边。",
+      "examplePinyin": "Wǒ xīwàng nǐ zài wǒ shēnbiān.",
+      "exampleEnglish": "I wish you were close to me."
+    },
+    {
+      "level": 3,
+      "hanzi": "声",
+      "pinyin": "shēng",
+      "tones": "1",
+      "meaning": "sound; voice; tone",
+      "exampleChinese": "图书馆里请小声说话。",
+      "examplePinyin": "Túshūguǎn li qǐng xiǎoshēng shuōhuà.",
+      "exampleEnglish": "Please speak quietly in the library."
+    },
+    {
+      "level": 3,
+      "hanzi": "身高",
+      "pinyin": "shēngāo",
+      "tones": "1 1",
+      "meaning": "(a person's) height",
+      "exampleChinese": "老师按照身高给孩子们排队。",
+      "examplePinyin": "Lǎoshī ànzhào shēngāo gěi háizi men páiduì.",
+      "exampleEnglish": "The teacher lined the children up in order of height."
+    },
+    {
+      "level": 3,
+      "hanzi": "生活",
+      "pinyin": "shēnghuó",
+      "tones": "1 2",
+      "meaning": "life; livelihood; to live",
+      "exampleChinese": "水是生活必需品。",
+      "examplePinyin": "Shuǐ shì shēnghuó bìxūpǐn.",
+      "exampleEnglish": "Water is a basic necessity of life."
+    },
+    {
+      "level": 3,
+      "hanzi": "生气",
+      "pinyin": "shēngqì",
+      "tones": "1 4",
+      "meaning": "angry; mad",
+      "exampleChinese": "他生气了。",
+      "examplePinyin": "Tā shēngqì le.",
+      "exampleEnglish": "He got angry."
+    },
+    {
+      "level": 3,
+      "hanzi": "声音",
+      "pinyin": "shēngyīn",
+      "tones": "1 1",
+      "meaning": "sound; voice",
+      "exampleChinese": "那音乐声音十分响。",
+      "examplePinyin": "Nà yīnyuè shēngyīn shífēn xiǎng.",
+      "exampleEnglish": "The music was very loud."
+    },
+    {
+      "level": 3,
+      "hanzi": "试",
+      "pinyin": "shì",
+      "tones": "4",
+      "meaning": "to try; to test",
+      "exampleChinese": "我可以试穿吗？",
+      "examplePinyin": "Wǒ kěyǐ shìchuān ma?",
+      "exampleEnglish": "Can I try it on?"
+    },
+    {
+      "level": 3,
+      "hanzi": "室",
+      "pinyin": "shì",
+      "tones": "4",
+      "meaning": "room; work unit; grave",
+      "exampleChinese": "期刊室在二楼。",
+      "examplePinyin": "Qīkānshì zài èr lóu.",
+      "exampleEnglish": "The periodicals room is on the second floor."
+    },
+    {
+      "level": 3,
+      "hanzi": "市",
+      "pinyin": "shì",
+      "tones": "4",
+      "meaning": "market; city; municipality (administrative unit)",
+      "exampleChinese": "去了超市。",
+      "examplePinyin": "Qù le chāoshì.",
+      "exampleEnglish": "I went to the supermarket."
+    },
+    {
+      "level": 3,
+      "hanzi": "世界",
+      "pinyin": "shìjiè",
+      "tones": "4 4",
+      "meaning": "world",
+      "exampleChinese": "我们一起看世界杯吧。",
+      "examplePinyin": "Wǒmen yìqǐ kàn Shìjièbēi ba.",
+      "exampleEnglish": "Let's watch the World Cup together."
+    },
+    {
+      "level": 3,
+      "hanzi": "瘦",
+      "pinyin": "shòu",
+      "tones": "4",
+      "meaning": "thin; tight; lean",
+      "exampleChinese": "这孩子太瘦弱了。",
+      "examplePinyin": "Zhè háizi tài shòuruò le.",
+      "exampleEnglish": "This child is too thin and weak."
+    },
+    {
+      "level": 3,
+      "hanzi": "受",
+      "pinyin": "shòu",
+      "tones": "4",
+      "meaning": "to receive; to accept; to suffer",
+      "exampleChinese": "他的腰部受伤了。",
+      "examplePinyin": "Tā de yāobù shòushāng le.",
+      "exampleEnglish": "He hurt his lower back."
+    },
+    {
+      "level": 3,
+      "hanzi": "收",
+      "pinyin": "shōu",
+      "tones": "1",
+      "meaning": "receive; accept; collect",
+      "exampleChinese": "回收桶在门口。",
+      "examplePinyin": "Huíshōutǒng zài ménkǒu.",
+      "exampleEnglish": "The recycling bin is by the door."
+    },
+    {
+      "level": 3,
+      "hanzi": "受到",
+      "pinyin": "shòudào",
+      "tones": "4 4",
+      "meaning": "receive (influence, restriction, etc.); be subjected to",
+      "exampleChinese": "你没受到邀请。",
+      "examplePinyin": "Nǐ méi shòudào yāoqǐng.",
+      "exampleEnglish": "You aren't invited."
+    },
+    {
+      "level": 3,
+      "hanzi": "收到",
+      "pinyin": "shōudào",
+      "tones": "1 4",
+      "meaning": "to receive",
+      "exampleChinese": "我收到了您的信。",
+      "examplePinyin": "Wǒ shōudào le nín de xìn.",
+      "exampleEnglish": "I received your letter."
+    },
+    {
+      "level": 3,
+      "hanzi": "树",
+      "pinyin": "shù",
+      "tones": "4",
+      "meaning": "tree",
+      "exampleChinese": "树上有一只乌鸦。",
+      "examplePinyin": "Shù shang yǒu yì zhī wūyā.",
+      "exampleEnglish": "There is a crow in the tree."
+    },
+    {
+      "level": 3,
+      "hanzi": "刷",
+      "pinyin": "shuā",
+      "tones": "1",
+      "meaning": "a brush; to paint; to daub",
+      "exampleChinese": "这儿可以刷卡吗？",
+      "examplePinyin": "Zhèr kěyǐ shuākǎ ma?",
+      "exampleEnglish": "Can I pay by card here?"
+    },
+    {
+      "level": 3,
+      "hanzi": "双",
+      "pinyin": "shuāng",
+      "tones": "1",
+      "meaning": "two; double; (measure word for pairs)",
+      "exampleChinese": "我父母是双职工。",
+      "examplePinyin": "Wǒ fùmǔ shì shuāngzhígōng.",
+      "exampleEnglish": "Both my parents work."
+    },
+    {
+      "level": 3,
+      "hanzi": "水平",
+      "pinyin": "shuǐpíng",
+      "tones": "3 2",
+      "meaning": "standard; level; proficiency",
+      "exampleChinese": "他利用这个机会提高英语水平。",
+      "examplePinyin": "Tā lìyòng zhège jīhuì tígāo yīngyǔshuǐpíng.",
+      "exampleEnglish": "He made use of the opportunity to improve his English."
+    },
+    {
+      "level": 3,
+      "hanzi": "叔叔",
+      "pinyin": "shūshu",
+      "tones": "1 5",
+      "meaning": "(informal) father's younger brother; uncle",
+      "exampleChinese": "我的叔叔有三个孩子。",
+      "examplePinyin": "Wǒ de shūshū yǒu sāngè háizi.",
+      "exampleEnglish": "My uncle has three children."
+    },
+    {
+      "level": 3,
+      "hanzi": "数学",
+      "pinyin": "shùxué",
+      "tones": "4 2",
+      "meaning": "mathematics",
+      "exampleChinese": "她是个数学天才。",
+      "examplePinyin": "Tā shì gè shùxué tiāncái.",
+      "exampleEnglish": "She was a genius in mathematics."
+    },
+    {
+      "level": 3,
+      "hanzi": "四季",
+      "pinyin": "sìjì",
+      "tones": "4 4",
+      "meaning": "four seasons, namely: spring 春, summer 夏, autumn 秋 and winter 冬",
+      "exampleChinese": "一年有四季。",
+      "examplePinyin": "Yīnián yǒu sìjì.",
+      "exampleEnglish": "There are four seasons in one year."
+    },
+    {
+      "level": 3,
+      "hanzi": "司机",
+      "pinyin": "sījī",
+      "tones": "1 1",
+      "meaning": "driver; chauffeur",
+      "exampleChinese": "她是出租车司机吗？",
+      "examplePinyin": "Tā shì chūzūchē sījī ma?",
+      "exampleEnglish": "Is she a taxi driver?"
+    },
+    {
+      "level": 3,
+      "hanzi": "太阳",
+      "pinyin": "tàiyang",
+      "tones": "4 5",
+      "meaning": "the sun",
+      "exampleChinese": "太阳在西边下山。",
+      "examplePinyin": "Tàiyang zài xībiān xiàshān.",
+      "exampleEnglish": "The sun sets in the west."
+    },
+    {
+      "level": 3,
+      "hanzi": "糖",
+      "pinyin": "táng",
+      "tones": "2",
+      "meaning": "sugar; candy; sweets",
+      "exampleChinese": "你的咖啡里放白糖吗？",
+      "examplePinyin": "Nǐ de kāfēi li fàng báitáng ma?",
+      "exampleEnglish": "Do you take white sugar in your coffee?"
+    },
+    {
+      "level": 3,
+      "hanzi": "特别",
+      "pinyin": "tèbié",
+      "tones": "4 2",
+      "meaning": "special; particular",
+      "exampleChinese": "我们很特别。",
+      "examplePinyin": "Wǒmen hěn tèbié.",
+      "exampleEnglish": "We're special."
+    },
+    {
+      "level": 3,
+      "hanzi": "甜",
+      "pinyin": "tián",
+      "tones": "2",
+      "meaning": "sweet",
+      "exampleChinese": "台湾的凤梨很甜。",
+      "examplePinyin": "Táiwān de fènglí hěn tián.",
+      "exampleEnglish": "Taiwan's pineapples are very sweet."
+    },
+    {
+      "level": 3,
+      "hanzi": "跳",
+      "pinyin": "tiào",
+      "tones": "4",
+      "meaning": "to jump; to hop; to skip over",
+      "exampleChinese": "这些舞者跳得很好。",
+      "examplePinyin": "Zhèxiē wǔzhě tiào de hěn hǎo.",
+      "exampleEnglish": "These dancers dance very well."
+    },
+    {
+      "level": 3,
+      "hanzi": "提高",
+      "pinyin": "tígāo",
+      "tones": "2 1",
+      "meaning": "to raise; heighten; improve",
+      "exampleChinese": "您不需要提高音量。",
+      "examplePinyin": "Nín bù xūyào tígāo yīnliàng.",
+      "exampleEnglish": "You don't have to raise your voice."
+    },
+    {
+      "level": 3,
+      "hanzi": "挺",
+      "pinyin": "tǐng",
+      "tones": "3",
+      "meaning": "straighten up; stick out; rather (good)",
+      "exampleChinese": "他的鼻子很高挺。",
+      "examplePinyin": "Tā de bízi hěn gāotǐng.",
+      "exampleEnglish": "He has a high, straight nose."
+    },
+    {
+      "level": 3,
+      "hanzi": "听说",
+      "pinyin": "tīngshuō",
+      "tones": "1 1",
+      "meaning": "to hear (sth said); one hears (that); hearsay",
+      "exampleChinese": "我听说你病了。",
+      "examplePinyin": "Wǒ tīngshuō nǐ bìng le.",
+      "exampleEnglish": "I've heard you've been sick."
+    },
+    {
+      "level": 3,
+      "hanzi": "体育",
+      "pinyin": "tǐyù",
+      "tones": "3 4",
+      "meaning": "physical education/training; sports",
+      "exampleChinese": "我知道你喜欢体育运动。",
+      "examplePinyin": "Wǒ zhīdao nǐ xǐhuān tǐyùyùndòng.",
+      "exampleEnglish": "I know you like sports."
+    },
+    {
+      "level": 3,
+      "hanzi": "体育馆",
+      "pinyin": "tǐyùguǎn",
+      "tones": "3 4 3",
+      "meaning": "gym; gymnasium; stadium",
+      "exampleChinese": "明天我们在体育馆打球。",
+      "examplePinyin": "Míngtiān wǒmen zài tǐyùguǎn dǎ qiú.",
+      "exampleEnglish": "Tomorrow we play ball at the gym."
+    },
+    {
+      "level": 3,
+      "hanzi": "同事",
+      "pinyin": "tóngshì",
+      "tones": "2 4",
+      "meaning": "colleague; co-worker",
+      "exampleChinese": "我确实喜欢我的同事。",
+      "examplePinyin": "Wǒ quèshí xǐhuān wǒ de tóngshì.",
+      "exampleEnglish": "I really like my coworkers."
+    },
+    {
+      "level": 3,
+      "hanzi": "同意",
+      "pinyin": "tóngyì",
+      "tones": "2 4",
+      "meaning": "agree; to consent; approve",
+      "exampleChinese": "我同意。",
+      "examplePinyin": "Wǒ tóngyì.",
+      "exampleEnglish": "I agree."
+    },
+    {
+      "level": 3,
+      "hanzi": "头发",
+      "pinyin": "tóufa",
+      "tones": "2 5",
+      "meaning": "hair (on the head)",
+      "exampleChinese": "你的头发很漂亮。",
+      "examplePinyin": "Nǐ de tóufà hěnpiàoliàng.",
+      "exampleEnglish": "Your hair is pretty."
+    },
+    {
+      "level": 3,
+      "hanzi": "腿",
+      "pinyin": "tuǐ",
+      "tones": "3",
+      "meaning": "leg",
+      "exampleChinese": "他的裤腿湿了。",
+      "examplePinyin": "Tā de kùtuǐ shī le.",
+      "exampleEnglish": "His trouser legs got wet."
+    },
+    {
+      "level": 3,
+      "hanzi": "突然",
+      "pinyin": "tūrán",
+      "tones": "1 2",
+      "meaning": "suddenly; abruptly",
+      "exampleChinese": "我突然想到你。",
+      "examplePinyin": "Wǒ tūrán xiǎngdào nǐ.",
+      "exampleEnglish": "I'm thinking about you."
+    },
+    {
+      "level": 3,
+      "hanzi": "图书馆",
+      "pinyin": "túshūguǎn",
+      "tones": "2 1 3",
+      "meaning": "library",
+      "exampleChinese": "图书馆里请小声说话。",
+      "examplePinyin": "Túshūguǎn li qǐng xiǎoshēng shuōhuà.",
+      "exampleEnglish": "Please speak quietly in the library."
+    },
+    {
+      "level": 3,
+      "hanzi": "外地",
+      "pinyin": "wàidì",
+      "tones": "4 4",
+      "meaning": "parts of the country other than where one is",
+      "exampleChinese": "我在外地生活了很久。",
+      "examplePinyin": "Wǒ zài wàidì shēnghuó le hěn jiǔ.",
+      "exampleEnglish": "I've lived away from home for a long time."
+    },
+    {
+      "level": 3,
+      "hanzi": "外卖",
+      "pinyin": "wàimài",
+      "tones": "4 4",
+      "meaning": "(of a restaurant) to provide a takeout or home delivery meal; takeout (business); takeout (meal)",
+      "exampleChinese": "今天晚上我们点外卖吧。",
+      "examplePinyin": "Jīntiān wǎnshang wǒmen diǎn wàimài ba.",
+      "exampleEnglish": "Let us order takeout tonight."
+    },
+    {
+      "level": 3,
+      "hanzi": "外语",
+      "pinyin": "wàiyǔ",
+      "tones": "4 3",
+      "meaning": "foreign language",
+      "exampleChinese": "我喜欢学习外语。",
+      "examplePinyin": "Wǒ xǐhuān xuéxíwàiyǔ.",
+      "exampleEnglish": "I like to study foreign languages."
+    },
+    {
+      "level": 3,
+      "hanzi": "碗",
+      "pinyin": "wǎn",
+      "tones": "3",
+      "meaning": "bowl; cup",
+      "exampleChinese": "我要一碗炒饭。",
+      "examplePinyin": "Wǒ yào yì wǎn chǎofàn.",
+      "exampleEnglish": "I'd like a bowl of fried rice."
+    },
+    {
+      "level": 3,
+      "hanzi": "完成",
+      "pinyin": "wánchéng",
+      "tones": "2 2",
+      "meaning": "accomplish; complete; fulfill",
+      "exampleChinese": "工作完成了。",
+      "examplePinyin": "Gōngzuò wánchéng le.",
+      "exampleEnglish": "The work is completed."
+    },
+    {
+      "level": 3,
+      "hanzi": "晚点",
+      "pinyin": "wǎndiǎn",
+      "tones": "3 3",
+      "meaning": "(of trains etc) late; delayed; behind schedule",
+      "exampleChinese": "我晚点打给你。",
+      "examplePinyin": "Wǒ wǎndiǎn dǎ gěi nǐ.",
+      "exampleEnglish": "I'll call you later."
+    },
+    {
+      "level": 3,
+      "hanzi": "忘记",
+      "pinyin": "wàngjì",
+      "tones": "4 4",
+      "meaning": "forget; overlook; neglect",
+      "exampleChinese": "我只想忘记。",
+      "examplePinyin": "Wǒ zhǐ xiǎng wàngjì.",
+      "exampleEnglish": "I only wanted to forget."
+    },
+    {
+      "level": 3,
+      "hanzi": "网球",
+      "pinyin": "wǎngqiú",
+      "tones": "3 2",
+      "meaning": "tennis; tennis ball",
+      "exampleChinese": "他打了网球。",
+      "examplePinyin": "Tā dǎ le wǎngqiú.",
+      "exampleEnglish": "He played tennis."
+    },
+    {
+      "level": 3,
+      "hanzi": "网站",
+      "pinyin": "wǎngzhàn",
+      "tones": "3 4",
+      "meaning": "website",
+      "exampleChinese": "我第一次知道这个网站。",
+      "examplePinyin": "Wǒ dìyīcì zhīdao zhège wǎngzhàn.",
+      "exampleEnglish": "This is the first time I've heard of this website."
+    },
+    {
+      "level": 3,
+      "hanzi": "晚会",
+      "pinyin": "wǎnhuì",
+      "tones": "3 4",
+      "meaning": "evening party",
+      "exampleChinese": "晚会很成功。",
+      "examplePinyin": "Wǎnhuì hěn chénggōng.",
+      "exampleEnglish": "The party was a success."
+    },
+    {
+      "level": 3,
+      "hanzi": "为",
+      "pinyin": "wèi",
+      "tones": "4",
+      "meaning": "for; because of; to",
+      "exampleChinese": "马大为在看莎士比亚的书。",
+      "examplePinyin": "Mǎ Dàwéi zài kàn Shāshìbǐyà de shū.",
+      "exampleEnglish": "Ma Dawei is reading a book by Shakespeare."
+    },
+    {
+      "level": 3,
+      "hanzi": "为了",
+      "pinyin": "wèile",
+      "tones": "4 5",
+      "meaning": "in order to; for the sake of; for the purpose of",
+      "exampleChinese": "那是为了什么？",
+      "examplePinyin": "Nà shì wèile shénme?",
+      "exampleEnglish": "What was it for?"
+    },
+    {
+      "level": 3,
+      "hanzi": "卫生间",
+      "pinyin": "wèishēngjiān",
+      "tones": "4 1 1",
+      "meaning": "restroom; bathroom; water closet (WC)",
+      "exampleChinese": "我当时在卫生间。",
+      "examplePinyin": "Wǒ dāngshí zài wèishēngjiān.",
+      "exampleEnglish": "I was in the bathroom."
+    },
+    {
+      "level": 3,
+      "hanzi": "文化",
+      "pinyin": "wénhuà",
+      "tones": "2 4",
+      "meaning": "culture; civilization",
+      "exampleChinese": "他熟悉日本文化。",
+      "examplePinyin": "Tā shúxī rìběn wénhuà.",
+      "exampleEnglish": "He is familiar with Japanese culture."
+    },
+    {
+      "level": 3,
+      "hanzi": "屋子",
+      "pinyin": "wūzi",
+      "tones": "1 5",
+      "meaning": "house; room",
+      "exampleChinese": "我们在找一个漂亮的屋子住。",
+      "examplePinyin": "Wǒmen zài zhǎo yígè piàoliàng de wūzi zhù.",
+      "exampleEnglish": "We're looking for a nice house to live in."
+    },
+    {
+      "level": 3,
+      "hanzi": "西",
+      "pinyin": "xī",
+      "tones": "1",
+      "meaning": "West",
+      "exampleChinese": "我正在吃东西。",
+      "examplePinyin": "Wǒ zhèngzài chī dōngxī.",
+      "exampleEnglish": "I'm eating."
+    },
+    {
+      "level": 3,
+      "hanzi": "喜爱",
+      "pinyin": "xǐ’ài",
+      "tones": "3 4",
+      "meaning": "to like; to love; to be fond of",
+      "exampleChinese": "你最喜爱的水果是什么？",
+      "examplePinyin": "Nǐ zuì xǐài de shuǐguǒ shì shénme?",
+      "exampleEnglish": "What's your favorite fruit?"
+    },
+    {
+      "level": 3,
+      "hanzi": "先",
+      "pinyin": "xiān",
+      "tones": "1",
+      "meaning": "first; early; before",
+      "exampleChinese": "我们先叫菜吧。",
+      "examplePinyin": "Wǒmen xiān jiào cài ba.",
+      "exampleEnglish": "Let's order first."
+    },
+    {
+      "level": 3,
+      "hanzi": "像",
+      "pinyin": "xiàng",
+      "tones": "4",
+      "meaning": "alike, be like; resemble; appearance",
+      "exampleChinese": "他走得像蜗牛一样慢。",
+      "examplePinyin": "Tā zǒu de xiàng wōniú yíyàng màn.",
+      "exampleEnglish": "He walks as slowly as a snail."
+    },
+    {
+      "level": 3,
+      "hanzi": "向",
+      "pinyin": "xiàng",
+      "tones": "4",
+      "meaning": "direction; towards; to turn",
+      "exampleChinese": "你理应向他道歉。",
+      "examplePinyin": "Nǐ lǐyīng xiàng tā dàoqiàn.",
+      "exampleEnglish": "You ought to apologize to him."
+    },
+    {
+      "level": 3,
+      "hanzi": "相机",
+      "pinyin": "xiàngjī",
+      "tones": "4 1",
+      "meaning": "camera (abbr. for 照相机); at the opportune moment; as the circumstances allow",
+      "exampleChinese": "你有照相机吗？",
+      "examplePinyin": "Nǐ yǒu zhàoxiàngjī ma?",
+      "exampleEnglish": "Do you have a camera?"
+    },
+    {
+      "level": 3,
+      "hanzi": "香蕉",
+      "pinyin": "xiāngjiāo",
+      "tones": "1 1",
+      "meaning": "banana",
+      "exampleChinese": "猫不吃香蕉。",
+      "examplePinyin": "Māo bùchī xiāngjiāo.",
+      "exampleEnglish": "Cats don't eat bananas."
+    },
+    {
+      "level": 3,
+      "hanzi": "相信",
+      "pinyin": "xiāngxìn",
+      "tones": "1 4",
+      "meaning": "believe (sb.); be convinced of",
+      "exampleChinese": "相信我。",
+      "examplePinyin": "Xiāngxìn wǒ.",
+      "exampleEnglish": "Trust me."
+    },
+    {
+      "level": 3,
+      "hanzi": "箱子",
+      "pinyin": "xiāngzi",
+      "tones": "1 5",
+      "meaning": "suitcase; chest; box",
+      "exampleChinese": "我要箱子。",
+      "examplePinyin": "Wǒyào xiāngzi.",
+      "exampleEnglish": "I want a box."
+    },
+    {
+      "level": 3,
+      "hanzi": "小区",
+      "pinyin": "xiǎoqū",
+      "tones": "3 1",
+      "meaning": "housing estate; community; neighborhood",
+      "exampleChinese": "他很快便与小区里新来的男孩交上了朋友。",
+      "examplePinyin": "Tā hěnkuài biàn yǔ xiǎoqū lǐ xīnlái de nánhái jiāoshàng le péngyou.",
+      "exampleEnglish": "He quickly made friends with the new boy on the block."
+    },
+    {
+      "level": 3,
+      "hanzi": "小心",
+      "pinyin": "xiǎoxīn",
+      "tones": "3 1",
+      "meaning": "take care; be careful",
+      "exampleChinese": "小心狗！",
+      "examplePinyin": "Xiǎoxīn gǒu!",
+      "exampleEnglish": "Beware of the dog!"
+    },
+    {
+      "level": 3,
+      "hanzi": "校园",
+      "pinyin": "xiàoyuán",
+      "tones": "4 2",
+      "meaning": "campus",
+      "exampleChinese": "我们的校园里有很多树。",
+      "examplePinyin": "Wǒmen de xiàoyuán li yǒu hěn duō shù.",
+      "exampleEnglish": "There are many trees on our campus."
+    },
+    {
+      "level": 3,
+      "hanzi": "校长",
+      "pinyin": "xiàozhǎng",
+      "tones": "4 3",
+      "meaning": "principal (of school, college or university); president; headmaster",
+      "exampleChinese": "我校校长很老了。",
+      "examplePinyin": "Wǒxiào xiàozhǎng hěn lǎo le.",
+      "exampleEnglish": "Our school's principal is very old."
+    },
+    {
+      "level": 3,
+      "hanzi": "夏天",
+      "pinyin": "xiàtiān",
+      "tones": "4 1",
+      "meaning": "summer",
+      "exampleChinese": "夏天来了。",
+      "examplePinyin": "Xiàtiān lái le.",
+      "exampleEnglish": "Summer is coming."
+    },
+    {
+      "level": 3,
+      "hanzi": "西北",
+      "pinyin": "xīběi",
+      "tones": "1 3",
+      "meaning": "northwest; Northwest China (Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang)",
+      "exampleChinese": "他的老家在中国西北。",
+      "examplePinyin": "Tā de lǎojiā zài Zhōngguó xīběi.",
+      "exampleEnglish": "His hometown is in China’s northwest."
+    },
+    {
+      "level": 3,
+      "hanzi": "鞋",
+      "pinyin": "xié",
+      "tones": "2",
+      "meaning": "shoe",
+      "exampleChinese": "你的鞋带开了。",
+      "examplePinyin": "Nǐ de xiédài kāi le.",
+      "exampleEnglish": "Your shoelace is untied."
+    },
+    {
+      "level": 3,
+      "hanzi": "西方",
+      "pinyin": "xīfāng",
+      "tones": "1 1",
+      "meaning": "the West; the Occident; Western countries",
+      "exampleChinese": "哥伦布航行至遥远的西方，去寻找一个新大陆。",
+      "examplePinyin": "Gēlúnbù hángxíng zhì yáoyuǎn de xīfāng, qù xúnzhǎo yígè xīndàlù.",
+      "exampleEnglish": "Columbus sailed farther west to look for a new continent."
+    },
+    {
+      "level": 3,
+      "hanzi": "西瓜",
+      "pinyin": "xīguā",
+      "tones": "1 1",
+      "meaning": "watermelon",
+      "exampleChinese": "这是一种西瓜。",
+      "examplePinyin": "Zhèshì yīzhǒng xīguā.",
+      "exampleEnglish": "This is a kind of watermelon."
+    },
+    {
+      "level": 3,
+      "hanzi": "习惯",
+      "pinyin": "xíguàn",
+      "tones": "2 4",
+      "meaning": "habit; be accustomed to; usual practice",
+      "exampleChinese": "你会习惯的。",
+      "examplePinyin": "Nǐ huì xíguàn de.",
+      "exampleEnglish": "You'll get used to it."
+    },
+    {
+      "level": 3,
+      "hanzi": "信",
+      "pinyin": "xìn",
+      "tones": "4",
+      "meaning": "letter; mail; to trust",
+      "exampleChinese": "我家在信义路上。",
+      "examplePinyin": "Wǒ jiā zài Xìnyì Lù shang.",
+      "exampleEnglish": "My home is on Xinyi Road."
+    },
+    {
+      "level": 3,
+      "hanzi": "西南",
+      "pinyin": "xīnán",
+      "tones": "1 2",
+      "meaning": "southwest",
+      "exampleChinese": "云南在中国的西南边。",
+      "examplePinyin": "Yúnnán zài Zhōngguó de xīnán biān.",
+      "exampleEnglish": "Yunnan is in China’s southwest."
+    },
+    {
+      "level": 3,
+      "hanzi": "行",
+      "pinyin": "xíng",
+      "tones": "2",
+      "meaning": "go; ok; alright",
+      "exampleChinese": "银行在邮局的东边。",
+      "examplePinyin": "Yínháng zài yóujú de dōngbian.",
+      "exampleEnglish": "The bank is east of the post office."
+    },
+    {
+      "level": 3,
+      "hanzi": "行李",
+      "pinyin": "xíngli",
+      "tones": "2 5",
+      "meaning": "luggage",
+      "exampleChinese": "我的行李丢了。",
+      "examplePinyin": "Wǒ de xínglǐ diū le.",
+      "exampleEnglish": "I lost my luggage."
+    },
+    {
+      "level": 3,
+      "hanzi": "兴趣",
+      "pinyin": "xìngqù",
+      "tones": "4 4",
+      "meaning": "interest (desire to know about sth); interest (thing in which one is interested); hobby",
+      "exampleChinese": "我不感兴趣。",
+      "examplePinyin": "Wǒ bùgǎnxìngqù.",
+      "exampleEnglish": "I'm not interested."
+    },
+    {
+      "level": 3,
+      "hanzi": "心里",
+      "pinyin": "xīnli",
+      "tones": "1 5",
+      "meaning": "chest; heart; mind",
+      "exampleChinese": "他在心里反复思量这件事。",
+      "examplePinyin": "Tā zài xīnli fǎnfù sīliáng zhèjiàn shì.",
+      "exampleEnglish": "He turned over the matter in his mind."
+    },
+    {
+      "level": 3,
+      "hanzi": "新年",
+      "pinyin": "xīnnián",
+      "tones": "1 2",
+      "meaning": "New Year",
+      "exampleChinese": "新年好！恭喜发财！",
+      "examplePinyin": "Xīnnián hǎo! Gōngxǐ-fācái!",
+      "exampleEnglish": "Happy New Year! May you prosper!"
+    },
+    {
+      "level": 3,
+      "hanzi": "新闻",
+      "pinyin": "xīnwén",
+      "tones": "1 2",
+      "meaning": "news",
+      "exampleChinese": "你听到新闻了吗？",
+      "examplePinyin": "Nǐ tīngdào xīnwén le ma?",
+      "exampleEnglish": "Did you hear the news?"
+    },
+    {
+      "level": 3,
+      "hanzi": "新鲜",
+      "pinyin": "xīnxiān",
+      "tones": "1 1",
+      "meaning": "fresh (experience, food, etc.); new; novel",
+      "exampleChinese": "面包不新鲜。",
+      "examplePinyin": "Miànbāo bù xīnxiān.",
+      "exampleEnglish": "The bread isn't fresh."
+    },
+    {
+      "level": 3,
+      "hanzi": "信用卡",
+      "pinyin": "xìnyòngkǎ",
+      "tones": "4 4 3",
+      "meaning": "credit card",
+      "exampleChinese": "我可以用哪些信用卡？",
+      "examplePinyin": "Wǒ kěyǐ yòng nǎxiē xìnyòngkǎ?",
+      "exampleEnglish": "Which credit cards can I use?"
+    },
+    {
+      "level": 3,
+      "hanzi": "休假",
+      "pinyin": "xiūjià",
+      "tones": "1 4",
+      "meaning": "to go on vacation; to have a holiday; to take leave",
+      "exampleChinese": "我在休假。",
+      "examplePinyin": "Wǒ zài xiūjià.",
+      "exampleEnglish": "I've been on vacation."
+    },
+    {
+      "level": 3,
+      "hanzi": "洗衣机",
+      "pinyin": "xǐyījī",
+      "tones": "3 1 1",
+      "meaning": "washing machine; washer",
+      "exampleChinese": "洗衣机有些不对劲。",
+      "examplePinyin": "Xǐyījī yǒuxiē búduìjìn.",
+      "exampleEnglish": "Something is wrong with the washing machine."
+    },
+    {
+      "level": 3,
+      "hanzi": "洗澡",
+      "pinyin": "xǐzǎo",
+      "tones": "3 3",
+      "meaning": "take a bath",
+      "exampleChinese": "我要洗澡。",
+      "examplePinyin": "Wǒyào xǐzǎo.",
+      "exampleEnglish": "I want to take a bath."
+    },
+    {
+      "level": 3,
+      "hanzi": "选",
+      "pinyin": "xuǎn",
+      "tones": "3",
+      "meaning": "to choose; to pick; to select",
+      "exampleChinese": "中间选民很重要。",
+      "examplePinyin": "Zhōngjiān xuǎnmín hěn zhòngyào.",
+      "exampleEnglish": "Swing voters are very important."
+    },
+    {
+      "level": 3,
+      "hanzi": "选择",
+      "pinyin": "xuǎnzé",
+      "tones": "3 2",
+      "meaning": "select; to pick; choose",
+      "exampleChinese": "你有选择。",
+      "examplePinyin": "Nǐ yǒu xuǎnzé.",
+      "exampleEnglish": "You do have choices."
+    },
+    {
+      "level": 3,
+      "hanzi": "学期",
+      "pinyin": "xuéqī",
+      "tones": "2 1",
+      "meaning": "semester; school term",
+      "exampleChinese": "这个学期我们有两次考试。",
+      "examplePinyin": "Zhège xuéqī wǒmen yǒu liǎngcì kǎoshì.",
+      "exampleEnglish": "We have two examinations during this term."
+    },
+    {
+      "level": 3,
+      "hanzi": "需要",
+      "pinyin": "xūyào",
+      "tones": "1 4",
+      "meaning": "to need; to want; to demand",
+      "exampleChinese": "我需要帮助。",
+      "examplePinyin": "Wǒ xūyào bāngzhù.",
+      "exampleEnglish": "I need help."
+    },
+    {
+      "level": 3,
+      "hanzi": "牙",
+      "pinyin": "yá",
+      "tones": "2",
+      "meaning": "tooth; ivory",
+      "exampleChinese": "她会说西班牙文。",
+      "examplePinyin": "Tā huì shuō Xībānyáwén.",
+      "exampleEnglish": "She speaks Spanish."
+    },
+    {
+      "level": 3,
+      "hanzi": "羊",
+      "pinyin": "yáng",
+      "tones": "2",
+      "meaning": "sheep; goat",
+      "exampleChinese": "我是白羊座的。",
+      "examplePinyin": "Wǒ shì Báiyángzuò de.",
+      "exampleEnglish": "I'm an Aries."
+    },
+    {
+      "level": 3,
+      "hanzi": "养",
+      "pinyin": "yǎng",
+      "tones": "3",
+      "meaning": "to raise (animals); to bring up (children); to keep (pets)",
+      "exampleChinese": "我家养了两条金鱼。",
+      "examplePinyin": "Wǒ jiā yǎngle liǎng tiáo jīnyú.",
+      "exampleEnglish": "We have two goldfish at home."
+    },
+    {
+      "level": 3,
+      "hanzi": "要求",
+      "pinyin": "yāoqiú",
+      "tones": "1 2",
+      "meaning": "demand; request",
+      "exampleChinese": "他的要求如下。",
+      "examplePinyin": "Tā de yāoqiú rúxià.",
+      "exampleEnglish": "His request is as follows."
+    },
+    {
+      "level": 3,
+      "hanzi": "牙刷",
+      "pinyin": "yáshuā",
+      "tones": "2 1",
+      "meaning": "toothbrush",
+      "exampleChinese": "哪把是我的牙刷？",
+      "examplePinyin": "Nǎ bǎ shì wǒ de yáshuā?",
+      "exampleEnglish": "Which one is my toothbrush?"
+    },
+    {
+      "level": 3,
+      "hanzi": "页",
+      "pinyin": "yè",
+      "tones": "4",
+      "meaning": "page; leaf",
+      "exampleChinese": "他把书翻到下一页。",
+      "examplePinyin": "Tā bǎ shū fān dào xià yī yè.",
+      "exampleEnglish": "He turned to the next page."
+    },
+    {
+      "level": 3,
+      "hanzi": "一般",
+      "pinyin": "yībān",
+      "tones": "1 1",
+      "meaning": "general; ordinary; common",
+      "exampleChinese": "我一般六点起床。",
+      "examplePinyin": "Wǒ yìbān liùdiǎn qǐchuáng.",
+      "exampleEnglish": "I usually get up at six."
+    },
+    {
+      "level": 3,
+      "hanzi": "一边",
+      "pinyin": "yībiān",
+      "tones": "1 1",
+      "meaning": "one side; on the one hand; at the same time",
+      "exampleChinese": "他一边唱歌一边工作。",
+      "examplePinyin": "Tā yībiān chànggē yībiān gōngzuò.",
+      "exampleEnglish": "He sang while working."
+    },
+    {
+      "level": 3,
+      "hanzi": "一定",
+      "pinyin": "yīdìng",
+      "tones": "1 4",
+      "meaning": "surely; certainly; necessarily",
+      "exampleChinese": "她一定是生病了。",
+      "examplePinyin": "Tā yídìng shì shēngbìng le.",
+      "exampleEnglish": "She must be sick."
+    },
+    {
+      "level": 3,
+      "hanzi": "一共",
+      "pinyin": "yīgòng",
+      "tones": "1 4",
+      "meaning": "altogether; in all; all told",
+      "exampleChinese": "你一共花了多少钱？",
+      "examplePinyin": "Nǐ yīgòng huā le duōshǎo qián?",
+      "exampleEnglish": "What is the total amount of money you spent?"
+    },
+    {
+      "level": 3,
+      "hanzi": "以后",
+      "pinyin": "yǐhòu",
+      "tones": "3 4",
+      "meaning": "after; later; afterwards",
+      "exampleChinese": "你以后再也不会看到它了。",
+      "examplePinyin": "Nǐ yǐhòu zàiyěbúhuì kàndào tā le.",
+      "exampleEnglish": "You'll never see that again."
+    },
+    {
+      "level": 3,
+      "hanzi": "一块儿",
+      "pinyin": "yíkuàir",
+      "tones": "2 4 5",
+      "meaning": "erhua variant of 一块",
+      "exampleChinese": "周末我们一块儿去公园吧。",
+      "examplePinyin": "Zhōumò wǒmen yíkuàir qù gōngyuán ba.",
+      "exampleEnglish": "Let us go to the park together this weekend."
+    },
+    {
+      "level": 3,
+      "hanzi": "应该",
+      "pinyin": "yīnggāi",
+      "tones": "1 1",
+      "meaning": "should; ought to; must",
+      "exampleChinese": "别客气，这是我应该做的。",
+      "examplePinyin": "Bié kèqi, zhè shì wǒ yīnggāi zuò de.",
+      "exampleEnglish": "Don’t mention it, it was the least I could do."
+    },
+    {
+      "level": 3,
+      "hanzi": "影响",
+      "pinyin": "yǐngxiǎng",
+      "tones": "3 3",
+      "meaning": "influence; affect; effect",
+      "exampleChinese": "你的影响力是什么？",
+      "examplePinyin": "Nǐ de yǐngxiǎnglì shì shénme?",
+      "exampleEnglish": "What are your influences?"
+    },
+    {
+      "level": 3,
+      "hanzi": "银行",
+      "pinyin": "yínháng",
+      "tones": "2 2",
+      "meaning": "bank",
+      "exampleChinese": "银行在哪里？",
+      "examplePinyin": "Yínháng zài nǎlǐ?",
+      "exampleEnglish": "Where is the bank?"
+    },
+    {
+      "level": 3,
+      "hanzi": "银行卡",
+      "pinyin": "yínhángkǎ",
+      "tones": "2 2 3",
+      "meaning": "bank card",
+      "exampleChinese": "我的银行卡找不到了。",
+      "examplePinyin": "Wǒ de yínhángkǎ zhǎo bu dào le.",
+      "exampleEnglish": "I cannot find my bank card."
+    },
+    {
+      "level": 3,
+      "hanzi": "饮料",
+      "pinyin": "yǐnliào",
+      "tones": "3 4",
+      "meaning": "beverage; drink",
+      "exampleChinese": "你最喜欢的饮料是什么？",
+      "examplePinyin": "Nǐ zuì xǐhuān de yǐnliào shì shénme?",
+      "exampleEnglish": "What's your favorite drink?"
+    },
+    {
+      "level": 3,
+      "hanzi": "音乐",
+      "pinyin": "yīnyuè",
+      "tones": "1 4",
+      "meaning": "music",
+      "exampleChinese": "我爱音乐。",
+      "examplePinyin": "Wǒ ài yīnyuè.",
+      "exampleEnglish": "I love music."
+    },
+    {
+      "level": 3,
+      "hanzi": "以前",
+      "pinyin": "yǐqián",
+      "tones": "3 2",
+      "meaning": "before; formerly; previous",
+      "exampleChinese": "他以前住在这儿。",
+      "examplePinyin": "Tā yǐqián zhù zài zhèér.",
+      "exampleEnglish": "He used to live here."
+    },
+    {
+      "level": 3,
+      "hanzi": "以上",
+      "pinyin": "yǐshàng",
+      "tones": "3 4",
+      "meaning": "that level or higher; that amount or more; the above-mentioned",
+      "exampleChinese": "他有五本以上的字典。",
+      "examplePinyin": "Tā yǒu wǔběn yǐshàng de zìdiǎn.",
+      "exampleEnglish": "He has more than five dictionaries."
+    },
+    {
+      "level": 3,
+      "hanzi": "以外",
+      "pinyin": "yǐwài",
+      "tones": "3 4",
+      "meaning": "apart from; other than; except for",
+      "exampleChinese": "除了相信对方以外，你们没什么要做的了。",
+      "examplePinyin": "Chúle xiāngxìn duìfāng yǐwài, nǐmen méishénme yào zuò de le.",
+      "exampleEnglish": "All you need to do is trust each other."
+    },
+    {
+      "level": 3,
+      "hanzi": "以为",
+      "pinyin": "yǐwéi",
+      "tones": "3 2",
+      "meaning": "think (mistakenly); consider (that); believe",
+      "exampleChinese": "我以为你在听。",
+      "examplePinyin": "Wǒ yǐwéi nǐ zài tīng.",
+      "exampleEnglish": "I thought you were listening."
+    },
+    {
+      "level": 3,
+      "hanzi": "以下",
+      "pinyin": "yǐxià",
+      "tones": "3 4",
+      "meaning": "that level or lower; that amount or less; the following",
+      "exampleChinese": "以下是我们怎么做的。",
+      "examplePinyin": "Yǐxià shì wǒmen zěnme zuò de.",
+      "exampleEnglish": "Here's how we do it."
+    },
+    {
+      "level": 3,
+      "hanzi": "一样",
+      "pinyin": "yīyàng",
+      "tones": "1 4",
+      "meaning": "the same; alike; equal to",
+      "exampleChinese": "他走得像蜗牛一样慢。",
+      "examplePinyin": "Tā zǒu de xiàng wōniú yíyàng màn.",
+      "exampleEnglish": "He walks as slowly as a snail."
+    },
+    {
+      "level": 3,
+      "hanzi": "一直",
+      "pinyin": "yīzhí",
+      "tones": "1 2",
+      "meaning": "always; all along; straight (in a straight line)",
+      "exampleChinese": "你一直忙。",
+      "examplePinyin": "Nǐ yìzhí máng.",
+      "exampleEnglish": "You're always busy."
+    },
+    {
+      "level": 3,
+      "hanzi": "用",
+      "pinyin": "yòng",
+      "tones": "4",
+      "meaning": "to use",
+      "exampleChinese": "内用还是外带？",
+      "examplePinyin": "Nèiyòng háishi wàidài?",
+      "exampleEnglish": "For here or to go?"
+    },
+    {
+      "level": 3,
+      "hanzi": "又",
+      "pinyin": "yòu",
+      "tones": "4",
+      "meaning": "again; both...and...",
+      "exampleChinese": "复印机又坏了。",
+      "examplePinyin": "Fùyìnjī yòu huài le.",
+      "exampleEnglish": "The photocopier is broken again."
+    },
+    {
+      "level": 3,
+      "hanzi": "有关",
+      "pinyin": "yǒuguān",
+      "tones": "3 1",
+      "meaning": "to have sth to do with; to relate to; related to",
+      "exampleChinese": "我爱听有关动物的笑话。",
+      "examplePinyin": "Wǒ ài tīng yǒuguān dòngwù de xiàohuà.",
+      "exampleEnglish": "I love jokes about animals."
+    },
+    {
+      "level": 3,
+      "hanzi": "邮件",
+      "pinyin": "yóujiàn",
+      "tones": "2 4",
+      "meaning": "mail; post; email",
+      "exampleChinese": "你收到了我发的邮件了吗？",
+      "examplePinyin": "Nǐ shōudào le wǒ fā de yóujiàn le ma?",
+      "exampleEnglish": "Did you get my letter?"
+    },
+    {
+      "level": 3,
+      "hanzi": "游客",
+      "pinyin": "yóukè",
+      "tones": "2 4",
+      "meaning": "traveler; tourist; (online gaming) guest player",
+      "exampleChinese": "夏天这里的游客很多。",
+      "examplePinyin": "Xiàtiān zhèlǐ de yóukè hěn duō.",
+      "exampleEnglish": "In summer there are many tourists here."
+    },
+    {
+      "level": 3,
+      "hanzi": "有名",
+      "pinyin": "yǒumíng",
+      "tones": "3 2",
+      "meaning": "famous; well-known",
+      "exampleChinese": "他在日本也很有名。",
+      "examplePinyin": "Tā zài rìběn yě hěn yǒumíng.",
+      "exampleEnglish": "He is also very famous in Japan."
+    },
+    {
+      "level": 3,
+      "hanzi": "游戏",
+      "pinyin": "yóuxì",
+      "tones": "2 4",
+      "meaning": "game; play; recreation",
+      "exampleChinese": "游戏几点开始？",
+      "examplePinyin": "Yóuxì jǐdiǎn kāishǐ?",
+      "exampleEnglish": "When does the game begin?"
+    },
+    {
+      "level": 3,
+      "hanzi": "邮箱",
+      "pinyin": "yóuxiāng",
+      "tones": "2 1",
+      "meaning": "mailbox; post office box; email",
+      "exampleChinese": "这是我的电子邮箱。",
+      "examplePinyin": "Zhè shì wǒ de diànziyóuxiāng.",
+      "exampleEnglish": "This is my email address."
+    },
+    {
+      "level": 3,
+      "hanzi": "有用",
+      "pinyin": "yǒuyòng",
+      "tones": "3 4",
+      "meaning": "useful",
+      "exampleChinese": "真的有用。",
+      "examplePinyin": "Zhēnde yǒuyòng.",
+      "exampleEnglish": "It really works."
+    },
+    {
+      "level": 3,
+      "hanzi": "员",
+      "pinyin": "yuán",
+      "tones": "2",
+      "meaning": "(bound form) person engaged in a certain field of activity; (bound form) member; classifier for military ge…",
+      "exampleChinese": "他是一个推销员。",
+      "examplePinyin": "Tā shì yí ge tuīxiāoyuán.",
+      "exampleEnglish": "He is a salesman."
+    },
+    {
+      "level": 3,
+      "hanzi": "园",
+      "pinyin": "yuán",
+      "tones": "2",
+      "meaning": "land used for growing plants; site used for public recreation; abbr. for a place ending in 园, such as a bot…",
+      "exampleChinese": "这个公园很幽静。",
+      "examplePinyin": "Zhège gōngyuán hěn yōujìng.",
+      "exampleEnglish": "This park is very quiet and secluded."
+    },
+    {
+      "level": 3,
+      "hanzi": "愿意",
+      "pinyin": "yuànyì",
+      "tones": "4 4",
+      "meaning": "be willing; want to; be ready",
+      "exampleChinese": "你愿意来吗？",
+      "examplePinyin": "Nǐ yuànyì lái ma?",
+      "exampleEnglish": "Would you like to come?"
+    },
+    {
+      "level": 3,
+      "hanzi": "遇到",
+      "pinyin": "yùdào",
+      "tones": "4 4",
+      "meaning": "come across; run into; encounter",
+      "exampleChinese": "我在街上遇到他。",
+      "examplePinyin": "Wǒ zài jiēshàng yùdào tā.",
+      "exampleEnglish": "I met him on the street."
+    },
+    {
+      "level": 3,
+      "hanzi": "越",
+      "pinyin": "yuè",
+      "tones": "4",
+      "meaning": "the more...the more...",
+      "exampleChinese": "奶奶最爱看越剧。",
+      "examplePinyin": "Nǎinai zuì ài kàn Yuèjù.",
+      "exampleEnglish": "Grandma loves watching Yue opera more than anything."
+    },
+    {
+      "level": 3,
+      "hanzi": "月亮",
+      "pinyin": "yuèliang",
+      "tones": "4 5",
+      "meaning": "the moon",
+      "exampleChinese": "她在夜晚望著月亮。",
+      "examplePinyin": "Tā zài yèwǎn wàngzhù yuèliàng.",
+      "exampleEnglish": "At night, she gazed at the moon."
+    },
+    {
+      "level": 3,
+      "hanzi": "遇见",
+      "pinyin": "yùjiàn",
+      "tones": "4 4",
+      "meaning": "to meet",
+      "exampleChinese": "我没有遇见她。",
+      "examplePinyin": "Wǒ méiyǒu yùjiàn tā.",
+      "exampleEnglish": "I haven't met her."
+    },
+    {
+      "level": 3,
+      "hanzi": "羽毛球",
+      "pinyin": "yǔmáoqiú",
+      "tones": "3 2 2",
+      "meaning": "badminton",
+      "exampleChinese": "我的爱好是打羽毛球。",
+      "examplePinyin": "Wǒ de àihào shì dǎ yǔmáoqiú.",
+      "exampleEnglish": "My hobby is playing badminton."
+    },
+    {
+      "level": 3,
+      "hanzi": "运动会",
+      "pinyin": "yùndònghuì",
+      "tones": "4 4 4",
+      "meaning": "sports competition",
+      "exampleChinese": "学校下个月开运动会。",
+      "examplePinyin": "Xuéxiào xià ge yuè kāi yùndònghuì.",
+      "exampleEnglish": "The school holds its sports meet next month."
+    },
+    {
+      "level": 3,
+      "hanzi": "运动员",
+      "pinyin": "yùndòngyuán",
+      "tones": "4 4 2",
+      "meaning": "athlete",
+      "exampleChinese": "我一直想成为一名职业篮球运动员。",
+      "examplePinyin": "Wǒ yìzhí xiǎng chéngwéi yīmíng zhíyè lánqiú yùndòngyuán.",
+      "exampleEnglish": "I've always wanted to be a professional basketball player."
+    },
+    {
+      "level": 3,
+      "hanzi": "语言",
+      "pinyin": "yǔyán",
+      "tones": "3 2",
+      "meaning": "language",
+      "exampleChinese": "你会几种语言？",
+      "examplePinyin": "Nǐ huì jǐzhǒng yǔyán?",
+      "exampleEnglish": "How many languages do you know?"
+    },
+    {
+      "level": 3,
+      "hanzi": "雨衣",
+      "pinyin": "yǔyī",
+      "tones": "3 1",
+      "meaning": "raincoat",
+      "exampleChinese": "您最好穿一件雨衣。",
+      "examplePinyin": "Nín zuìhǎo chuān yījiàn yǔyī.",
+      "exampleEnglish": "You'd better put on a raincoat."
+    },
+    {
+      "level": 3,
+      "hanzi": "脏",
+      "pinyin": "zāng",
+      "tones": "1",
+      "meaning": "filthy; dirty",
+      "exampleChinese": "这条河很肮脏。",
+      "examplePinyin": "Zhè tiáo hé hěn āngzāng.",
+      "exampleEnglish": "This river is very dirty."
+    },
+    {
+      "level": 3,
+      "hanzi": "咱们",
+      "pinyin": "zánmen",
+      "tones": "2 5",
+      "meaning": "we (including the listener); us; our",
+      "exampleChinese": "咱们去吃饭吧。",
+      "examplePinyin": "Zánmen qù chīfàn ba.",
+      "exampleEnglish": "Let's go ahead and eat."
+    },
+    {
+      "level": 3,
+      "hanzi": "怎么办",
+      "pinyin": "zěnmebàn",
+      "tones": "3 5 4",
+      "meaning": "what's to be done",
+      "exampleChinese": "该怎么办呢？",
+      "examplePinyin": "Gāi zěnmebàn ne?",
+      "exampleEnglish": "So what do we do now?"
+    },
+    {
+      "level": 3,
+      "hanzi": "怎样",
+      "pinyin": "zěnyàng",
+      "tones": "3 4",
+      "meaning": "how; what kind",
+      "exampleChinese": "她是怎样的人呢？",
+      "examplePinyin": "Tā shì zěnyàng de rén ne?",
+      "exampleEnglish": "What kind of person is she?"
+    },
+    {
+      "level": 3,
+      "hanzi": "站",
+      "pinyin": "zhàn",
+      "tones": "4",
+      "meaning": "to stand; to halt; to stop",
+      "exampleChinese": "请大家站起来。",
+      "examplePinyin": "Qǐng dàjiā zhàn qǐlai.",
+      "exampleEnglish": "Everyone, please stand up."
+    },
+    {
+      "level": 3,
+      "hanzi": "长",
+      "pinyin": "zhǎng",
+      "tones": "3",
+      "meaning": "grow; grow up; increase",
+      "exampleChinese": "店长今天不在。",
+      "examplePinyin": "Diànzhǎng jīntiān bú zài.",
+      "exampleEnglish": "The store manager is not in today."
+    },
+    {
+      "level": 3,
+      "hanzi": "张",
+      "pinyin": "zhāng",
+      "tones": "1",
+      "meaning": "(measure word for flat objects); spread; sheet of paper",
+      "exampleChinese": "我买了一张预付卡。",
+      "examplePinyin": "Wǒ mǎile yì zhāng yùfùkǎ.",
+      "exampleEnglish": "I bought a prepaid card."
+    },
+    {
+      "level": 3,
+      "hanzi": "照",
+      "pinyin": "zhào",
+      "tones": "4",
+      "meaning": "to shine; illuminate; according to",
+      "exampleChinese": "照理说他应该到了。",
+      "examplePinyin": "Zhàolǐ shuō tā yīnggāi dào le.",
+      "exampleEnglish": "By rights he should have arrived by now."
+    },
+    {
+      "level": 3,
+      "hanzi": "照顾",
+      "pinyin": "zhàogu",
+      "tones": "4 5",
+      "meaning": "take care of; look after; give consideration",
+      "exampleChinese": "照顾好自己。",
+      "examplePinyin": "Zhàogu hǎo zìjǐ.",
+      "exampleEnglish": "Take care!"
+    },
+    {
+      "level": 3,
+      "hanzi": "着急",
+      "pinyin": "zháojí",
+      "tones": "2 2",
+      "meaning": "to worry; feel anxious",
+      "exampleChinese": "你不要着急。",
+      "examplePinyin": "Nǐ búyào zháojí.",
+      "exampleEnglish": "Don't worry."
+    },
+    {
+      "level": 3,
+      "hanzi": "照片",
+      "pinyin": "zhàopiàn",
+      "tones": "4 4",
+      "meaning": "picture; photograph",
+      "exampleChinese": "她喜欢拍照片。",
+      "examplePinyin": "Tā xǐhuān pāizhàopiān.",
+      "exampleEnglish": "She's fond of taking pictures."
+    },
+    {
+      "level": 3,
+      "hanzi": "照相",
+      "pinyin": "zhàoxiàng",
+      "tones": "4 4",
+      "meaning": "to take a photograph",
+      "exampleChinese": "你有照相机吗？",
+      "examplePinyin": "Nǐ yǒu zhàoxiàngjī ma?",
+      "exampleEnglish": "Do you have a camera?"
+    },
+    {
+      "level": 3,
+      "hanzi": "只",
+      "pinyin": "zhǐ",
+      "tones": "3",
+      "meaning": "only; merely",
+      "exampleChinese": "只要十元！",
+      "examplePinyin": "Zhǐyào shíyuán!",
+      "exampleEnglish": "It only costs $10.00!"
+    },
+    {
+      "level": 3,
+      "hanzi": "纸",
+      "pinyin": "zhǐ",
+      "tones": "3",
+      "meaning": "paper; classifier for documents, letters etc",
+      "exampleChinese": "请把纸杯丢进去。",
+      "examplePinyin": "Qǐng bǎ zhǐbēi diū jìnqu.",
+      "exampleEnglish": "Please throw the paper cup in."
+    },
+    {
+      "level": 3,
+      "hanzi": "直到",
+      "pinyin": "zhídào",
+      "tones": "2 4",
+      "meaning": "until",
+      "exampleChinese": "坚持下去直到我找到你。",
+      "examplePinyin": "Jiānchíxiàqù zhídào wǒ zhǎodào nǐ.",
+      "exampleEnglish": "Hang on till I get to you."
+    },
+    {
+      "level": 3,
+      "hanzi": "只能",
+      "pinyin": "zhǐnéng",
+      "tones": "3 2",
+      "meaning": "can only; obliged to do sth; to have no other choice",
+      "exampleChinese": "我只能给你十分钟。",
+      "examplePinyin": "Wǒ zhǐnéng gěi nǐ shífēnzhōng.",
+      "exampleEnglish": "I can only give you ten minutes."
+    },
+    {
+      "level": 3,
+      "hanzi": "只是",
+      "pinyin": "zhǐshì",
+      "tones": "3 4",
+      "meaning": "merely; only; just",
+      "exampleChinese": "我只是想要你来。",
+      "examplePinyin": "Wǒ zhǐshì xiǎngyào nǐ lái.",
+      "exampleEnglish": "I just want you to come."
+    },
+    {
+      "level": 3,
+      "hanzi": "只要",
+      "pinyin": "zhǐyào",
+      "tones": "3 4",
+      "meaning": "so long as; if only; provided that",
+      "exampleChinese": "只要十元！",
+      "examplePinyin": "Zhǐyào shíyuán!",
+      "exampleEnglish": "It only costs $10.00!"
+    },
+    {
+      "level": 3,
+      "hanzi": "只有",
+      "pinyin": "zhǐyǒu",
+      "tones": "3 3",
+      "meaning": "only; alone",
+      "exampleChinese": "我们只有茶水。",
+      "examplePinyin": "Wǒmen zhǐyǒu cháshuǐ.",
+      "exampleEnglish": "We only have tea."
+    },
+    {
+      "level": 3,
+      "hanzi": "种",
+      "pinyin": "zhǒng",
+      "tones": "3",
+      "meaning": "kind; seed",
+      "exampleChinese": "我买了好几种水果。",
+      "examplePinyin": "Wǒ mǎile hǎo jǐ zhǒng shuǐguǒ.",
+      "exampleEnglish": "I bought several kinds of fruit."
+    },
+    {
+      "level": 3,
+      "hanzi": "中",
+      "pinyin": "zhōng",
+      "tones": "1",
+      "meaning": "(bound form) China; Chinese; within",
+      "exampleChinese": "她在中间。",
+      "examplePinyin": "Tā zài zhōngjiān.",
+      "exampleEnglish": "She's in the middle."
+    },
+    {
+      "level": 3,
+      "hanzi": "中间",
+      "pinyin": "zhōngjiān",
+      "tones": "1 1",
+      "meaning": "center; middle; between",
+      "exampleChinese": "路中间有一辆卡车。",
+      "examplePinyin": "Lù zhōngjiān yǒu yīliàng kǎchē.",
+      "exampleEnglish": "A truck was standing in the middle of the road."
+    },
+    {
+      "level": 3,
+      "hanzi": "重要",
+      "pinyin": "zhòngyào",
+      "tones": "4 4",
+      "meaning": "important; significant; major",
+      "exampleChinese": "中间选民很重要。",
+      "examplePinyin": "Zhōngjiān xuǎnmín hěn zhòngyào.",
+      "exampleEnglish": "Swing voters are very important."
+    },
+    {
+      "level": 3,
+      "hanzi": "终于",
+      "pinyin": "zhōngyú",
+      "tones": "1 2",
+      "meaning": "at last; in the end; finally",
+      "exampleChinese": "终于不下雨了。",
+      "examplePinyin": "Zhōngyú búxiàyǔ le.",
+      "exampleEnglish": "At last it's stopped raining."
+    },
+    {
+      "level": 3,
+      "hanzi": "周末",
+      "pinyin": "zhōumò",
+      "tones": "1 4",
+      "meaning": "weekend",
+      "exampleChinese": "我们周末去平溪玩。",
+      "examplePinyin": "Wǒmen zhōumò qù Píngxī wán.",
+      "exampleEnglish": "We are going to Pingxi at the weekend."
+    },
+    {
+      "level": 3,
+      "hanzi": "主要",
+      "pinyin": "zhǔyào",
+      "tones": "3 4",
+      "meaning": "main; principal; major",
+      "exampleChinese": "结婚是所有离婚的主要原因。",
+      "examplePinyin": "Jiéhūn shì suǒyǒu líhūn de zhǔyào yuányīn.",
+      "exampleEnglish": "Marriage is the main cause of all divorces."
+    },
+    {
+      "level": 3,
+      "hanzi": "注意",
+      "pinyin": "zhùyì",
+      "tones": "4 4",
+      "meaning": "pay attention to; take notice of; be careful",
+      "exampleChinese": "注意言行！",
+      "examplePinyin": "Zhùyì yánxíng!",
+      "exampleEnglish": "Be careful what you say."
+    },
+    {
+      "level": 3,
+      "hanzi": "住院",
+      "pinyin": "zhùyuàn",
+      "tones": "4 4",
+      "meaning": "to stay in hospital; to be hospitalized",
+      "exampleChinese": "汤姆已经住院一个月了。",
+      "examplePinyin": "Tāngmǔ yǐjīng zhùyuàn yígèyuè le.",
+      "exampleEnglish": "Tom has been in the hospital for a month."
+    },
+    {
+      "level": 3,
+      "hanzi": "子",
+      "pinyin": "zi",
+      "tones": "5",
+      "meaning": "noun suffix, as in 椅子 \"chair\"",
+      "exampleChinese": "我个子高。",
+      "examplePinyin": "Wǒ gèzi gāo.",
+      "exampleEnglish": "I'm tall."
+    },
+    {
+      "level": 3,
+      "hanzi": "字典",
+      "pinyin": "zìdiǎn",
+      "tones": "4 3",
+      "meaning": "(coll.) dictionary; Chinese character dictionary (containing entries for single characters, contrasted with…",
+      "exampleChinese": "我有本字典。",
+      "examplePinyin": "Wǒ yǒu běn zìdiǎn.",
+      "exampleEnglish": "I have a dictionary."
+    },
+    {
+      "level": 3,
+      "hanzi": "自行车",
+      "pinyin": "zìxíngchē",
+      "tones": "4 2 1",
+      "meaning": "bike; bicycle",
+      "exampleChinese": "这是我的自行车。",
+      "examplePinyin": "Zhè shì wǒ de zìxíngchē.",
+      "exampleEnglish": "It's my bicycle."
+    },
+    {
+      "level": 3,
+      "hanzi": "总",
+      "pinyin": "zǒng",
+      "tones": "3",
+      "meaning": "(bound form) general; overall; to sum up",
+      "exampleChinese": "人总要学会长大。",
+      "examplePinyin": "Rén zǒngyào xuéhuì zhǎngdà.",
+      "exampleEnglish": "Everyone has to grow up sometime."
+    },
+    {
+      "level": 3,
+      "hanzi": "总是",
+      "pinyin": "zǒngshì",
+      "tones": "3 4",
+      "meaning": "always; invariably",
+      "exampleChinese": "我总是有事。",
+      "examplePinyin": "Wǒ zǒngshì yǒushì.",
+      "exampleEnglish": "I'm always busy."
+    },
+    {
+      "level": 3,
+      "hanzi": "嘴",
+      "pinyin": "zuǐ",
+      "tones": "3",
+      "meaning": "mouth",
+      "exampleChinese": "请你闭嘴，好吗？",
+      "examplePinyin": "Qǐng nǐ bìzuǐ, hǎo ma?",
+      "exampleEnglish": "Could you please be quiet?"
+    },
+    {
+      "level": 3,
+      "hanzi": "最好",
+      "pinyin": "zuìhǎo",
+      "tones": "4 3",
+      "meaning": "the best; had better ...; it would be best",
+      "exampleChinese": "你最好去。",
+      "examplePinyin": "Nǐ zuìhǎo qù.",
+      "exampleEnglish": "You should go."
+    },
+    {
+      "level": 3,
+      "hanzi": "最后",
+      "pinyin": "zuìhòu",
+      "tones": "4 4",
+      "meaning": "last; final; ultimately",
+      "exampleChinese": "昨天是最后一天上学。",
+      "examplePinyin": "Zuótiān shì zuìhòu yītiān shàngxué.",
+      "exampleEnglish": "Yesterday was the last day of school."
+    },
+    {
+      "level": 3,
+      "hanzi": "最近",
+      "pinyin": "zuìjìn",
+      "tones": "4 4",
+      "meaning": "recently; lately; soon",
+      "exampleChinese": "我最近很忙。",
+      "examplePinyin": "Wǒ zuìjìn hěn máng.",
+      "exampleEnglish": "I'm very busy these days."
+    },
+    {
+      "level": 3,
+      "hanzi": "做客",
+      "pinyin": "zuòkè",
+      "tones": "4 4",
+      "meaning": "to be a guest or visitor",
+      "exampleChinese": "星期天我去朋友家做客。",
+      "examplePinyin": "Xīngqītiān wǒ qù péngyou jiā zuòkè.",
+      "exampleEnglish": "On Sunday I visit my friend’s home as a guest."
+    },
+    {
+      "level": 3,
+      "hanzi": "作业",
+      "pinyin": "zuòyè",
+      "tones": "4 4",
+      "meaning": "school assignment; homework; task",
+      "exampleChinese": "没写作业。",
+      "examplePinyin": "Méi xiě zuòyè.",
+      "exampleEnglish": "I didn't do the homework."
+    }
+  ]
+}
