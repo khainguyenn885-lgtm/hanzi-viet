@@ -189,7 +189,8 @@ db.exec("CREATE INDEX IF NOT EXISTS vocabulary_en_search_idx ON vocabulary(en_se
 db.exec("CREATE INDEX IF NOT EXISTS vocabulary_hv_search_idx ON vocabulary(hv_search COLLATE NOCASE)");
 
 const catalogFile = path.join(dataDir, "hsk-words.json");
-if (existsSync(catalogFile)) {
+const vocabCount = (db.prepare("SELECT COUNT(*) AS n FROM vocabulary").get() as { n: number }).n;
+if (vocabCount === 0 && existsSync(catalogFile)) {
   const catalog = JSON.parse(readFileSync(catalogFile, "utf8")) as { data: WordRecord[] };
   const insert = db.prepare(`INSERT INTO vocabulary
     (id, source, level, hanzi, pinyin, pinyin_search, tones, meaning_en, meaning_vi, han_viet, vi_search, en_search, hv_search, pos, example_zh,
