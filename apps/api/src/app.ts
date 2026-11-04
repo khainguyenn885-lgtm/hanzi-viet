@@ -23,6 +23,7 @@ app.use("/api/chat", chatRouter);
 app.use("/api/admin/support", supportAdminRouter);
 app.use("/api/admin", adminRouter);
 
+
 app.post("/api/analyze", (req, res) => {
   const parsed = z.object({ text: z.string().trim().min(1).max(4000) }).safeParse(req.body);
   if (!parsed.success) return res.status(400).json({ error: "INVALID_TEXT" });
